@@ -1,0 +1,26 @@
+
+
+local#
+
+ssh -L 5555:localhost:5555 root@10.0.0.23
+
+server#
+mkfifo /tmp/fifo
+nc -l -p 5555 < /tmp/fifo | nc -u 192.168.1.11 161 > /tmp/fifo
+
+local#
+mkfifo /Users/svdu/temp/fifo
+sudo nc -l -u -p 161 < /Users/svdu/temp/fifo | nc localhost 5555 > /Users/svdu/temp/fifo
+
+///////////////
+//// SOCAT
+//////////////
+
+client$
+ssh -L 5555:localhost:5555 root@10.0.0.23
+
+server$
+socat -T10 TCP4-LISTEN:5555,fork UDP4:192.168.1.11:161
+
+client$
+sudo socat UDP4-LISTEN:161,fork TCP4:localhost:5555

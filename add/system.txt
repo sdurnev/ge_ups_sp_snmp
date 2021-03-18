@@ -1,0 +1,32 @@
+
+
+System
+Host name	GE-UPS-Interface
+Operating system	Linux 2.6.30 | #31 Fri Jan 15 14:38:50 CST 2016
+Firmware version	GE SNMP/Web Interface Ver.4.16 (2018/12/07)
+
+
+
+UPSSystem identification
+Manufacturer	GE
+Model	SitePro
+Serial Number	A80301215B904B
+Software Version	2.31
+ComProt Version	Prot 1.0.1.1
+UPS Attached Device	UPS attached device
+
+UPS1 identification
+Manufacturer	GE
+Model	SitePro
+Serial Number	A80301215B904B
+Software Version	2.31
+ComProt Version	Prot 1.0.1.1
+UPS Attached Device	UPS attached device
+
+UPS2 identification
+Manufacturer	GE
+Model	SitePro
+Serial Number	A80301215B905B
+Software Version	2.31
+ComProt Version	Prot 1.0.1.1
+UPS Attached Device	UPS attached device

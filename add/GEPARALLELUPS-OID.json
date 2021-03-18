@@ -1,0 +1,6698 @@
+[
+  {
+    "geGenericUPS": "1.3.6.1.4.1.818.1.1.10"
+  },
+  {
+    "upsIdent": "1.3.6.1.4.1.818.1.1.10.1"
+  },
+  {
+    "upsIdentManufacturer": "1.3.6.1.4.1.818.1.1.10.1.1"
+  },
+  {
+    "upsIdentModel": "1.3.6.1.4.1.818.1.1.10.1.2"
+  },
+  {
+    "upsIdentUPSSoftwareVersion": "1.3.6.1.4.1.818.1.1.10.1.3"
+  },
+  {
+    "upsIdentAgentSoftwareVersion": "1.3.6.1.4.1.818.1.1.10.1.4"
+  },
+  {
+    "upsIdentName": "1.3.6.1.4.1.818.1.1.10.1.5"
+  },
+  {
+    "upsIdentAttachedDevices": "1.3.6.1.4.1.818.1.1.10.1.6"
+  },
+  {
+    "upsIdentUPSSerialNumber": "1.3.6.1.4.1.818.1.1.10.1.7"
+  },
+  {
+    "upsIdentComProtVersion": "1.3.6.1.4.1.818.1.1.10.1.8"
+  },
+  {
+    "upsIdentOperatingTime": "1.3.6.1.4.1.818.1.1.10.1.9"
+  },
+  {
+    "upsBattery": "1.3.6.1.4.1.818.1.1.10.2"
+  },
+  {
+    "upsBatteryStatus": "1.3.6.1.4.1.818.1.1.10.2.1"
+  },
+  {
+    "upsSecondsOnBattery": "1.3.6.1.4.1.818.1.1.10.2.2"
+  },
+  {
+    "upsEstimatedMinutesRemaining": "1.3.6.1.4.1.818.1.1.10.2.3"
+  },
+  {
+    "upsEstimatedChargeRemaining": "1.3.6.1.4.1.818.1.1.10.2.4"
+  },
+  {
+    "upsBatteryVoltage": "1.3.6.1.4.1.818.1.1.10.2.5"
+  },
+  {
+    "upsBatteryCurrent": "1.3.6.1.4.1.818.1.1.10.2.6"
+  },
+  {
+    "upsBatteryTemperature": "1.3.6.1.4.1.818.1.1.10.2.7"
+  },
+  {
+    "upsBatteryRipple": "1.3.6.1.4.1.818.1.1.10.2.8"
+  },
+  {
+    "upsInput": "1.3.6.1.4.1.818.1.1.10.3"
+  },
+  {
+    "upsInputLineBads": "1.3.6.1.4.1.818.1.1.10.3.1"
+  },
+  {
+    "upsInputNumLines": "1.3.6.1.4.1.818.1.1.10.3.2"
+  },
+  {
+    "upsInputTable": "1.3.6.1.4.1.818.1.1.10.3.3"
+  },
+  {
+    "upsInputEntry": "1.3.6.1.4.1.818.1.1.10.3.3.1"
+  },
+  {
+    "upsInputLineIndex": "1.3.6.1.4.1.818.1.1.10.3.3.1.1"
+  },
+  {
+    "upsInputFrequency": "1.3.6.1.4.1.818.1.1.10.3.3.1.2"
+  },
+  {
+    "upsInputVoltage": "1.3.6.1.4.1.818.1.1.10.3.3.1.3"
+  },
+  {
+    "upsInputCurrent": "1.3.6.1.4.1.818.1.1.10.3.3.1.4"
+  },
+  {
+    "upsInputTruePower": "1.3.6.1.4.1.818.1.1.10.3.3.1.5"
+  },
+  {
+    "upsInputVoltageMin": "1.3.6.1.4.1.818.1.1.10.3.3.1.6"
+  },
+  {
+    "upsInputVoltageMax": "1.3.6.1.4.1.818.1.1.10.3.3.1.7"
+  },
+  {
+    "upsOutput": "1.3.6.1.4.1.818.1.1.10.4"
+  },
+  {
+    "upsOutputSource": "1.3.6.1.4.1.818.1.1.10.4.1"
+  },
+  {
+    "upsOutputFrequency": "1.3.6.1.4.1.818.1.1.10.4.2"
+  },
+  {
+    "upsOutputNumLines": "1.3.6.1.4.1.818.1.1.10.4.3"
+  },
+  {
+    "upsOutputTable": "1.3.6.1.4.1.818.1.1.10.4.4"
+  },
+  {
+    "upsOutputEntry": "1.3.6.1.4.1.818.1.1.10.4.4.1"
+  },
+  {
+    "upsOutputLineIndex": "1.3.6.1.4.1.818.1.1.10.4.4.1.1"
+  },
+  {
+    "upsOutputVoltage": "1.3.6.1.4.1.818.1.1.10.4.4.1.2"
+  },
+  {
+    "upsOutputCurrent": "1.3.6.1.4.1.818.1.1.10.4.4.1.3"
+  },
+  {
+    "upsOutputPower": "1.3.6.1.4.1.818.1.1.10.4.4.1.4"
+  },
+  {
+    "upsOutputPercentLoad": "1.3.6.1.4.1.818.1.1.10.4.4.1.5"
+  },
+  {
+    "upsOutputPowerFactor": "1.3.6.1.4.1.818.1.1.10.4.4.1.6"
+  },
+  {
+    "upsOutputPeakCurrent": "1.3.6.1.4.1.818.1.1.10.4.4.1.7"
+  },
+  {
+    "upsOutputShareCurrent": "1.3.6.1.4.1.818.1.1.10.4.4.1.8"
+  },
+  {
+    "upsBypass": "1.3.6.1.4.1.818.1.1.10.5"
+  },
+  {
+    "upsBypassFrequency": "1.3.6.1.4.1.818.1.1.10.5.1"
+  },
+  {
+    "upsBypassNumLines": "1.3.6.1.4.1.818.1.1.10.5.2"
+  },
+  {
+    "upsBypassTable": "1.3.6.1.4.1.818.1.1.10.5.3"
+  },
+  {
+    "upsBypassEntry": "1.3.6.1.4.1.818.1.1.10.5.3.1"
+  },
+  {
+    "upsBypassLineIndex": "1.3.6.1.4.1.818.1.1.10.5.3.1.1"
+  },
+  {
+    "upsBypassVoltage": "1.3.6.1.4.1.818.1.1.10.5.3.1.2"
+  },
+  {
+    "upsBypassCurrent": "1.3.6.1.4.1.818.1.1.10.5.3.1.3"
+  },
+  {
+    "upsBypassPower": "1.3.6.1.4.1.818.1.1.10.5.3.1.4"
+  },
+  {
+    "upsAlarm": "1.3.6.1.4.1.818.1.1.10.6"
+  },
+  {
+    "upsAlarmsPresent": "1.3.6.1.4.1.818.1.1.10.6.1"
+  },
+  {
+    "upsAlarmTable": "1.3.6.1.4.1.818.1.1.10.6.2"
+  },
+  {
+    "upsAlarmEntry": "1.3.6.1.4.1.818.1.1.10.6.2.1"
+  },
+  {
+    "upsAlarmId": "1.3.6.1.4.1.818.1.1.10.6.2.1.1"
+  },
+  {
+    "upsAlarmDescr": "1.3.6.1.4.1.818.1.1.10.6.2.1.2"
+  },
+  {
+    "upsAlarmTime": "1.3.6.1.4.1.818.1.1.10.6.2.1.3"
+  },
+  {
+    "upsWellKnownAlarms": "1.3.6.1.4.1.818.1.1.10.6.3"
+  },
+  {
+    "upsAlarmBatteryBad": "1.3.6.1.4.1.818.1.1.10.6.3.1"
+  },
+  {
+    "upsAlarmOnBattery": "1.3.6.1.4.1.818.1.1.10.6.3.2"
+  },
+  {
+    "upsAlarmLowBattery": "1.3.6.1.4.1.818.1.1.10.6.3.3"
+  },
+  {
+    "upsAlarmDepletedBattery": "1.3.6.1.4.1.818.1.1.10.6.3.4"
+  },
+  {
+    "upsAlarmTempBad": "1.3.6.1.4.1.818.1.1.10.6.3.5"
+  },
+  {
+    "upsAlarmInputBad": "1.3.6.1.4.1.818.1.1.10.6.3.6"
+  },
+  {
+    "upsAlarmOutputBad": "1.3.6.1.4.1.818.1.1.10.6.3.7"
+  },
+  {
+    "upsAlarmOutputOverload": "1.3.6.1.4.1.818.1.1.10.6.3.8"
+  },
+  {
+    "upsAlarmOnBypass": "1.3.6.1.4.1.818.1.1.10.6.3.9"
+  },
+  {
+    "upsAlarmBypassBad": "1.3.6.1.4.1.818.1.1.10.6.3.10"
+  },
+  {
+    "upsAlarmOutputOffAsRequested": "1.3.6.1.4.1.818.1.1.10.6.3.11"
+  },
+  {
+    "upsAlarmUpsOffAsRequested": "1.3.6.1.4.1.818.1.1.10.6.3.12"
+  },
+  {
+    "upsAlarmChargerFailed": "1.3.6.1.4.1.818.1.1.10.6.3.13"
+  },
+  {
+    "upsAlarmUpsOutputOff": "1.3.6.1.4.1.818.1.1.10.6.3.14"
+  },
+  {
+    "upsAlarmUpsSystemOff": "1.3.6.1.4.1.818.1.1.10.6.3.15"
+  },
+  {
+    "upsAlarmFanFailure": "1.3.6.1.4.1.818.1.1.10.6.3.16"
+  },
+  {
+    "upsAlarmFuseFailure": "1.3.6.1.4.1.818.1.1.10.6.3.17"
+  },
+  {
+    "upsAlarmGeneralFault": "1.3.6.1.4.1.818.1.1.10.6.3.18"
+  },
+  {
+    "upsAlarmDiagnosticTestFailed": "1.3.6.1.4.1.818.1.1.10.6.3.19"
+  },
+  {
+    "upsAlarmCommunicationsLost": "1.3.6.1.4.1.818.1.1.10.6.3.20"
+  },
+  {
+    "upsAlarmAwaitingPower": "1.3.6.1.4.1.818.1.1.10.6.3.21"
+  },
+  {
+    "upsAlarmShutdownPending": "1.3.6.1.4.1.818.1.1.10.6.3.22"
+  },
+  {
+    "upsAlarmShutdownImminent": "1.3.6.1.4.1.818.1.1.10.6.3.23"
+  },
+  {
+    "upsAlarmTestInProgress": "1.3.6.1.4.1.818.1.1.10.6.3.24"
+  },
+  {
+    "upsAlarmReceptacleOff": "1.3.6.1.4.1.818.1.1.10.6.3.25"
+  },
+  {
+    "upsAlarmHighSpeedBusFailure": "1.3.6.1.4.1.818.1.1.10.6.3.26"
+  },
+  {
+    "upsAlarmHighSpeedBusJACRCFailure": "1.3.6.1.4.1.818.1.1.10.6.3.27"
+  },
+  {
+    "upsAlarmConnectivityBusFailure": "1.3.6.1.4.1.818.1.1.10.6.3.28"
+  },
+  {
+    "upsAlarmHighSpeedBusJBCRCFailure": "1.3.6.1.4.1.818.1.1.10.6.3.29"
+  },
+  {
+    "upsAlarmCurrentSharing": "1.3.6.1.4.1.818.1.1.10.6.3.30"
+  },
+  {
+    "upsAlarmDCRipple": "1.3.6.1.4.1.818.1.1.10.6.3.31"
+  },
+  {
+    "upsAlarmMaskA": "1.3.6.1.4.1.818.1.1.10.6.4"
+  },
+  {
+    "upsTest": "1.3.6.1.4.1.818.1.1.10.7"
+  },
+  {
+    "upsTestId": "1.3.6.1.4.1.818.1.1.10.7.1"
+  },
+  {
+    "upsTestSpinLock": "1.3.6.1.4.1.818.1.1.10.7.2"
+  },
+  {
+    "upsTestResultsSummary": "1.3.6.1.4.1.818.1.1.10.7.3"
+  },
+  {
+    "upsTestResultsDetail": "1.3.6.1.4.1.818.1.1.10.7.4"
+  },
+  {
+    "upsTestStartTime": "1.3.6.1.4.1.818.1.1.10.7.5"
+  },
+  {
+    "upsTestElapsedTime": "1.3.6.1.4.1.818.1.1.10.7.6"
+  },
+  {
+    "upsWellKnownTests": "1.3.6.1.4.1.818.1.1.10.7.7"
+  },
+  {
+    "upsTestNoTestsInitiated": "1.3.6.1.4.1.818.1.1.10.7.7.1"
+  },
+  {
+    "upsTestAbortTestInProgress": "1.3.6.1.4.1.818.1.1.10.7.7.2"
+  },
+  {
+    "upsTestGeneralSystemsTest": "1.3.6.1.4.1.818.1.1.10.7.7.3"
+  },
+  {
+    "upsTestQuickBatteryTest": "1.3.6.1.4.1.818.1.1.10.7.7.4"
+  },
+  {
+    "upsTestDeepBatteryCalibration": "1.3.6.1.4.1.818.1.1.10.7.7.5"
+  },
+  {
+    "upsControl": "1.3.6.1.4.1.818.1.1.10.8"
+  },
+  {
+    "upsShutdownType": "1.3.6.1.4.1.818.1.1.10.8.1"
+  },
+  {
+    "upsShutdownAfterDelay": "1.3.6.1.4.1.818.1.1.10.8.2"
+  },
+  {
+    "upsStartupAfterDelay": "1.3.6.1.4.1.818.1.1.10.8.3"
+  },
+  {
+    "upsRebootWithDuration": "1.3.6.1.4.1.818.1.1.10.8.4"
+  },
+  {
+    "upsAutoRestart": "1.3.6.1.4.1.818.1.1.10.8.5"
+  },
+  {
+    "upsReceptaclesNum": "1.3.6.1.4.1.818.1.1.10.8.6"
+  },
+  {
+    "upsReceptacleTable": "1.3.6.1.4.1.818.1.1.10.8.7"
+  },
+  {
+    "upsReceptacleEntry": "1.3.6.1.4.1.818.1.1.10.8.7.1"
+  },
+  {
+    "upsReceptacleLineIndex": "1.3.6.1.4.1.818.1.1.10.8.7.1.1"
+  },
+  {
+    "upsReceptacleOnOff": "1.3.6.1.4.1.818.1.1.10.8.7.1.2"
+  },
+  {
+    "upsUPSMode": "1.3.6.1.4.1.818.1.1.10.8.8"
+  },
+  {
+    "upsRectifierOnOff": "1.3.6.1.4.1.818.1.1.10.8.9"
+  },
+  {
+    "upsBatteryChargeMethod": "1.3.6.1.4.1.818.1.1.10.8.10"
+  },
+  {
+    "upsInverterOnOff": "1.3.6.1.4.1.818.1.1.10.8.11"
+  },
+  {
+    "upsBypassOnOff": "1.3.6.1.4.1.818.1.1.10.8.12"
+  },
+  {
+    "upsLoadSource": "1.3.6.1.4.1.818.1.1.10.8.13"
+  },
+  {
+    "upsConfig": "1.3.6.1.4.1.818.1.1.10.9"
+  },
+  {
+    "upsConfigInputVoltage": "1.3.6.1.4.1.818.1.1.10.9.1"
+  },
+  {
+    "upsConfigInputFreq": "1.3.6.1.4.1.818.1.1.10.9.2"
+  },
+  {
+    "upsConfigOutputVoltage": "1.3.6.1.4.1.818.1.1.10.9.3"
+  },
+  {
+    "upsConfigOutputFreq": "1.3.6.1.4.1.818.1.1.10.9.4"
+  },
+  {
+    "upsConfigOutputVA": "1.3.6.1.4.1.818.1.1.10.9.5"
+  },
+  {
+    "upsConfigOutputPower": "1.3.6.1.4.1.818.1.1.10.9.6"
+  },
+  {
+    "upsConfigLowBattTime": "1.3.6.1.4.1.818.1.1.10.9.7"
+  },
+  {
+    "upsConfigAudibleStatus": "1.3.6.1.4.1.818.1.1.10.9.8"
+  },
+  {
+    "upsConfigLowVoltageTransferPoint": "1.3.6.1.4.1.818.1.1.10.9.9"
+  },
+  {
+    "upsConfigHighVoltageTransferPoint": "1.3.6.1.4.1.818.1.1.10.9.10"
+  },
+  {
+    "upsConfigBatteryCapacity": "1.3.6.1.4.1.818.1.1.10.9.11"
+  },
+  {
+    "upsConfigBatteryChargeCurrent": "1.3.6.1.4.1.818.1.1.10.9.12"
+  },
+  {
+    "upsConfigNoLoadShutdown": "1.3.6.1.4.1.818.1.1.10.9.13"
+  },
+  {
+    "upsConfigStartDelay": "1.3.6.1.4.1.818.1.1.10.9.14"
+  },
+  {
+    "upsGetSet": "1.3.6.1.4.1.818.1.1.10.10"
+  },
+  {
+    "upsEventGetNext": "1.3.6.1.4.1.818.1.1.10.10.1"
+  },
+  {
+    "upsEventGetPrevious": "1.3.6.1.4.1.818.1.1.10.10.2"
+  },
+  {
+    "upsEventSetStartingTimeStamp": "1.3.6.1.4.1.818.1.1.10.10.3"
+  },
+  {
+    "upsEventRetreiveCurrentTimeStamp": "1.3.6.1.4.1.818.1.1.10.10.4"
+  },
+  {
+    "upsEventTableSize": "1.3.6.1.4.1.818.1.1.10.10.5"
+  },
+  {
+    "upsEventTable": "1.3.6.1.4.1.818.1.1.10.10.6"
+  },
+  {
+    "upsEventEntry": "1.3.6.1.4.1.818.1.1.10.10.6.1"
+  },
+  {
+    "upsEventLineIndex": "1.3.6.1.4.1.818.1.1.10.10.6.1.1"
+  },
+  {
+    "upsEventCode": "1.3.6.1.4.1.818.1.1.10.10.6.1.2"
+  },
+  {
+    "upsEventStatus": "1.3.6.1.4.1.818.1.1.10.10.6.1.3"
+  },
+  {
+    "upsEventTime": "1.3.6.1.4.1.818.1.1.10.10.6.1.4"
+  },
+  {
+    "upsParametersRead": "1.3.6.1.4.1.818.1.1.10.10.7"
+  },
+  {
+    "upsParametersWrite": "1.3.6.1.4.1.818.1.1.10.10.8"
+  },
+  {
+    "upsParametersStartAddress": "1.3.6.1.4.1.818.1.1.10.10.9"
+  },
+  {
+    "upsParameterTableSize": "1.3.6.1.4.1.818.1.1.10.10.10"
+  },
+  {
+    "upsParameterTable": "1.3.6.1.4.1.818.1.1.10.10.11"
+  },
+  {
+    "upsParameterEntry": "1.3.6.1.4.1.818.1.1.10.10.11.1"
+  },
+  {
+    "upsParameterLineIndex": "1.3.6.1.4.1.818.1.1.10.10.11.1.1"
+  },
+  {
+    "upsParameterValue": "1.3.6.1.4.1.818.1.1.10.10.11.1.2"
+  },
+  {
+    "upsStatus": "1.3.6.1.4.1.818.1.1.10.10.12"
+  },
+  {
+    "upsMainsStatisticsMBfail": "1.3.6.1.4.1.818.1.1.10.10.13"
+  },
+  {
+    "upsMainsStatisticsMRfail": "1.3.6.1.4.1.818.1.1.10.10.14"
+  },
+  {
+    "upsMainsStatisticsB2": "1.3.6.1.4.1.818.1.1.10.10.15"
+  },
+  {
+    "upsMainsStatisticsB5": "1.3.6.1.4.1.818.1.1.10.10.16"
+  },
+  {
+    "upsMainsStatisticsB10": "1.3.6.1.4.1.818.1.1.10.10.17"
+  },
+  {
+    "upsMainsStatisticsB200": "1.3.6.1.4.1.818.1.1.10.10.18"
+  },
+  {
+    "upsMainsStatisticsBypRel": "1.3.6.1.4.1.818.1.1.10.10.19"
+  },
+  {
+    "upsTimegen": "1.3.6.1.4.1.818.1.1.10.10.20"
+  },
+  {
+    "upsRequestPermission": "1.3.6.1.4.1.818.1.1.10.10.21"
+  },
+  {
+    "upsEventGetCode": "1.3.6.1.4.1.818.1.1.10.10.22"
+  },
+  {
+    "upsEventSpinLock": "1.3.6.1.4.1.818.1.1.10.10.23"
+  },
+  {
+    "upsParameterSpinLock": "1.3.6.1.4.1.818.1.1.10.10.24"
+  },
+  {
+    "geUPSTraps": "1.3.6.1.4.1.818.1.1.10.11"
+  },
+  {
+    "upsTrapAlarmBatteryBad": "1.3.6.1.4.1.818.1.1.10.11.1"
+  },
+  {
+    "upsTrapAlarmOnBattery": "1.3.6.1.4.1.818.1.1.10.11.2"
+  },
+  {
+    "upsTrapAlarmLowBattery": "1.3.6.1.4.1.818.1.1.10.11.3"
+  },
+  {
+    "upsTrapAlarmDepletedBattery": "1.3.6.1.4.1.818.1.1.10.11.4"
+  },
+  {
+    "upsTrapAlarmTempBad": "1.3.6.1.4.1.818.1.1.10.11.5"
+  },
+  {
+    "upsTrapAlarmInputBad": "1.3.6.1.4.1.818.1.1.10.11.6"
+  },
+  {
+    "upsTrapAlarmOutputBad": "1.3.6.1.4.1.818.1.1.10.11.7"
+  },
+  {
+    "upsTrapAlarmOutputOverload": "1.3.6.1.4.1.818.1.1.10.11.8"
+  },
+  {
+    "upsTrapAlarmOnBypass": "1.3.6.1.4.1.818.1.1.10.11.9"
+  },
+  {
+    "upsTrapAlarmBypassBad": "1.3.6.1.4.1.818.1.1.10.11.10"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequested": "1.3.6.1.4.1.818.1.1.10.11.11"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequested": "1.3.6.1.4.1.818.1.1.10.11.12"
+  },
+  {
+    "upsTrapAlarmChargerFailed": "1.3.6.1.4.1.818.1.1.10.11.13"
+  },
+  {
+    "upsTrapAlarmUpsOutputOff": "1.3.6.1.4.1.818.1.1.10.11.14"
+  },
+  {
+    "upsTrapAlarmUpsSystemOff": "1.3.6.1.4.1.818.1.1.10.11.15"
+  },
+  {
+    "upsTrapAlarmFanFailure": "1.3.6.1.4.1.818.1.1.10.11.16"
+  },
+  {
+    "upsTrapAlarmFuseFailure": "1.3.6.1.4.1.818.1.1.10.11.17"
+  },
+  {
+    "upsTrapAlarmGeneralFault": "1.3.6.1.4.1.818.1.1.10.11.18"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailed": "1.3.6.1.4.1.818.1.1.10.11.19"
+  },
+  {
+    "upsTrapAlarmCommunicationsLost": "1.3.6.1.4.1.818.1.1.10.11.20"
+  },
+  {
+    "upsTrapAlarmAwaitingPower": "1.3.6.1.4.1.818.1.1.10.11.21"
+  },
+  {
+    "upsTrapAlarmShutdownPending": "1.3.6.1.4.1.818.1.1.10.11.22"
+  },
+  {
+    "upsTrapAlarmShutdownImminent": "1.3.6.1.4.1.818.1.1.10.11.23"
+  },
+  {
+    "upsTrapAlarmTestInProgress": "1.3.6.1.4.1.818.1.1.10.11.24"
+  },
+  {
+    "upsTrapAlarmReceptacleOff": "1.3.6.1.4.1.818.1.1.10.11.25"
+  },
+  {
+    "upsTrapAlarmHighspeedBusFailure": "1.3.6.1.4.1.818.1.1.10.11.26"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCFailure": "1.3.6.1.4.1.818.1.1.10.11.27"
+  },
+  {
+    "upsTrapAlarmConnectivityBusFailure": "1.3.6.1.4.1.818.1.1.10.11.28"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCFailure": "1.3.6.1.4.1.818.1.1.10.11.29"
+  },
+  {
+    "upsTrapAlarmCurrentSharingFailure": "1.3.6.1.4.1.818.1.1.10.11.30"
+  },
+  {
+    "upsTrapAlarmDCRippleFailure": "1.3.6.1.4.1.818.1.1.10.11.31"
+  },
+  {
+    "upsTrapAlarmBatteryBadRestored": "1.3.6.1.4.1.818.1.1.10.11.33"
+  },
+  {
+    "upsTrapAlarmOnBatteryRestored": "1.3.6.1.4.1.818.1.1.10.11.34"
+  },
+  {
+    "upsTrapAlarmLowBatteryRestored": "1.3.6.1.4.1.818.1.1.10.11.35"
+  },
+  {
+    "upsTrapAlarmDepletedBatteryRestored": "1.3.6.1.4.1.818.1.1.10.11.36"
+  },
+  {
+    "upsTrapAlarmTempBadRestored": "1.3.6.1.4.1.818.1.1.10.11.37"
+  },
+  {
+    "upsTrapAlarmInputBadRestored": "1.3.6.1.4.1.818.1.1.10.11.38"
+  },
+  {
+    "upsTrapAlarmOutputBadRestored": "1.3.6.1.4.1.818.1.1.10.11.39"
+  },
+  {
+    "upsTrapAlarmOutputOverloadRestored": "1.3.6.1.4.1.818.1.1.10.11.40"
+  },
+  {
+    "upsTrapAlarmOnBypassRestored": "1.3.6.1.4.1.818.1.1.10.11.41"
+  },
+  {
+    "upsTrapAlarmBypassBadRestored": "1.3.6.1.4.1.818.1.1.10.11.42"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequestedRestored": "1.3.6.1.4.1.818.1.1.10.11.43"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequestedRestored": "1.3.6.1.4.1.818.1.1.10.11.44"
+  },
+  {
+    "upsTrapAlarmChargerFailedRestored": "1.3.6.1.4.1.818.1.1.10.11.45"
+  },
+  {
+    "upsTrapAlarmUpsOutputOn": "1.3.6.1.4.1.818.1.1.10.11.46"
+  },
+  {
+    "upsTrapAlarmUpsSystemOn": "1.3.6.1.4.1.818.1.1.10.11.47"
+  },
+  {
+    "upsTrapAlarmFanFailureRestored": "1.3.6.1.4.1.818.1.1.10.11.48"
+  },
+  {
+    "upsTrapAlarmFuseFailureRestored": "1.3.6.1.4.1.818.1.1.10.11.49"
+  },
+  {
+    "upsTrapAlarmGeneralFaultRestored": "1.3.6.1.4.1.818.1.1.10.11.50"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailedRestored": "1.3.6.1.4.1.818.1.1.10.11.51"
+  },
+  {
+    "upsTrapAlarmCommunicationsLostRestored": "1.3.6.1.4.1.818.1.1.10.11.52"
+  },
+  {
+    "upsTrapAlarmAwaitingPowerRestored": "1.3.6.1.4.1.818.1.1.10.11.53"
+  },
+  {
+    "upsTrapAlarmShutdownPendingRestored": "1.3.6.1.4.1.818.1.1.10.11.54"
+  },
+  {
+    "upsTrapAlarmShutdownImminentRestored": "1.3.6.1.4.1.818.1.1.10.11.55"
+  },
+  {
+    "upsTrapAlarmTestInProgressRestored": "1.3.6.1.4.1.818.1.1.10.11.56"
+  },
+  {
+    "upsTrapAlarmReceptacleOn": "1.3.6.1.4.1.818.1.1.10.11.57"
+  },
+  {
+    "upsTrapAlarmHighspeedBusRestored": "1.3.6.1.4.1.818.1.1.10.11.58"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCRestored": "1.3.6.1.4.1.818.1.1.10.11.59"
+  },
+  {
+    "upsTrapAlarmConnectivityBusRestored": "1.3.6.1.4.1.818.1.1.10.11.60"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCRestored": "1.3.6.1.4.1.818.1.1.10.11.61"
+  },
+  {
+    "upsTrapAlarmCurrentSharingRestored": "1.3.6.1.4.1.818.1.1.10.11.62"
+  },
+  {
+    "upsTrapAlarmDCRippleRestored": "1.3.6.1.4.1.818.1.1.10.11.63"
+  },
+  {
+    "upsTrapAlarmValueLow": "1.3.6.1.4.1.818.1.1.10.11.129"
+  },
+  {
+    "upsTrapAlarmValueHigh": "1.3.6.1.4.1.818.1.1.10.11.130"
+  },
+  {
+    "upsTrapAlarmValueLowRestored": "1.3.6.1.4.1.818.1.1.10.11.133"
+  },
+  {
+    "upsTrapAlarmValueHighRestored": "1.3.6.1.4.1.818.1.1.10.11.134"
+  },
+  {
+    "upsDiagnostic": "1.3.6.1.4.1.818.1.1.10.12"
+  },
+  {
+    "upsDiagnosticBusJACommunicationStatus": "1.3.6.1.4.1.818.1.1.10.12.1"
+  },
+  {
+    "upsDiagnosticBusJBCommunicationStatus": "1.3.6.1.4.1.818.1.1.10.12.2"
+  },
+  {
+    "upsDiagnosticBatteryLifetime": "1.3.6.1.4.1.818.1.1.10.12.3"
+  },
+  {
+    "upsDiagnosticFansLifetime": "1.3.6.1.4.1.818.1.1.10.12.4"
+  },
+  {
+    "upsDiagnosticDCcapacitorsLifetime": "1.3.6.1.4.1.818.1.1.10.12.5"
+  },
+  {
+    "upsDiagnosticACcapacitorsLifetime": "1.3.6.1.4.1.818.1.1.10.12.6"
+  },
+  {
+    "upsDiagnosticGlobalServiceCheck": "1.3.6.1.4.1.818.1.1.10.12.7"
+  },
+  {
+    "geFirstUPS": "1.3.6.1.4.1.818.1.1.11"
+  },
+  {
+    "upsIdentfirst": "1.3.6.1.4.1.818.1.1.11.1"
+  },
+  {
+    "upsIdentManufacturerfirst": "1.3.6.1.4.1.818.1.1.11.1.1"
+  },
+  {
+    "upsIdentModelfirst": "1.3.6.1.4.1.818.1.1.11.1.2"
+  },
+  {
+    "upsIdentUPSSoftwareVersionfirst": "1.3.6.1.4.1.818.1.1.11.1.3"
+  },
+  {
+    "upsIdentAgentSoftwareVersionfirst": "1.3.6.1.4.1.818.1.1.11.1.4"
+  },
+  {
+    "upsIdentNamefirst": "1.3.6.1.4.1.818.1.1.11.1.5"
+  },
+  {
+    "upsIdentAttachedDevicesfirst": "1.3.6.1.4.1.818.1.1.11.1.6"
+  },
+  {
+    "upsIdentUPSSerialNumberfirst": "1.3.6.1.4.1.818.1.1.11.1.7"
+  },
+  {
+    "upsIdentComProtVersionfirst": "1.3.6.1.4.1.818.1.1.11.1.8"
+  },
+  {
+    "upsIdentOperatingTimefirst": "1.3.6.1.4.1.818.1.1.11.1.9"
+  },
+  {
+    "upsBatteryfirst": "1.3.6.1.4.1.818.1.1.11.2"
+  },
+  {
+    "upsBatteryStatusfirst": "1.3.6.1.4.1.818.1.1.11.2.1"
+  },
+  {
+    "upsSecondsOnBatteryfirst": "1.3.6.1.4.1.818.1.1.11.2.2"
+  },
+  {
+    "upsEstimatedMinutesRemainingfirst": "1.3.6.1.4.1.818.1.1.11.2.3"
+  },
+  {
+    "upsEstimatedChargeRemainingfirst": "1.3.6.1.4.1.818.1.1.11.2.4"
+  },
+  {
+    "upsBatteryVoltagefirst": "1.3.6.1.4.1.818.1.1.11.2.5"
+  },
+  {
+    "upsBatteryCurrentfirst": "1.3.6.1.4.1.818.1.1.11.2.6"
+  },
+  {
+    "upsBatteryTemperaturefirst": "1.3.6.1.4.1.818.1.1.11.2.7"
+  },
+  {
+    "upsBatteryRipplefirst": "1.3.6.1.4.1.818.1.1.11.2.8"
+  },
+  {
+    "upsInputfirst": "1.3.6.1.4.1.818.1.1.11.3"
+  },
+  {
+    "upsInputLineBadsfirst": "1.3.6.1.4.1.818.1.1.11.3.1"
+  },
+  {
+    "upsInputNumLinesfirst": "1.3.6.1.4.1.818.1.1.11.3.2"
+  },
+  {
+    "upsInputFirstTable": "1.3.6.1.4.1.818.1.1.11.3.3"
+  },
+  {
+    "upsInputFirstEntry": "1.3.6.1.4.1.818.1.1.11.3.3.1"
+  },
+  {
+    "upsInputLineIndexfirst": "1.3.6.1.4.1.818.1.1.11.3.3.1.1"
+  },
+  {
+    "upsInputFrequencyfirst": "1.3.6.1.4.1.818.1.1.11.3.3.1.2"
+  },
+  {
+    "upsInputVoltagefirst": "1.3.6.1.4.1.818.1.1.11.3.3.1.3"
+  },
+  {
+    "upsInputCurrentfirst": "1.3.6.1.4.1.818.1.1.11.3.3.1.4"
+  },
+  {
+    "upsInputTruePowerfirst": "1.3.6.1.4.1.818.1.1.11.3.3.1.5"
+  },
+  {
+    "upsInputVoltageMinfirst": "1.3.6.1.4.1.818.1.1.11.3.3.1.6"
+  },
+  {
+    "upsInputVoltageMaxfirst": "1.3.6.1.4.1.818.1.1.11.3.3.1.7"
+  },
+  {
+    "upsOutputfirst": "1.3.6.1.4.1.818.1.1.11.4"
+  },
+  {
+    "upsOutputSourcefirst": "1.3.6.1.4.1.818.1.1.11.4.1"
+  },
+  {
+    "upsOutputFrequencyfirst": "1.3.6.1.4.1.818.1.1.11.4.2"
+  },
+  {
+    "upsOutputNumLinesfirst": "1.3.6.1.4.1.818.1.1.11.4.3"
+  },
+  {
+    "upsOutputFirstTable": "1.3.6.1.4.1.818.1.1.11.4.4"
+  },
+  {
+    "upsOutputFirstEntry": "1.3.6.1.4.1.818.1.1.11.4.4.1"
+  },
+  {
+    "upsOutputLineIndexfirst": "1.3.6.1.4.1.818.1.1.11.4.4.1.1"
+  },
+  {
+    "upsOutputVoltagefirst": "1.3.6.1.4.1.818.1.1.11.4.4.1.2"
+  },
+  {
+    "upsOutputCurrentfirst": "1.3.6.1.4.1.818.1.1.11.4.4.1.3"
+  },
+  {
+    "upsOutputPowerfirst": "1.3.6.1.4.1.818.1.1.11.4.4.1.4"
+  },
+  {
+    "upsOutputPercentLoadfirst": "1.3.6.1.4.1.818.1.1.11.4.4.1.5"
+  },
+  {
+    "upsOutputPowerFactorfirst": "1.3.6.1.4.1.818.1.1.11.4.4.1.6"
+  },
+  {
+    "upsOutputPeakCurrentfirst": "1.3.6.1.4.1.818.1.1.11.4.4.1.7"
+  },
+  {
+    "upsOutputShareCurrentfirst": "1.3.6.1.4.1.818.1.1.11.4.4.1.8"
+  },
+  {
+    "upsBypassfirst": "1.3.6.1.4.1.818.1.1.11.5"
+  },
+  {
+    "upsBypassFrequencyfirst": "1.3.6.1.4.1.818.1.1.11.5.1"
+  },
+  {
+    "upsBypassNumLinesfirst": "1.3.6.1.4.1.818.1.1.11.5.2"
+  },
+  {
+    "upsBypassFirstTable": "1.3.6.1.4.1.818.1.1.11.5.3"
+  },
+  {
+    "upsBypassFirstEntry": "1.3.6.1.4.1.818.1.1.11.5.3.1"
+  },
+  {
+    "upsBypassLineIndexfirst": "1.3.6.1.4.1.818.1.1.11.5.3.1.1"
+  },
+  {
+    "upsBypassVoltagefirst": "1.3.6.1.4.1.818.1.1.11.5.3.1.2"
+  },
+  {
+    "upsBypassCurrentfirst": "1.3.6.1.4.1.818.1.1.11.5.3.1.3"
+  },
+  {
+    "upsBypassPowerfirst": "1.3.6.1.4.1.818.1.1.11.5.3.1.4"
+  },
+  {
+    "upsAlarmfirst": "1.3.6.1.4.1.818.1.1.11.6"
+  },
+  {
+    "upsAlarmsPresentfirst": "1.3.6.1.4.1.818.1.1.11.6.1"
+  },
+  {
+    "upsAlarmFirstTable": "1.3.6.1.4.1.818.1.1.11.6.2"
+  },
+  {
+    "upsAlarmFirstEntry": "1.3.6.1.4.1.818.1.1.11.6.2.1"
+  },
+  {
+    "upsAlarmIdfirst": "1.3.6.1.4.1.818.1.1.11.6.2.1.1"
+  },
+  {
+    "upsAlarmDescrfirst": "1.3.6.1.4.1.818.1.1.11.6.2.1.2"
+  },
+  {
+    "upsAlarmTimefirst": "1.3.6.1.4.1.818.1.1.11.6.2.1.3"
+  },
+  {
+    "upsWellKnownAlarmsfirst": "1.3.6.1.4.1.818.1.1.11.6.3"
+  },
+  {
+    "upsAlarmBatteryBadfirst": "1.3.6.1.4.1.818.1.1.11.6.3.1"
+  },
+  {
+    "upsAlarmOnBatteryfirst": "1.3.6.1.4.1.818.1.1.11.6.3.2"
+  },
+  {
+    "upsAlarmLowBatteryfirst": "1.3.6.1.4.1.818.1.1.11.6.3.3"
+  },
+  {
+    "upsAlarmDepletedBatteryfirst": "1.3.6.1.4.1.818.1.1.11.6.3.4"
+  },
+  {
+    "upsAlarmTempBadfirst": "1.3.6.1.4.1.818.1.1.11.6.3.5"
+  },
+  {
+    "upsAlarmInputBadfirst": "1.3.6.1.4.1.818.1.1.11.6.3.6"
+  },
+  {
+    "upsAlarmOutputBadfirst": "1.3.6.1.4.1.818.1.1.11.6.3.7"
+  },
+  {
+    "upsAlarmOutputOverloadfirst": "1.3.6.1.4.1.818.1.1.11.6.3.8"
+  },
+  {
+    "upsAlarmOnBypassfirst": "1.3.6.1.4.1.818.1.1.11.6.3.9"
+  },
+  {
+    "upsAlarmBypassBadfirst": "1.3.6.1.4.1.818.1.1.11.6.3.10"
+  },
+  {
+    "upsAlarmOutputOffAsRequestedfirst": "1.3.6.1.4.1.818.1.1.11.6.3.11"
+  },
+  {
+    "upsAlarmUpsOffAsRequestedfirst": "1.3.6.1.4.1.818.1.1.11.6.3.12"
+  },
+  {
+    "upsAlarmChargerFailedfirst": "1.3.6.1.4.1.818.1.1.11.6.3.13"
+  },
+  {
+    "upsAlarmUpsOutputOfffirst": "1.3.6.1.4.1.818.1.1.11.6.3.14"
+  },
+  {
+    "upsAlarmUpsSystemOfffirst": "1.3.6.1.4.1.818.1.1.11.6.3.15"
+  },
+  {
+    "upsAlarmFanFailurefirst": "1.3.6.1.4.1.818.1.1.11.6.3.16"
+  },
+  {
+    "upsAlarmFuseFailurefirst": "1.3.6.1.4.1.818.1.1.11.6.3.17"
+  },
+  {
+    "upsAlarmGeneralFaultfirst": "1.3.6.1.4.1.818.1.1.11.6.3.18"
+  },
+  {
+    "upsAlarmDiagnosticTestFailedfirst": "1.3.6.1.4.1.818.1.1.11.6.3.19"
+  },
+  {
+    "upsAlarmCommunicationsLostfirst": "1.3.6.1.4.1.818.1.1.11.6.3.20"
+  },
+  {
+    "upsAlarmAwaitingPowerfirst": "1.3.6.1.4.1.818.1.1.11.6.3.21"
+  },
+  {
+    "upsAlarmShutdownPendingfirst": "1.3.6.1.4.1.818.1.1.11.6.3.22"
+  },
+  {
+    "upsAlarmShutdownImminentfirst": "1.3.6.1.4.1.818.1.1.11.6.3.23"
+  },
+  {
+    "upsAlarmTestInProgressfirst": "1.3.6.1.4.1.818.1.1.11.6.3.24"
+  },
+  {
+    "upsAlarmReceptacleOfffirst": "1.3.6.1.4.1.818.1.1.11.6.3.25"
+  },
+  {
+    "upsAlarmHighSpeedBusFailurefirst": "1.3.6.1.4.1.818.1.1.11.6.3.26"
+  },
+  {
+    "upsAlarmHighSpeedBusJACRCFailurefirst": "1.3.6.1.4.1.818.1.1.11.6.3.27"
+  },
+  {
+    "upsAlarmConnectivityBusFailurefirst": "1.3.6.1.4.1.818.1.1.11.6.3.28"
+  },
+  {
+    "upsAlarmHighSpeedBusJBCRCFailurefirst": "1.3.6.1.4.1.818.1.1.11.6.3.29"
+  },
+  {
+    "upsAlarmCurrentSharingfirst": "1.3.6.1.4.1.818.1.1.11.6.3.30"
+  },
+  {
+    "upsAlarmDCRipplefirst": "1.3.6.1.4.1.818.1.1.11.6.3.31"
+  },
+  {
+    "upsAlarmMaskAfirst": "1.3.6.1.4.1.818.1.1.11.6.4"
+  },
+  {
+    "upsTestfirst": "1.3.6.1.4.1.818.1.1.11.7"
+  },
+  {
+    "upsTestIdfirst": "1.3.6.1.4.1.818.1.1.11.7.1"
+  },
+  {
+    "upsTestSpinLockfirst": "1.3.6.1.4.1.818.1.1.11.7.2"
+  },
+  {
+    "upsTestResultsSummaryfirst": "1.3.6.1.4.1.818.1.1.11.7.3"
+  },
+  {
+    "upsTestResultsDetailfirst": "1.3.6.1.4.1.818.1.1.11.7.4"
+  },
+  {
+    "upsTestStartTimefirst": "1.3.6.1.4.1.818.1.1.11.7.5"
+  },
+  {
+    "upsTestElapsedTimefirst": "1.3.6.1.4.1.818.1.1.11.7.6"
+  },
+  {
+    "upsWellKnownTestsfirst": "1.3.6.1.4.1.818.1.1.11.7.7"
+  },
+  {
+    "upsTestNoTestsInitiatedfirst": "1.3.6.1.4.1.818.1.1.11.7.7.1"
+  },
+  {
+    "upsTestAbortTestInProgressfirst": "1.3.6.1.4.1.818.1.1.11.7.7.2"
+  },
+  {
+    "upsTestGeneralSystemsTestfirst": "1.3.6.1.4.1.818.1.1.11.7.7.3"
+  },
+  {
+    "upsTestQuickBatteryTestfirst": "1.3.6.1.4.1.818.1.1.11.7.7.4"
+  },
+  {
+    "upsTestDeepBatteryCalibrationfirst": "1.3.6.1.4.1.818.1.1.11.7.7.5"
+  },
+  {
+    "upsControlfirst": "1.3.6.1.4.1.818.1.1.11.8"
+  },
+  {
+    "upsShutdownTypefirst": "1.3.6.1.4.1.818.1.1.11.8.1"
+  },
+  {
+    "upsShutdownAfterDelayfirst": "1.3.6.1.4.1.818.1.1.11.8.2"
+  },
+  {
+    "upsStartupAfterDelayfirst": "1.3.6.1.4.1.818.1.1.11.8.3"
+  },
+  {
+    "upsRebootWithDurationfirst": "1.3.6.1.4.1.818.1.1.11.8.4"
+  },
+  {
+    "upsAutoRestartfirst": "1.3.6.1.4.1.818.1.1.11.8.5"
+  },
+  {
+    "upsReceptaclesNumfirst": "1.3.6.1.4.1.818.1.1.11.8.6"
+  },
+  {
+    "upsReceptacleFirstTable": "1.3.6.1.4.1.818.1.1.11.8.7"
+  },
+  {
+    "upsReceptacleFirstEntry": "1.3.6.1.4.1.818.1.1.11.8.7.1"
+  },
+  {
+    "upsReceptacleLineIndexfirst": "1.3.6.1.4.1.818.1.1.11.8.7.1.1"
+  },
+  {
+    "upsReceptacleOnOfffirst": "1.3.6.1.4.1.818.1.1.11.8.7.1.2"
+  },
+  {
+    "upsUPSModefirst": "1.3.6.1.4.1.818.1.1.11.8.8"
+  },
+  {
+    "upsRectifierOnOfffirst": "1.3.6.1.4.1.818.1.1.11.8.9"
+  },
+  {
+    "upsBatteryChargeMethodfirst": "1.3.6.1.4.1.818.1.1.11.8.10"
+  },
+  {
+    "upsInverterOnOfffirst": "1.3.6.1.4.1.818.1.1.11.8.11"
+  },
+  {
+    "upsBypassOnOfffirst": "1.3.6.1.4.1.818.1.1.11.8.12"
+  },
+  {
+    "upsLoadSourcefirst": "1.3.6.1.4.1.818.1.1.11.8.13"
+  },
+  {
+    "upsConfigfirst": "1.3.6.1.4.1.818.1.1.11.9"
+  },
+  {
+    "upsConfigInputVoltagefirst": "1.3.6.1.4.1.818.1.1.11.9.1"
+  },
+  {
+    "upsConfigInputFreqfirst": "1.3.6.1.4.1.818.1.1.11.9.2"
+  },
+  {
+    "upsConfigOutputVoltagefirst": "1.3.6.1.4.1.818.1.1.11.9.3"
+  },
+  {
+    "upsConfigOutputFreqfirst": "1.3.6.1.4.1.818.1.1.11.9.4"
+  },
+  {
+    "upsConfigOutputVAfirst": "1.3.6.1.4.1.818.1.1.11.9.5"
+  },
+  {
+    "upsConfigOutputPowerfirst": "1.3.6.1.4.1.818.1.1.11.9.6"
+  },
+  {
+    "upsConfigLowBattTimefirst": "1.3.6.1.4.1.818.1.1.11.9.7"
+  },
+  {
+    "upsConfigAudibleStatusfirst": "1.3.6.1.4.1.818.1.1.11.9.8"
+  },
+  {
+    "upsConfigLowVoltageTransferPointfirst": "1.3.6.1.4.1.818.1.1.11.9.9"
+  },
+  {
+    "upsConfigHighVoltageTransferPointfirst": "1.3.6.1.4.1.818.1.1.11.9.10"
+  },
+  {
+    "upsConfigBatteryCapacityfirst": "1.3.6.1.4.1.818.1.1.11.9.11"
+  },
+  {
+    "upsConfigBatteryChargeCurrentfirst": "1.3.6.1.4.1.818.1.1.11.9.12"
+  },
+  {
+    "upsConfigNoLoadShutdownfirst": "1.3.6.1.4.1.818.1.1.11.9.13"
+  },
+  {
+    "upsConfigStartDelayfirst": "1.3.6.1.4.1.818.1.1.11.9.14"
+  },
+  {
+    "upsGetSetfirst": "1.3.6.1.4.1.818.1.1.11.10"
+  },
+  {
+    "upsEventGetNextfirst": "1.3.6.1.4.1.818.1.1.11.10.1"
+  },
+  {
+    "upsEventGetPreviousfirst": "1.3.6.1.4.1.818.1.1.11.10.2"
+  },
+  {
+    "upsEventSetStartingTimeStampfirst": "1.3.6.1.4.1.818.1.1.11.10.3"
+  },
+  {
+    "upsEventRetreiveCurrentTimeStampfirst": "1.3.6.1.4.1.818.1.1.11.10.4"
+  },
+  {
+    "upsEventTableSizefirst": "1.3.6.1.4.1.818.1.1.11.10.5"
+  },
+  {
+    "upsEventFirstTable": "1.3.6.1.4.1.818.1.1.11.10.6"
+  },
+  {
+    "upsEventFirstEntry": "1.3.6.1.4.1.818.1.1.11.10.6.1"
+  },
+  {
+    "upsEventLineIndexfirst": "1.3.6.1.4.1.818.1.1.11.10.6.1.1"
+  },
+  {
+    "upsEventCodefirst": "1.3.6.1.4.1.818.1.1.11.10.6.1.2"
+  },
+  {
+    "upsEventStatusfirst": "1.3.6.1.4.1.818.1.1.11.10.6.1.3"
+  },
+  {
+    "upsEventTimefirst": "1.3.6.1.4.1.818.1.1.11.10.6.1.4"
+  },
+  {
+    "upsParametersReadfirst": "1.3.6.1.4.1.818.1.1.11.10.7"
+  },
+  {
+    "upsParametersWritefirst": "1.3.6.1.4.1.818.1.1.11.10.8"
+  },
+  {
+    "upsParametersStartAddressfirst": "1.3.6.1.4.1.818.1.1.11.10.9"
+  },
+  {
+    "upsParameterTableSizefirst": "1.3.6.1.4.1.818.1.1.11.10.10"
+  },
+  {
+    "upsParameterFirstTable": "1.3.6.1.4.1.818.1.1.11.10.11"
+  },
+  {
+    "upsParameterFirstEntry": "1.3.6.1.4.1.818.1.1.11.10.11.1"
+  },
+  {
+    "upsParameterLineIndexfirst": "1.3.6.1.4.1.818.1.1.11.10.11.1.1"
+  },
+  {
+    "upsParameterValuefirst": "1.3.6.1.4.1.818.1.1.11.10.11.1.2"
+  },
+  {
+    "upsStatusfirst": "1.3.6.1.4.1.818.1.1.11.10.12"
+  },
+  {
+    "upsMainsStatisticsMBfailfirst": "1.3.6.1.4.1.818.1.1.11.10.13"
+  },
+  {
+    "upsMainsStatisticsMRfailfirst": "1.3.6.1.4.1.818.1.1.11.10.14"
+  },
+  {
+    "upsMainsStatisticsB2first": "1.3.6.1.4.1.818.1.1.11.10.15"
+  },
+  {
+    "upsMainsStatisticsB5first": "1.3.6.1.4.1.818.1.1.11.10.16"
+  },
+  {
+    "upsMainsStatisticsB10first": "1.3.6.1.4.1.818.1.1.11.10.17"
+  },
+  {
+    "upsMainsStatisticsB200first": "1.3.6.1.4.1.818.1.1.11.10.18"
+  },
+  {
+    "upsMainsStatisticsBypRelfirst": "1.3.6.1.4.1.818.1.1.11.10.19"
+  },
+  {
+    "upsTimefirst": "1.3.6.1.4.1.818.1.1.11.10.20"
+  },
+  {
+    "upsRequestPermissionfirst": "1.3.6.1.4.1.818.1.1.11.10.21"
+  },
+  {
+    "upsEventGetCodefirst": "1.3.6.1.4.1.818.1.1.11.10.22"
+  },
+  {
+    "upsEventSpinLockfirst": "1.3.6.1.4.1.818.1.1.11.10.23"
+  },
+  {
+    "upsParameterSpinLockfirst": "1.3.6.1.4.1.818.1.1.11.10.24"
+  },
+  {
+    "geUPSTrapsfirst": "1.3.6.1.4.1.818.1.1.11.11"
+  },
+  {
+    "upsTrapAlarmBatteryBadfirst": "1.3.6.1.4.1.818.1.1.11.11.1"
+  },
+  {
+    "upsTrapAlarmOnBatteryfirst": "1.3.6.1.4.1.818.1.1.11.11.2"
+  },
+  {
+    "upsTrapAlarmLowBatteryfirst": "1.3.6.1.4.1.818.1.1.11.11.3"
+  },
+  {
+    "upsTrapAlarmDepletedBatteryfirst": "1.3.6.1.4.1.818.1.1.11.11.4"
+  },
+  {
+    "upsTrapAlarmTempBadfirst": "1.3.6.1.4.1.818.1.1.11.11.5"
+  },
+  {
+    "upsTrapAlarmInputBadfirst": "1.3.6.1.4.1.818.1.1.11.11.6"
+  },
+  {
+    "upsTrapAlarmOutputBadfirst": "1.3.6.1.4.1.818.1.1.11.11.7"
+  },
+  {
+    "upsTrapAlarmOutputOverloadfirst": "1.3.6.1.4.1.818.1.1.11.11.8"
+  },
+  {
+    "upsTrapAlarmOnBypassfirst": "1.3.6.1.4.1.818.1.1.11.11.9"
+  },
+  {
+    "upsTrapAlarmBypassBadfirst": "1.3.6.1.4.1.818.1.1.11.11.10"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequestedfirst": "1.3.6.1.4.1.818.1.1.11.11.11"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequestedfirst": "1.3.6.1.4.1.818.1.1.11.11.12"
+  },
+  {
+    "upsTrapAlarmChargerFailedfirst": "1.3.6.1.4.1.818.1.1.11.11.13"
+  },
+  {
+    "upsTrapAlarmUpsOutputOfffirst": "1.3.6.1.4.1.818.1.1.11.11.14"
+  },
+  {
+    "upsTrapAlarmUpsSystemOfffirst": "1.3.6.1.4.1.818.1.1.11.11.15"
+  },
+  {
+    "upsTrapAlarmFanFailurefirst": "1.3.6.1.4.1.818.1.1.11.11.16"
+  },
+  {
+    "upsTrapAlarmFuseFailurefirst": "1.3.6.1.4.1.818.1.1.11.11.17"
+  },
+  {
+    "upsTrapAlarmGeneralFaultfirst": "1.3.6.1.4.1.818.1.1.11.11.18"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailedfirst": "1.3.6.1.4.1.818.1.1.11.11.19"
+  },
+  {
+    "upsTrapAlarmCommunicationsLostfirst": "1.3.6.1.4.1.818.1.1.11.11.20"
+  },
+  {
+    "upsTrapAlarmAwaitingPowerfirst": "1.3.6.1.4.1.818.1.1.11.11.21"
+  },
+  {
+    "upsTrapAlarmShutdownPendingfirst": "1.3.6.1.4.1.818.1.1.11.11.22"
+  },
+  {
+    "upsTrapAlarmShutdownImminentfirst": "1.3.6.1.4.1.818.1.1.11.11.23"
+  },
+  {
+    "upsTrapAlarmTestInProgressfirst": "1.3.6.1.4.1.818.1.1.11.11.24"
+  },
+  {
+    "upsTrapAlarmReceptacleOfffirst": "1.3.6.1.4.1.818.1.1.11.11.25"
+  },
+  {
+    "upsTrapAlarmHighspeedBusFailurefirst": "1.3.6.1.4.1.818.1.1.11.11.26"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCFailurefirst": "1.3.6.1.4.1.818.1.1.11.11.27"
+  },
+  {
+    "upsTrapAlarmConnectivityBusFailurefirst": "1.3.6.1.4.1.818.1.1.11.11.28"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCFailurefirst": "1.3.6.1.4.1.818.1.1.11.11.29"
+  },
+  {
+    "upsTrapAlarmCurrentSharingFailurefirst": "1.3.6.1.4.1.818.1.1.11.11.30"
+  },
+  {
+    "upsTrapAlarmDCRippleFailurefirst": "1.3.6.1.4.1.818.1.1.11.11.31"
+  },
+  {
+    "upsTrapAlarmBatteryBadRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.33"
+  },
+  {
+    "upsTrapAlarmOnBatteryRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.34"
+  },
+  {
+    "upsTrapAlarmLowBatteryRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.35"
+  },
+  {
+    "upsTrapAlarmDepletedBatteryRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.36"
+  },
+  {
+    "upsTrapAlarmTempBadRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.37"
+  },
+  {
+    "upsTrapAlarmInputBadRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.38"
+  },
+  {
+    "upsTrapAlarmOutputBadRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.39"
+  },
+  {
+    "upsTrapAlarmOutputOverloadRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.40"
+  },
+  {
+    "upsTrapAlarmOnBypassRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.41"
+  },
+  {
+    "upsTrapAlarmBypassBadRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.42"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequestedRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.43"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequestedRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.44"
+  },
+  {
+    "upsTrapAlarmChargerFailedRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.45"
+  },
+  {
+    "upsTrapAlarmUpsOutputOnfirst": "1.3.6.1.4.1.818.1.1.11.11.46"
+  },
+  {
+    "upsTrapAlarmUpsSystemOnfirst": "1.3.6.1.4.1.818.1.1.11.11.47"
+  },
+  {
+    "upsTrapAlarmFanFailureRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.48"
+  },
+  {
+    "upsTrapAlarmFuseFailureRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.49"
+  },
+  {
+    "upsTrapAlarmGeneralFaultRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.50"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailedRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.51"
+  },
+  {
+    "upsTrapAlarmCommunicationsLostRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.52"
+  },
+  {
+    "upsTrapAlarmAwaitingPowerRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.53"
+  },
+  {
+    "upsTrapAlarmShutdownPendingRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.54"
+  },
+  {
+    "upsTrapAlarmShutdownImminentRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.55"
+  },
+  {
+    "upsTrapAlarmTestInProgressRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.56"
+  },
+  {
+    "upsTrapAlarmReceptacleOnfirst": "1.3.6.1.4.1.818.1.1.11.11.57"
+  },
+  {
+    "upsTrapAlarmHighspeedBusRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.58"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.59"
+  },
+  {
+    "upsTrapAlarmConnectivityBusRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.60"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.61"
+  },
+  {
+    "upsTrapAlarmCurrentSharingRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.62"
+  },
+  {
+    "upsTrapAlarmDCRippleRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.63"
+  },
+  {
+    "upsTrapAlarmValueLowfirst": "1.3.6.1.4.1.818.1.1.11.11.129"
+  },
+  {
+    "upsTrapAlarmValueHighfirst": "1.3.6.1.4.1.818.1.1.11.11.130"
+  },
+  {
+    "upsTrapAlarmValueLowRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.133"
+  },
+  {
+    "upsTrapAlarmValueHighRestoredfirst": "1.3.6.1.4.1.818.1.1.11.11.134"
+  },
+  {
+    "upsDiagnosticfirst": "1.3.6.1.4.1.818.1.1.11.12"
+  },
+  {
+    "upsDiagnosticBusJACommunicationStatusfirst": "1.3.6.1.4.1.818.1.1.11.12.1"
+  },
+  {
+    "upsDiagnosticBusJBCommunicationStatusfirst": "1.3.6.1.4.1.818.1.1.11.12.2"
+  },
+  {
+    "upsDiagnosticBatteryLifetimefirst": "1.3.6.1.4.1.818.1.1.11.12.3"
+  },
+  {
+    "upsDiagnosticFansLifetimefirst": "1.3.6.1.4.1.818.1.1.11.12.4"
+  },
+  {
+    "upsDiagnosticDCcapacitorsLifetimefirst": "1.3.6.1.4.1.818.1.1.11.12.5"
+  },
+  {
+    "upsDiagnosticACcapacitorsLifetimefirst": "1.3.6.1.4.1.818.1.1.11.12.6"
+  },
+  {
+    "upsDiagnosticGlobalServiceCheckfirst": "1.3.6.1.4.1.818.1.1.11.12.7"
+  },
+  {
+    "geSecondUPS": "1.3.6.1.4.1.818.1.1.12"
+  },
+  {
+    "upsIdentsecond": "1.3.6.1.4.1.818.1.1.12.1"
+  },
+  {
+    "upsIdentManufacturersecond": "1.3.6.1.4.1.818.1.1.12.1.1"
+  },
+  {
+    "upsIdentModelsecond": "1.3.6.1.4.1.818.1.1.12.1.2"
+  },
+  {
+    "upsIdentUPSSoftwareVersionsecond": "1.3.6.1.4.1.818.1.1.12.1.3"
+  },
+  {
+    "upsIdentAgentSoftwareVersionsecond": "1.3.6.1.4.1.818.1.1.12.1.4"
+  },
+  {
+    "upsIdentNamesecond": "1.3.6.1.4.1.818.1.1.12.1.5"
+  },
+  {
+    "upsIdentAttachedDevicessecond": "1.3.6.1.4.1.818.1.1.12.1.6"
+  },
+  {
+    "upsIdentUPSSerialNumbersecond": "1.3.6.1.4.1.818.1.1.12.1.7"
+  },
+  {
+    "upsIdentComProtVersionsecond": "1.3.6.1.4.1.818.1.1.12.1.8"
+  },
+  {
+    "upsIdentOperatingTimesecond": "1.3.6.1.4.1.818.1.1.12.1.9"
+  },
+  {
+    "upsBatterysecond": "1.3.6.1.4.1.818.1.1.12.2"
+  },
+  {
+    "upsBatteryStatussecond": "1.3.6.1.4.1.818.1.1.12.2.1"
+  },
+  {
+    "upsSecondsOnBatterysecond": "1.3.6.1.4.1.818.1.1.12.2.2"
+  },
+  {
+    "upsEstimatedMinutesRemainingsecond": "1.3.6.1.4.1.818.1.1.12.2.3"
+  },
+  {
+    "upsEstimatedChargeRemainingsecond": "1.3.6.1.4.1.818.1.1.12.2.4"
+  },
+  {
+    "upsBatteryVoltagesecond": "1.3.6.1.4.1.818.1.1.12.2.5"
+  },
+  {
+    "upsBatteryCurrentsecond": "1.3.6.1.4.1.818.1.1.12.2.6"
+  },
+  {
+    "upsBatteryTemperaturesecond": "1.3.6.1.4.1.818.1.1.12.2.7"
+  },
+  {
+    "upsBatteryRipplesecond": "1.3.6.1.4.1.818.1.1.12.2.8"
+  },
+  {
+    "upsInputsecond": "1.3.6.1.4.1.818.1.1.12.3"
+  },
+  {
+    "upsInputLineBadssecond": "1.3.6.1.4.1.818.1.1.12.3.1"
+  },
+  {
+    "upsInputNumLinessecond": "1.3.6.1.4.1.818.1.1.12.3.2"
+  },
+  {
+    "upsInputSecondTable": "1.3.6.1.4.1.818.1.1.12.3.3"
+  },
+  {
+    "upsInputSecondEntry": "1.3.6.1.4.1.818.1.1.12.3.3.1"
+  },
+  {
+    "upsInputLineIndexsecond": "1.3.6.1.4.1.818.1.1.12.3.3.1.1"
+  },
+  {
+    "upsInputFrequencysecond": "1.3.6.1.4.1.818.1.1.12.3.3.1.2"
+  },
+  {
+    "upsInputVoltagesecond": "1.3.6.1.4.1.818.1.1.12.3.3.1.3"
+  },
+  {
+    "upsInputCurrentsecond": "1.3.6.1.4.1.818.1.1.12.3.3.1.4"
+  },
+  {
+    "upsInputTruePowersecond": "1.3.6.1.4.1.818.1.1.12.3.3.1.5"
+  },
+  {
+    "upsInputVoltageMinsecond": "1.3.6.1.4.1.818.1.1.12.3.3.1.6"
+  },
+  {
+    "upsInputVoltageMaxsecond": "1.3.6.1.4.1.818.1.1.12.3.3.1.7"
+  },
+  {
+    "upsOutputsecond": "1.3.6.1.4.1.818.1.1.12.4"
+  },
+  {
+    "upsOutputSourcesecond": "1.3.6.1.4.1.818.1.1.12.4.1"
+  },
+  {
+    "upsOutputFrequencysecond": "1.3.6.1.4.1.818.1.1.12.4.2"
+  },
+  {
+    "upsOutputNumLinessecond": "1.3.6.1.4.1.818.1.1.12.4.3"
+  },
+  {
+    "upsOutputSecondTable": "1.3.6.1.4.1.818.1.1.12.4.4"
+  },
+  {
+    "upsOutputSecondEntry": "1.3.6.1.4.1.818.1.1.12.4.4.1"
+  },
+  {
+    "upsOutputLineIndexsecond": "1.3.6.1.4.1.818.1.1.12.4.4.1.1"
+  },
+  {
+    "upsOutputVoltagesecond": "1.3.6.1.4.1.818.1.1.12.4.4.1.2"
+  },
+  {
+    "upsOutputCurrentsecond": "1.3.6.1.4.1.818.1.1.12.4.4.1.3"
+  },
+  {
+    "upsOutputPowersecond": "1.3.6.1.4.1.818.1.1.12.4.4.1.4"
+  },
+  {
+    "upsOutputPercentLoadsecond": "1.3.6.1.4.1.818.1.1.12.4.4.1.5"
+  },
+  {
+    "upsOutputPowerFactorsecond": "1.3.6.1.4.1.818.1.1.12.4.4.1.6"
+  },
+  {
+    "upsOutputPeakCurrentsecond": "1.3.6.1.4.1.818.1.1.12.4.4.1.7"
+  },
+  {
+    "upsOutputShareCurrentsecond": "1.3.6.1.4.1.818.1.1.12.4.4.1.8"
+  },
+  {
+    "upsBypasssecond": "1.3.6.1.4.1.818.1.1.12.5"
+  },
+  {
+    "upsBypassFrequencysecond": "1.3.6.1.4.1.818.1.1.12.5.1"
+  },
+  {
+    "upsBypassNumLinessecond": "1.3.6.1.4.1.818.1.1.12.5.2"
+  },
+  {
+    "upsBypassSecondTable": "1.3.6.1.4.1.818.1.1.12.5.3"
+  },
+  {
+    "upsBypassSecondEntry": "1.3.6.1.4.1.818.1.1.12.5.3.1"
+  },
+  {
+    "upsBypassLineIndexsecond": "1.3.6.1.4.1.818.1.1.12.5.3.1.1"
+  },
+  {
+    "upsBypassVoltagesecond": "1.3.6.1.4.1.818.1.1.12.5.3.1.2"
+  },
+  {
+    "upsBypassCurrentsecond": "1.3.6.1.4.1.818.1.1.12.5.3.1.3"
+  },
+  {
+    "upsBypassPowersecond": "1.3.6.1.4.1.818.1.1.12.5.3.1.4"
+  },
+  {
+    "upsAlarmsecond": "1.3.6.1.4.1.818.1.1.12.6"
+  },
+  {
+    "upsAlarmsPresentsecond": "1.3.6.1.4.1.818.1.1.12.6.1"
+  },
+  {
+    "upsAlarmSecondTable": "1.3.6.1.4.1.818.1.1.12.6.2"
+  },
+  {
+    "upsAlarmSecondEntry": "1.3.6.1.4.1.818.1.1.12.6.2.1"
+  },
+  {
+    "upsAlarmIdsecond": "1.3.6.1.4.1.818.1.1.12.6.2.1.1"
+  },
+  {
+    "upsAlarmDescrsecond": "1.3.6.1.4.1.818.1.1.12.6.2.1.2"
+  },
+  {
+    "upsAlarmTimesecond": "1.3.6.1.4.1.818.1.1.12.6.2.1.3"
+  },
+  {
+    "upsWellKnownAlarmssecond": "1.3.6.1.4.1.818.1.1.12.6.3"
+  },
+  {
+    "upsAlarmBatteryBadsecond": "1.3.6.1.4.1.818.1.1.12.6.3.1"
+  },
+  {
+    "upsAlarmOnBatterysecond": "1.3.6.1.4.1.818.1.1.12.6.3.2"
+  },
+  {
+    "upsAlarmLowBatterysecond": "1.3.6.1.4.1.818.1.1.12.6.3.3"
+  },
+  {
+    "upsAlarmDepletedBatterysecond": "1.3.6.1.4.1.818.1.1.12.6.3.4"
+  },
+  {
+    "upsAlarmTempBadsecond": "1.3.6.1.4.1.818.1.1.12.6.3.5"
+  },
+  {
+    "upsAlarmInputBadsecond": "1.3.6.1.4.1.818.1.1.12.6.3.6"
+  },
+  {
+    "upsAlarmOutputBadsecond": "1.3.6.1.4.1.818.1.1.12.6.3.7"
+  },
+  {
+    "upsAlarmOutputOverloadsecond": "1.3.6.1.4.1.818.1.1.12.6.3.8"
+  },
+  {
+    "upsAlarmOnBypasssecond": "1.3.6.1.4.1.818.1.1.12.6.3.9"
+  },
+  {
+    "upsAlarmBypassBadsecond": "1.3.6.1.4.1.818.1.1.12.6.3.10"
+  },
+  {
+    "upsAlarmOutputOffAsRequestedsecond": "1.3.6.1.4.1.818.1.1.12.6.3.11"
+  },
+  {
+    "upsAlarmUpsOffAsRequestedsecond": "1.3.6.1.4.1.818.1.1.12.6.3.12"
+  },
+  {
+    "upsAlarmChargerFailedsecond": "1.3.6.1.4.1.818.1.1.12.6.3.13"
+  },
+  {
+    "upsAlarmUpsOutputOffsecond": "1.3.6.1.4.1.818.1.1.12.6.3.14"
+  },
+  {
+    "upsAlarmUpsSystemOffsecond": "1.3.6.1.4.1.818.1.1.12.6.3.15"
+  },
+  {
+    "upsAlarmFanFailuresecond": "1.3.6.1.4.1.818.1.1.12.6.3.16"
+  },
+  {
+    "upsAlarmFuseFailuresecond": "1.3.6.1.4.1.818.1.1.12.6.3.17"
+  },
+  {
+    "upsAlarmGeneralFaultsecond": "1.3.6.1.4.1.818.1.1.12.6.3.18"
+  },
+  {
+    "upsAlarmDiagnosticTestFailedsecond": "1.3.6.1.4.1.818.1.1.12.6.3.19"
+  },
+  {
+    "upsAlarmCommunicationsLostsecond": "1.3.6.1.4.1.818.1.1.12.6.3.20"
+  },
+  {
+    "upsAlarmAwaitingPowersecond": "1.3.6.1.4.1.818.1.1.12.6.3.21"
+  },
+  {
+    "upsAlarmShutdownPendingsecond": "1.3.6.1.4.1.818.1.1.12.6.3.22"
+  },
+  {
+    "upsAlarmShutdownImminentsecond": "1.3.6.1.4.1.818.1.1.12.6.3.23"
+  },
+  {
+    "upsAlarmTestInProgresssecond": "1.3.6.1.4.1.818.1.1.12.6.3.24"
+  },
+  {
+    "upsAlarmReceptacleOffsecond": "1.3.6.1.4.1.818.1.1.12.6.3.25"
+  },
+  {
+    "upsAlarmHighSpeedBusFailuresecond": "1.3.6.1.4.1.818.1.1.12.6.3.26"
+  },
+  {
+    "upsAlarmHighSpeedBusJACRCFailuresecond": "1.3.6.1.4.1.818.1.1.12.6.3.27"
+  },
+  {
+    "upsAlarmConnectivityBusFailuresecond": "1.3.6.1.4.1.818.1.1.12.6.3.28"
+  },
+  {
+    "upsAlarmHighSpeedBusJBCRCFailuresecond": "1.3.6.1.4.1.818.1.1.12.6.3.29"
+  },
+  {
+    "upsAlarmCurrentSharingsecond": "1.3.6.1.4.1.818.1.1.12.6.3.30"
+  },
+  {
+    "upsAlarmDCRipplesecond": "1.3.6.1.4.1.818.1.1.12.6.3.31"
+  },
+  {
+    "upsAlarmMaskAsecond": "1.3.6.1.4.1.818.1.1.12.6.4"
+  },
+  {
+    "upsTestsecond": "1.3.6.1.4.1.818.1.1.12.7"
+  },
+  {
+    "upsTestIdsecond": "1.3.6.1.4.1.818.1.1.12.7.1"
+  },
+  {
+    "upsTestSpinLocksecond": "1.3.6.1.4.1.818.1.1.12.7.2"
+  },
+  {
+    "upsTestResultsSummarysecond": "1.3.6.1.4.1.818.1.1.12.7.3"
+  },
+  {
+    "upsTestResultsDetailsecond": "1.3.6.1.4.1.818.1.1.12.7.4"
+  },
+  {
+    "upsTestStartTimesecond": "1.3.6.1.4.1.818.1.1.12.7.5"
+  },
+  {
+    "upsTestElapsedTimesecond": "1.3.6.1.4.1.818.1.1.12.7.6"
+  },
+  {
+    "upsWellKnownTestssecond": "1.3.6.1.4.1.818.1.1.12.7.7"
+  },
+  {
+    "upsTestNoTestsInitiatedsecond": "1.3.6.1.4.1.818.1.1.12.7.7.1"
+  },
+  {
+    "upsTestAbortTestInProgresssecond": "1.3.6.1.4.1.818.1.1.12.7.7.2"
+  },
+  {
+    "upsTestGeneralSystemsTestsecond": "1.3.6.1.4.1.818.1.1.12.7.7.3"
+  },
+  {
+    "upsTestQuickBatteryTestsecond": "1.3.6.1.4.1.818.1.1.12.7.7.4"
+  },
+  {
+    "upsTestDeepBatteryCalibrationsecond": "1.3.6.1.4.1.818.1.1.12.7.7.5"
+  },
+  {
+    "upsControlsecond": "1.3.6.1.4.1.818.1.1.12.8"
+  },
+  {
+    "upsShutdownTypesecond": "1.3.6.1.4.1.818.1.1.12.8.1"
+  },
+  {
+    "upsShutdownAfterDelaysecond": "1.3.6.1.4.1.818.1.1.12.8.2"
+  },
+  {
+    "upsStartupAfterDelaysecond": "1.3.6.1.4.1.818.1.1.12.8.3"
+  },
+  {
+    "upsRebootWithDurationsecond": "1.3.6.1.4.1.818.1.1.12.8.4"
+  },
+  {
+    "upsAutoRestartsecond": "1.3.6.1.4.1.818.1.1.12.8.5"
+  },
+  {
+    "upsReceptaclesNumsecond": "1.3.6.1.4.1.818.1.1.12.8.6"
+  },
+  {
+    "upsReceptacleSecondTable": "1.3.6.1.4.1.818.1.1.12.8.7"
+  },
+  {
+    "upsReceptacleSecondEntry": "1.3.6.1.4.1.818.1.1.12.8.7.1"
+  },
+  {
+    "upsReceptacleLineIndexsecond": "1.3.6.1.4.1.818.1.1.12.8.7.1.1"
+  },
+  {
+    "upsReceptacleOnOffsecond": "1.3.6.1.4.1.818.1.1.12.8.7.1.2"
+  },
+  {
+    "upsUPSModesecond": "1.3.6.1.4.1.818.1.1.12.8.8"
+  },
+  {
+    "upsRectifierOnOffsecond": "1.3.6.1.4.1.818.1.1.12.8.9"
+  },
+  {
+    "upsBatteryChargeMethodsecond": "1.3.6.1.4.1.818.1.1.12.8.10"
+  },
+  {
+    "upsInverterOnOffsecond": "1.3.6.1.4.1.818.1.1.12.8.11"
+  },
+  {
+    "upsBypassOnOffsecond": "1.3.6.1.4.1.818.1.1.12.8.12"
+  },
+  {
+    "upsLoadSourcesecond": "1.3.6.1.4.1.818.1.1.12.8.13"
+  },
+  {
+    "upsConfigsecond": "1.3.6.1.4.1.818.1.1.12.9"
+  },
+  {
+    "upsConfigInputVoltagesecond": "1.3.6.1.4.1.818.1.1.12.9.1"
+  },
+  {
+    "upsConfigInputFreqsecond": "1.3.6.1.4.1.818.1.1.12.9.2"
+  },
+  {
+    "upsConfigOutputVoltagesecond": "1.3.6.1.4.1.818.1.1.12.9.3"
+  },
+  {
+    "upsConfigOutputFreqsecond": "1.3.6.1.4.1.818.1.1.12.9.4"
+  },
+  {
+    "upsConfigOutputVAsecond": "1.3.6.1.4.1.818.1.1.12.9.5"
+  },
+  {
+    "upsConfigOutputPowersecond": "1.3.6.1.4.1.818.1.1.12.9.6"
+  },
+  {
+    "upsConfigLowBattTimesecond": "1.3.6.1.4.1.818.1.1.12.9.7"
+  },
+  {
+    "upsConfigAudibleStatussecond": "1.3.6.1.4.1.818.1.1.12.9.8"
+  },
+  {
+    "upsConfigLowVoltageTransferPointsecond": "1.3.6.1.4.1.818.1.1.12.9.9"
+  },
+  {
+    "upsConfigHighVoltageTransferPointsecond": "1.3.6.1.4.1.818.1.1.12.9.10"
+  },
+  {
+    "upsConfigBatteryCapacitysecond": "1.3.6.1.4.1.818.1.1.12.9.11"
+  },
+  {
+    "upsConfigBatteryChargeCurrentsecond": "1.3.6.1.4.1.818.1.1.12.9.12"
+  },
+  {
+    "upsConfigNoLoadShutdownsecond": "1.3.6.1.4.1.818.1.1.12.9.13"
+  },
+  {
+    "upsConfigStartDelaysecond": "1.3.6.1.4.1.818.1.1.12.9.14"
+  },
+  {
+    "upsGetSetsecond": "1.3.6.1.4.1.818.1.1.12.10"
+  },
+  {
+    "upsEventGetNextsecond": "1.3.6.1.4.1.818.1.1.12.10.1"
+  },
+  {
+    "upsEventGetPrevioussecond": "1.3.6.1.4.1.818.1.1.12.10.2"
+  },
+  {
+    "upsEventSetStartingTimeStampsecond": "1.3.6.1.4.1.818.1.1.12.10.3"
+  },
+  {
+    "upsEventRetreiveCurrentTimeStampsecond": "1.3.6.1.4.1.818.1.1.12.10.4"
+  },
+  {
+    "upsEventTableSizesecond": "1.3.6.1.4.1.818.1.1.12.10.5"
+  },
+  {
+    "upsEventSecondTable": "1.3.6.1.4.1.818.1.1.12.10.6"
+  },
+  {
+    "upsEventSecondEntry": "1.3.6.1.4.1.818.1.1.12.10.6.1"
+  },
+  {
+    "upsEventLineIndexsecond": "1.3.6.1.4.1.818.1.1.12.10.6.1.1"
+  },
+  {
+    "upsEventCodesecond": "1.3.6.1.4.1.818.1.1.12.10.6.1.2"
+  },
+  {
+    "upsEventStatussecond": "1.3.6.1.4.1.818.1.1.12.10.6.1.3"
+  },
+  {
+    "upsEventTimesecond": "1.3.6.1.4.1.818.1.1.12.10.6.1.4"
+  },
+  {
+    "upsParametersReadsecond": "1.3.6.1.4.1.818.1.1.12.10.7"
+  },
+  {
+    "upsParametersWritesecond": "1.3.6.1.4.1.818.1.1.12.10.8"
+  },
+  {
+    "upsParametersStartAddresssecond": "1.3.6.1.4.1.818.1.1.12.10.9"
+  },
+  {
+    "upsParameterTableSizesecond": "1.3.6.1.4.1.818.1.1.12.10.10"
+  },
+  {
+    "upsParameterSecondTable": "1.3.6.1.4.1.818.1.1.12.10.11"
+  },
+  {
+    "upsParameterSecondEntry": "1.3.6.1.4.1.818.1.1.12.10.11.1"
+  },
+  {
+    "upsParameterLineIndexsecond": "1.3.6.1.4.1.818.1.1.12.10.11.1.1"
+  },
+  {
+    "upsParameterValuesecond": "1.3.6.1.4.1.818.1.1.12.10.11.1.2"
+  },
+  {
+    "upsStatussecond": "1.3.6.1.4.1.818.1.1.12.10.12"
+  },
+  {
+    "upsMainsStatisticsMBfailsecond": "1.3.6.1.4.1.818.1.1.12.10.13"
+  },
+  {
+    "upsMainsStatisticsMRfailsecond": "1.3.6.1.4.1.818.1.1.12.10.14"
+  },
+  {
+    "upsMainsStatisticsB2second": "1.3.6.1.4.1.818.1.1.12.10.15"
+  },
+  {
+    "upsMainsStatisticsB5second": "1.3.6.1.4.1.818.1.1.12.10.16"
+  },
+  {
+    "upsMainsStatisticsB10second": "1.3.6.1.4.1.818.1.1.12.10.17"
+  },
+  {
+    "upsMainsStatisticsB200second": "1.3.6.1.4.1.818.1.1.12.10.18"
+  },
+  {
+    "upsMainsStatisticsBypRelsecond": "1.3.6.1.4.1.818.1.1.12.10.19"
+  },
+  {
+    "upsTimesecond": "1.3.6.1.4.1.818.1.1.12.10.20"
+  },
+  {
+    "upsRequestPermissionsecond": "1.3.6.1.4.1.818.1.1.12.10.21"
+  },
+  {
+    "upsEventGetCodesecond": "1.3.6.1.4.1.818.1.1.12.10.22"
+  },
+  {
+    "upsEventSpinLocksecond": "1.3.6.1.4.1.818.1.1.12.10.23"
+  },
+  {
+    "upsParameterSpinLocksecond": "1.3.6.1.4.1.818.1.1.12.10.24"
+  },
+  {
+    "geUPSTrapssecond": "1.3.6.1.4.1.818.1.1.12.11"
+  },
+  {
+    "upsTrapAlarmBatteryBadsecond": "1.3.6.1.4.1.818.1.1.12.11.1"
+  },
+  {
+    "upsTrapAlarmOnBatterysecond": "1.3.6.1.4.1.818.1.1.12.11.2"
+  },
+  {
+    "upsTrapAlarmLowBatterysecond": "1.3.6.1.4.1.818.1.1.12.11.3"
+  },
+  {
+    "upsTrapAlarmDepletedBatterysecond": "1.3.6.1.4.1.818.1.1.12.11.4"
+  },
+  {
+    "upsTrapAlarmTempBadsecond": "1.3.6.1.4.1.818.1.1.12.11.5"
+  },
+  {
+    "upsTrapAlarmInputBadsecond": "1.3.6.1.4.1.818.1.1.12.11.6"
+  },
+  {
+    "upsTrapAlarmOutputBadsecond": "1.3.6.1.4.1.818.1.1.12.11.7"
+  },
+  {
+    "upsTrapAlarmOutputOverloadsecond": "1.3.6.1.4.1.818.1.1.12.11.8"
+  },
+  {
+    "upsTrapAlarmOnBypasssecond": "1.3.6.1.4.1.818.1.1.12.11.9"
+  },
+  {
+    "upsTrapAlarmBypassBadsecond": "1.3.6.1.4.1.818.1.1.12.11.10"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequestedsecond": "1.3.6.1.4.1.818.1.1.12.11.11"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequestedsecond": "1.3.6.1.4.1.818.1.1.12.11.12"
+  },
+  {
+    "upsTrapAlarmChargerFailedsecond": "1.3.6.1.4.1.818.1.1.12.11.13"
+  },
+  {
+    "upsTrapAlarmUpsOutputOffsecond": "1.3.6.1.4.1.818.1.1.12.11.14"
+  },
+  {
+    "upsTrapAlarmUpsSystemOffsecond": "1.3.6.1.4.1.818.1.1.12.11.15"
+  },
+  {
+    "upsTrapAlarmFanFailuresecond": "1.3.6.1.4.1.818.1.1.12.11.16"
+  },
+  {
+    "upsTrapAlarmFuseFailuresecond": "1.3.6.1.4.1.818.1.1.12.11.17"
+  },
+  {
+    "upsTrapAlarmGeneralFaultsecond": "1.3.6.1.4.1.818.1.1.12.11.18"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailedsecond": "1.3.6.1.4.1.818.1.1.12.11.19"
+  },
+  {
+    "upsTrapAlarmCommunicationsLostsecond": "1.3.6.1.4.1.818.1.1.12.11.20"
+  },
+  {
+    "upsTrapAlarmAwaitingPowersecond": "1.3.6.1.4.1.818.1.1.12.11.21"
+  },
+  {
+    "upsTrapAlarmShutdownPendingsecond": "1.3.6.1.4.1.818.1.1.12.11.22"
+  },
+  {
+    "upsTrapAlarmShutdownImminentsecond": "1.3.6.1.4.1.818.1.1.12.11.23"
+  },
+  {
+    "upsTrapAlarmTestInProgresssecond": "1.3.6.1.4.1.818.1.1.12.11.24"
+  },
+  {
+    "upsTrapAlarmReceptacleOffsecond": "1.3.6.1.4.1.818.1.1.12.11.25"
+  },
+  {
+    "upsTrapAlarmHighspeedBusFailuresecond": "1.3.6.1.4.1.818.1.1.12.11.26"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCFailuresecond": "1.3.6.1.4.1.818.1.1.12.11.27"
+  },
+  {
+    "upsTrapAlarmConnectivityBusFailuresecond": "1.3.6.1.4.1.818.1.1.12.11.28"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCFailuresecond": "1.3.6.1.4.1.818.1.1.12.11.29"
+  },
+  {
+    "upsTrapAlarmCurrentSharingFailuresecond": "1.3.6.1.4.1.818.1.1.12.11.30"
+  },
+  {
+    "upsTrapAlarmDCRippleFailuresecond": "1.3.6.1.4.1.818.1.1.12.11.31"
+  },
+  {
+    "upsTrapAlarmBatteryBadRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.33"
+  },
+  {
+    "upsTrapAlarmOnBatteryRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.34"
+  },
+  {
+    "upsTrapAlarmLowBatteryRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.35"
+  },
+  {
+    "upsTrapAlarmDepletedBatteryRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.36"
+  },
+  {
+    "upsTrapAlarmTempBadRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.37"
+  },
+  {
+    "upsTrapAlarmInputBadRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.38"
+  },
+  {
+    "upsTrapAlarmOutputBadRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.39"
+  },
+  {
+    "upsTrapAlarmOutputOverloadRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.40"
+  },
+  {
+    "upsTrapAlarmOnBypassRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.41"
+  },
+  {
+    "upsTrapAlarmBypassBadRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.42"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequestedRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.43"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequestedRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.44"
+  },
+  {
+    "upsTrapAlarmChargerFailedRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.45"
+  },
+  {
+    "upsTrapAlarmUpsOutputOnsecond": "1.3.6.1.4.1.818.1.1.12.11.46"
+  },
+  {
+    "upsTrapAlarmUpsSystemOnsecond": "1.3.6.1.4.1.818.1.1.12.11.47"
+  },
+  {
+    "upsTrapAlarmFanFailureRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.48"
+  },
+  {
+    "upsTrapAlarmFuseFailureRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.49"
+  },
+  {
+    "upsTrapAlarmGeneralFaultRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.50"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailedRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.51"
+  },
+  {
+    "upsTrapAlarmCommunicationsLostRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.52"
+  },
+  {
+    "upsTrapAlarmAwaitingPowerRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.53"
+  },
+  {
+    "upsTrapAlarmShutdownPendingRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.54"
+  },
+  {
+    "upsTrapAlarmShutdownImminentRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.55"
+  },
+  {
+    "upsTrapAlarmTestInProgressRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.56"
+  },
+  {
+    "upsTrapAlarmReceptacleOnsecond": "1.3.6.1.4.1.818.1.1.12.11.57"
+  },
+  {
+    "upsTrapAlarmHighspeedBusRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.58"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.59"
+  },
+  {
+    "upsTrapAlarmConnectivityBusRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.60"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.61"
+  },
+  {
+    "upsTrapAlarmCurrentSharingRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.62"
+  },
+  {
+    "upsTrapAlarmDCRippleRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.63"
+  },
+  {
+    "upsTrapAlarmValueLowsecond": "1.3.6.1.4.1.818.1.1.12.11.129"
+  },
+  {
+    "upsTrapAlarmValueHighsecond": "1.3.6.1.4.1.818.1.1.12.11.130"
+  },
+  {
+    "upsTrapAlarmValueLowRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.133"
+  },
+  {
+    "upsTrapAlarmValueHighRestoredsecond": "1.3.6.1.4.1.818.1.1.12.11.134"
+  },
+  {
+    "upsDiagnosticsecond": "1.3.6.1.4.1.818.1.1.12.12"
+  },
+  {
+    "upsDiagnosticBusJACommunicationStatussecond": "1.3.6.1.4.1.818.1.1.12.12.1"
+  },
+  {
+    "upsDiagnosticBusJBCommunicationStatussecond": "1.3.6.1.4.1.818.1.1.12.12.2"
+  },
+  {
+    "upsDiagnosticBatteryLifetimesecond": "1.3.6.1.4.1.818.1.1.12.12.3"
+  },
+  {
+    "upsDiagnosticFansLifetimesecond": "1.3.6.1.4.1.818.1.1.12.12.4"
+  },
+  {
+    "upsDiagnosticDCcapacitorsLifetimesecond": "1.3.6.1.4.1.818.1.1.12.12.5"
+  },
+  {
+    "upsDiagnosticACcapacitorsLifetimesecond": "1.3.6.1.4.1.818.1.1.12.12.6"
+  },
+  {
+    "upsDiagnosticGlobalServiceChecksecond": "1.3.6.1.4.1.818.1.1.12.12.7"
+  },
+  {
+    "geThirdUPS": "1.3.6.1.4.1.818.1.1.13"
+  },
+  {
+    "upsIdentthird": "1.3.6.1.4.1.818.1.1.13.1"
+  },
+  {
+    "upsIdentManufacturerthird": "1.3.6.1.4.1.818.1.1.13.1.1"
+  },
+  {
+    "upsIdentModelthird": "1.3.6.1.4.1.818.1.1.13.1.2"
+  },
+  {
+    "upsIdentUPSSoftwareVersionthird": "1.3.6.1.4.1.818.1.1.13.1.3"
+  },
+  {
+    "upsIdentAgentSoftwareVersionthird": "1.3.6.1.4.1.818.1.1.13.1.4"
+  },
+  {
+    "upsIdentNamethird": "1.3.6.1.4.1.818.1.1.13.1.5"
+  },
+  {
+    "upsIdentAttachedDevicesthird": "1.3.6.1.4.1.818.1.1.13.1.6"
+  },
+  {
+    "upsIdentUPSSerialNumberthird": "1.3.6.1.4.1.818.1.1.13.1.7"
+  },
+  {
+    "upsIdentComProtVersionthird": "1.3.6.1.4.1.818.1.1.13.1.8"
+  },
+  {
+    "upsIdentOperatingTimethird": "1.3.6.1.4.1.818.1.1.13.1.9"
+  },
+  {
+    "upsBatterythird": "1.3.6.1.4.1.818.1.1.13.2"
+  },
+  {
+    "upsBatteryStatusthird": "1.3.6.1.4.1.818.1.1.13.2.1"
+  },
+  {
+    "upsSecondsOnBatterythird": "1.3.6.1.4.1.818.1.1.13.2.2"
+  },
+  {
+    "upsEstimatedMinutesRemainingthird": "1.3.6.1.4.1.818.1.1.13.2.3"
+  },
+  {
+    "upsEstimatedChargeRemainingthird": "1.3.6.1.4.1.818.1.1.13.2.4"
+  },
+  {
+    "upsBatteryVoltagethird": "1.3.6.1.4.1.818.1.1.13.2.5"
+  },
+  {
+    "upsBatteryCurrentthird": "1.3.6.1.4.1.818.1.1.13.2.6"
+  },
+  {
+    "upsBatteryTemperaturethird": "1.3.6.1.4.1.818.1.1.13.2.7"
+  },
+  {
+    "upsBatteryRipplethird": "1.3.6.1.4.1.818.1.1.13.2.8"
+  },
+  {
+    "upsInputthird": "1.3.6.1.4.1.818.1.1.13.3"
+  },
+  {
+    "upsInputLineBadsthird": "1.3.6.1.4.1.818.1.1.13.3.1"
+  },
+  {
+    "upsInputNumLinesthird": "1.3.6.1.4.1.818.1.1.13.3.2"
+  },
+  {
+    "upsInputThirdTable": "1.3.6.1.4.1.818.1.1.13.3.3"
+  },
+  {
+    "upsInputThirdEntry": "1.3.6.1.4.1.818.1.1.13.3.3.1"
+  },
+  {
+    "upsInputLineIndexthird": "1.3.6.1.4.1.818.1.1.13.3.3.1.1"
+  },
+  {
+    "upsInputFrequencythird": "1.3.6.1.4.1.818.1.1.13.3.3.1.2"
+  },
+  {
+    "upsInputVoltagethird": "1.3.6.1.4.1.818.1.1.13.3.3.1.3"
+  },
+  {
+    "upsInputCurrentthird": "1.3.6.1.4.1.818.1.1.13.3.3.1.4"
+  },
+  {
+    "upsInputTruePowerthird": "1.3.6.1.4.1.818.1.1.13.3.3.1.5"
+  },
+  {
+    "upsInputVoltageMinthird": "1.3.6.1.4.1.818.1.1.13.3.3.1.6"
+  },
+  {
+    "upsInputVoltageMaxthird": "1.3.6.1.4.1.818.1.1.13.3.3.1.7"
+  },
+  {
+    "upsOutputthird": "1.3.6.1.4.1.818.1.1.13.4"
+  },
+  {
+    "upsOutputSourcethird": "1.3.6.1.4.1.818.1.1.13.4.1"
+  },
+  {
+    "upsOutputFrequencythird": "1.3.6.1.4.1.818.1.1.13.4.2"
+  },
+  {
+    "upsOutputNumLinesthird": "1.3.6.1.4.1.818.1.1.13.4.3"
+  },
+  {
+    "upsOutputThirdTable": "1.3.6.1.4.1.818.1.1.13.4.4"
+  },
+  {
+    "upsOutputThirdEntry": "1.3.6.1.4.1.818.1.1.13.4.4.1"
+  },
+  {
+    "upsOutputLineIndexthird": "1.3.6.1.4.1.818.1.1.13.4.4.1.1"
+  },
+  {
+    "upsOutputVoltagethird": "1.3.6.1.4.1.818.1.1.13.4.4.1.2"
+  },
+  {
+    "upsOutputCurrentthird": "1.3.6.1.4.1.818.1.1.13.4.4.1.3"
+  },
+  {
+    "upsOutputPowerthird": "1.3.6.1.4.1.818.1.1.13.4.4.1.4"
+  },
+  {
+    "upsOutputPercentLoadthird": "1.3.6.1.4.1.818.1.1.13.4.4.1.5"
+  },
+  {
+    "upsOutputPowerFactorthird": "1.3.6.1.4.1.818.1.1.13.4.4.1.6"
+  },
+  {
+    "upsOutputPeakCurrentthird": "1.3.6.1.4.1.818.1.1.13.4.4.1.7"
+  },
+  {
+    "upsOutputShareCurrentthird": "1.3.6.1.4.1.818.1.1.13.4.4.1.8"
+  },
+  {
+    "upsBypassthird": "1.3.6.1.4.1.818.1.1.13.5"
+  },
+  {
+    "upsBypassFrequencythird": "1.3.6.1.4.1.818.1.1.13.5.1"
+  },
+  {
+    "upsBypassNumLinesthird": "1.3.6.1.4.1.818.1.1.13.5.2"
+  },
+  {
+    "upsBypassThirdTable": "1.3.6.1.4.1.818.1.1.13.5.3"
+  },
+  {
+    "upsBypassThirdEntry": "1.3.6.1.4.1.818.1.1.13.5.3.1"
+  },
+  {
+    "upsBypassLineIndexthird": "1.3.6.1.4.1.818.1.1.13.5.3.1.1"
+  },
+  {
+    "upsBypassVoltagethird": "1.3.6.1.4.1.818.1.1.13.5.3.1.2"
+  },
+  {
+    "upsBypassCurrentthird": "1.3.6.1.4.1.818.1.1.13.5.3.1.3"
+  },
+  {
+    "upsBypassPowerthird": "1.3.6.1.4.1.818.1.1.13.5.3.1.4"
+  },
+  {
+    "upsAlarmthird": "1.3.6.1.4.1.818.1.1.13.6"
+  },
+  {
+    "upsAlarmsPresentthird": "1.3.6.1.4.1.818.1.1.13.6.1"
+  },
+  {
+    "upsAlarmThirdTable": "1.3.6.1.4.1.818.1.1.13.6.2"
+  },
+  {
+    "upsAlarmThirdEntry": "1.3.6.1.4.1.818.1.1.13.6.2.1"
+  },
+  {
+    "upsAlarmIdthird": "1.3.6.1.4.1.818.1.1.13.6.2.1.1"
+  },
+  {
+    "upsAlarmDescrthird": "1.3.6.1.4.1.818.1.1.13.6.2.1.2"
+  },
+  {
+    "upsAlarmTimethird": "1.3.6.1.4.1.818.1.1.13.6.2.1.3"
+  },
+  {
+    "upsWellKnownAlarmsthird": "1.3.6.1.4.1.818.1.1.13.6.3"
+  },
+  {
+    "upsAlarmBatteryBadthird": "1.3.6.1.4.1.818.1.1.13.6.3.1"
+  },
+  {
+    "upsAlarmOnBatterythird": "1.3.6.1.4.1.818.1.1.13.6.3.2"
+  },
+  {
+    "upsAlarmLowBatterythird": "1.3.6.1.4.1.818.1.1.13.6.3.3"
+  },
+  {
+    "upsAlarmDepletedBatterythird": "1.3.6.1.4.1.818.1.1.13.6.3.4"
+  },
+  {
+    "upsAlarmTempBadthird": "1.3.6.1.4.1.818.1.1.13.6.3.5"
+  },
+  {
+    "upsAlarmInputBadthird": "1.3.6.1.4.1.818.1.1.13.6.3.6"
+  },
+  {
+    "upsAlarmOutputBadthird": "1.3.6.1.4.1.818.1.1.13.6.3.7"
+  },
+  {
+    "upsAlarmOutputOverloadthird": "1.3.6.1.4.1.818.1.1.13.6.3.8"
+  },
+  {
+    "upsAlarmOnBypassthird": "1.3.6.1.4.1.818.1.1.13.6.3.9"
+  },
+  {
+    "upsAlarmBypassBadthird": "1.3.6.1.4.1.818.1.1.13.6.3.10"
+  },
+  {
+    "upsAlarmOutputOffAsRequestedthird": "1.3.6.1.4.1.818.1.1.13.6.3.11"
+  },
+  {
+    "upsAlarmUpsOffAsRequestedthird": "1.3.6.1.4.1.818.1.1.13.6.3.12"
+  },
+  {
+    "upsAlarmChargerFailedthird": "1.3.6.1.4.1.818.1.1.13.6.3.13"
+  },
+  {
+    "upsAlarmUpsOutputOffthird": "1.3.6.1.4.1.818.1.1.13.6.3.14"
+  },
+  {
+    "upsAlarmUpsSystemOffthird": "1.3.6.1.4.1.818.1.1.13.6.3.15"
+  },
+  {
+    "upsAlarmFanFailurethird": "1.3.6.1.4.1.818.1.1.13.6.3.16"
+  },
+  {
+    "upsAlarmFuseFailurethird": "1.3.6.1.4.1.818.1.1.13.6.3.17"
+  },
+  {
+    "upsAlarmGeneralFaultthird": "1.3.6.1.4.1.818.1.1.13.6.3.18"
+  },
+  {
+    "upsAlarmDiagnosticTestFailedthird": "1.3.6.1.4.1.818.1.1.13.6.3.19"
+  },
+  {
+    "upsAlarmCommunicationsLostthird": "1.3.6.1.4.1.818.1.1.13.6.3.20"
+  },
+  {
+    "upsAlarmAwaitingPowerthird": "1.3.6.1.4.1.818.1.1.13.6.3.21"
+  },
+  {
+    "upsAlarmShutdownPendingthird": "1.3.6.1.4.1.818.1.1.13.6.3.22"
+  },
+  {
+    "upsAlarmShutdownImminentthird": "1.3.6.1.4.1.818.1.1.13.6.3.23"
+  },
+  {
+    "upsAlarmTestInProgressthird": "1.3.6.1.4.1.818.1.1.13.6.3.24"
+  },
+  {
+    "upsAlarmReceptacleOffthird": "1.3.6.1.4.1.818.1.1.13.6.3.25"
+  },
+  {
+    "upsAlarmHighSpeedBusFailurethird": "1.3.6.1.4.1.818.1.1.13.6.3.26"
+  },
+  {
+    "upsAlarmHighSpeedBusJACRCFailurethird": "1.3.6.1.4.1.818.1.1.13.6.3.27"
+  },
+  {
+    "upsAlarmConnectivityBusFailurethird": "1.3.6.1.4.1.818.1.1.13.6.3.28"
+  },
+  {
+    "upsAlarmHighSpeedBusJBCRCFailurethird": "1.3.6.1.4.1.818.1.1.13.6.3.29"
+  },
+  {
+    "upsAlarmCurrentSharingthird": "1.3.6.1.4.1.818.1.1.13.6.3.30"
+  },
+  {
+    "upsAlarmDCRipplethird": "1.3.6.1.4.1.818.1.1.13.6.3.31"
+  },
+  {
+    "upsAlarmMaskAthird": "1.3.6.1.4.1.818.1.1.13.6.4"
+  },
+  {
+    "upsTestthird": "1.3.6.1.4.1.818.1.1.13.7"
+  },
+  {
+    "upsTestIdthird": "1.3.6.1.4.1.818.1.1.13.7.1"
+  },
+  {
+    "upsTestSpinLockthird": "1.3.6.1.4.1.818.1.1.13.7.2"
+  },
+  {
+    "upsTestResultsSummarythird": "1.3.6.1.4.1.818.1.1.13.7.3"
+  },
+  {
+    "upsTestResultsDetailthird": "1.3.6.1.4.1.818.1.1.13.7.4"
+  },
+  {
+    "upsTestStartTimethird": "1.3.6.1.4.1.818.1.1.13.7.5"
+  },
+  {
+    "upsTestElapsedTimethird": "1.3.6.1.4.1.818.1.1.13.7.6"
+  },
+  {
+    "upsWellKnownTeststhird": "1.3.6.1.4.1.818.1.1.13.7.7"
+  },
+  {
+    "upsTestNoTestsInitiatedthird": "1.3.6.1.4.1.818.1.1.13.7.7.1"
+  },
+  {
+    "upsTestAbortTestInProgressthird": "1.3.6.1.4.1.818.1.1.13.7.7.2"
+  },
+  {
+    "upsTestGeneralSystemsTestthird": "1.3.6.1.4.1.818.1.1.13.7.7.3"
+  },
+  {
+    "upsTestQuickBatteryTestthird": "1.3.6.1.4.1.818.1.1.13.7.7.4"
+  },
+  {
+    "upsTestDeepBatteryCalibrationthird": "1.3.6.1.4.1.818.1.1.13.7.7.5"
+  },
+  {
+    "upsControlthird": "1.3.6.1.4.1.818.1.1.13.8"
+  },
+  {
+    "upsShutdownTypethird": "1.3.6.1.4.1.818.1.1.13.8.1"
+  },
+  {
+    "upsShutdownAfterDelaythird": "1.3.6.1.4.1.818.1.1.13.8.2"
+  },
+  {
+    "upsStartupAfterDelaythird": "1.3.6.1.4.1.818.1.1.13.8.3"
+  },
+  {
+    "upsRebootWithDurationthird": "1.3.6.1.4.1.818.1.1.13.8.4"
+  },
+  {
+    "upsAutoRestartthird": "1.3.6.1.4.1.818.1.1.13.8.5"
+  },
+  {
+    "upsReceptaclesNumthird": "1.3.6.1.4.1.818.1.1.13.8.6"
+  },
+  {
+    "upsReceptacleThirdTable": "1.3.6.1.4.1.818.1.1.13.8.7"
+  },
+  {
+    "upsReceptacleThirdEntry": "1.3.6.1.4.1.818.1.1.13.8.7.1"
+  },
+  {
+    "upsReceptacleLineIndexthird": "1.3.6.1.4.1.818.1.1.13.8.7.1.1"
+  },
+  {
+    "upsReceptacleOnOffthird": "1.3.6.1.4.1.818.1.1.13.8.7.1.2"
+  },
+  {
+    "upsUPSModethird": "1.3.6.1.4.1.818.1.1.13.8.8"
+  },
+  {
+    "upsRectifierOnOffthird": "1.3.6.1.4.1.818.1.1.13.8.9"
+  },
+  {
+    "upsBatteryChargeMethodthird": "1.3.6.1.4.1.818.1.1.13.8.10"
+  },
+  {
+    "upsInverterOnOffthird": "1.3.6.1.4.1.818.1.1.13.8.11"
+  },
+  {
+    "upsBypassOnOffthird": "1.3.6.1.4.1.818.1.1.13.8.12"
+  },
+  {
+    "upsLoadSourcethird": "1.3.6.1.4.1.818.1.1.13.8.13"
+  },
+  {
+    "upsConfigthird": "1.3.6.1.4.1.818.1.1.13.9"
+  },
+  {
+    "upsConfigInputVoltagethird": "1.3.6.1.4.1.818.1.1.13.9.1"
+  },
+  {
+    "upsConfigInputFreqthird": "1.3.6.1.4.1.818.1.1.13.9.2"
+  },
+  {
+    "upsConfigOutputVoltagethird": "1.3.6.1.4.1.818.1.1.13.9.3"
+  },
+  {
+    "upsConfigOutputFreqthird": "1.3.6.1.4.1.818.1.1.13.9.4"
+  },
+  {
+    "upsConfigOutputVAthird": "1.3.6.1.4.1.818.1.1.13.9.5"
+  },
+  {
+    "upsConfigOutputPowerthird": "1.3.6.1.4.1.818.1.1.13.9.6"
+  },
+  {
+    "upsConfigLowBattTimethird": "1.3.6.1.4.1.818.1.1.13.9.7"
+  },
+  {
+    "upsConfigAudibleStatusthird": "1.3.6.1.4.1.818.1.1.13.9.8"
+  },
+  {
+    "upsConfigLowVoltageTransferPointthird": "1.3.6.1.4.1.818.1.1.13.9.9"
+  },
+  {
+    "upsConfigHighVoltageTransferPointthird": "1.3.6.1.4.1.818.1.1.13.9.10"
+  },
+  {
+    "upsConfigBatteryCapacitythird": "1.3.6.1.4.1.818.1.1.13.9.11"
+  },
+  {
+    "upsConfigBatteryChargeCurrentthird": "1.3.6.1.4.1.818.1.1.13.9.12"
+  },
+  {
+    "upsConfigNoLoadShutdownthird": "1.3.6.1.4.1.818.1.1.13.9.13"
+  },
+  {
+    "upsConfigStartDelaythird": "1.3.6.1.4.1.818.1.1.13.9.14"
+  },
+  {
+    "upsGetSetthird": "1.3.6.1.4.1.818.1.1.13.10"
+  },
+  {
+    "upsEventGetNextthird": "1.3.6.1.4.1.818.1.1.13.10.1"
+  },
+  {
+    "upsEventGetPreviousthird": "1.3.6.1.4.1.818.1.1.13.10.2"
+  },
+  {
+    "upsEventSetStartingTimeStampthird": "1.3.6.1.4.1.818.1.1.13.10.3"
+  },
+  {
+    "upsEventRetreiveCurrentTimeStampthird": "1.3.6.1.4.1.818.1.1.13.10.4"
+  },
+  {
+    "upsEventTableSizethird": "1.3.6.1.4.1.818.1.1.13.10.5"
+  },
+  {
+    "upsEventThirdTable": "1.3.6.1.4.1.818.1.1.13.10.6"
+  },
+  {
+    "upsEventThirdEntry": "1.3.6.1.4.1.818.1.1.13.10.6.1"
+  },
+  {
+    "upsEventLineIndexthird": "1.3.6.1.4.1.818.1.1.13.10.6.1.1"
+  },
+  {
+    "upsEventCodethird": "1.3.6.1.4.1.818.1.1.13.10.6.1.2"
+  },
+  {
+    "upsEventStatusthird": "1.3.6.1.4.1.818.1.1.13.10.6.1.3"
+  },
+  {
+    "upsEventTimethird": "1.3.6.1.4.1.818.1.1.13.10.6.1.4"
+  },
+  {
+    "upsParametersReadthird": "1.3.6.1.4.1.818.1.1.13.10.7"
+  },
+  {
+    "upsParametersWritethird": "1.3.6.1.4.1.818.1.1.13.10.8"
+  },
+  {
+    "upsParametersStartAddressthird": "1.3.6.1.4.1.818.1.1.13.10.9"
+  },
+  {
+    "upsParameterTableSizethird": "1.3.6.1.4.1.818.1.1.13.10.10"
+  },
+  {
+    "upsParameterThirdTable": "1.3.6.1.4.1.818.1.1.13.10.11"
+  },
+  {
+    "upsParameterThirdEntry": "1.3.6.1.4.1.818.1.1.13.10.11.1"
+  },
+  {
+    "upsParameterLineIndexthird": "1.3.6.1.4.1.818.1.1.13.10.11.1.1"
+  },
+  {
+    "upsParameterValuethird": "1.3.6.1.4.1.818.1.1.13.10.11.1.2"
+  },
+  {
+    "upsStatusthird": "1.3.6.1.4.1.818.1.1.13.10.12"
+  },
+  {
+    "upsMainsStatisticsMBfailthird": "1.3.6.1.4.1.818.1.1.13.10.13"
+  },
+  {
+    "upsMainsStatisticsMRfailthird": "1.3.6.1.4.1.818.1.1.13.10.14"
+  },
+  {
+    "upsMainsStatisticsB2third": "1.3.6.1.4.1.818.1.1.13.10.15"
+  },
+  {
+    "upsMainsStatisticsB5third": "1.3.6.1.4.1.818.1.1.13.10.16"
+  },
+  {
+    "upsMainsStatisticsB10third": "1.3.6.1.4.1.818.1.1.13.10.17"
+  },
+  {
+    "upsMainsStatisticsB200third": "1.3.6.1.4.1.818.1.1.13.10.18"
+  },
+  {
+    "upsMainsStatisticsBypRelthird": "1.3.6.1.4.1.818.1.1.13.10.19"
+  },
+  {
+    "upsTimethird": "1.3.6.1.4.1.818.1.1.13.10.20"
+  },
+  {
+    "upsRequestPermissionthird": "1.3.6.1.4.1.818.1.1.13.10.21"
+  },
+  {
+    "upsEventGetCodethird": "1.3.6.1.4.1.818.1.1.13.10.22"
+  },
+  {
+    "upsEventSpinLockthird": "1.3.6.1.4.1.818.1.1.13.10.23"
+  },
+  {
+    "upsParameterSpinLockthird": "1.3.6.1.4.1.818.1.1.13.10.24"
+  },
+  {
+    "geUPSTrapsthird": "1.3.6.1.4.1.818.1.1.13.11"
+  },
+  {
+    "upsTrapAlarmBatteryBadthird": "1.3.6.1.4.1.818.1.1.13.11.1"
+  },
+  {
+    "upsTrapAlarmOnBatterythird": "1.3.6.1.4.1.818.1.1.13.11.2"
+  },
+  {
+    "upsTrapAlarmLowBatterythird": "1.3.6.1.4.1.818.1.1.13.11.3"
+  },
+  {
+    "upsTrapAlarmDepletedBatterythird": "1.3.6.1.4.1.818.1.1.13.11.4"
+  },
+  {
+    "upsTrapAlarmTempBadthird": "1.3.6.1.4.1.818.1.1.13.11.5"
+  },
+  {
+    "upsTrapAlarmInputBadthird": "1.3.6.1.4.1.818.1.1.13.11.6"
+  },
+  {
+    "upsTrapAlarmOutputBadthird": "1.3.6.1.4.1.818.1.1.13.11.7"
+  },
+  {
+    "upsTrapAlarmOutputOverloadthird": "1.3.6.1.4.1.818.1.1.13.11.8"
+  },
+  {
+    "upsTrapAlarmOnBypassthird": "1.3.6.1.4.1.818.1.1.13.11.9"
+  },
+  {
+    "upsTrapAlarmBypassBadthird": "1.3.6.1.4.1.818.1.1.13.11.10"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequestedthird": "1.3.6.1.4.1.818.1.1.13.11.11"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequestedthird": "1.3.6.1.4.1.818.1.1.13.11.12"
+  },
+  {
+    "upsTrapAlarmChargerFailedthird": "1.3.6.1.4.1.818.1.1.13.11.13"
+  },
+  {
+    "upsTrapAlarmUpsOutputOffthird": "1.3.6.1.4.1.818.1.1.13.11.14"
+  },
+  {
+    "upsTrapAlarmUpsSystemOffthird": "1.3.6.1.4.1.818.1.1.13.11.15"
+  },
+  {
+    "upsTrapAlarmFanFailurethird": "1.3.6.1.4.1.818.1.1.13.11.16"
+  },
+  {
+    "upsTrapAlarmFuseFailurethird": "1.3.6.1.4.1.818.1.1.13.11.17"
+  },
+  {
+    "upsTrapAlarmGeneralFaultthird": "1.3.6.1.4.1.818.1.1.13.11.18"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailedthird": "1.3.6.1.4.1.818.1.1.13.11.19"
+  },
+  {
+    "upsTrapAlarmCommunicationsLostthird": "1.3.6.1.4.1.818.1.1.13.11.20"
+  },
+  {
+    "upsTrapAlarmAwaitingPowerthird": "1.3.6.1.4.1.818.1.1.13.11.21"
+  },
+  {
+    "upsTrapAlarmShutdownPendingthird": "1.3.6.1.4.1.818.1.1.13.11.22"
+  },
+  {
+    "upsTrapAlarmShutdownImminentthird": "1.3.6.1.4.1.818.1.1.13.11.23"
+  },
+  {
+    "upsTrapAlarmTestInProgressthird": "1.3.6.1.4.1.818.1.1.13.11.24"
+  },
+  {
+    "upsTrapAlarmReceptacleOffthird": "1.3.6.1.4.1.818.1.1.13.11.25"
+  },
+  {
+    "upsTrapAlarmHighspeedBusFailurethird": "1.3.6.1.4.1.818.1.1.13.11.26"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCFailurethird": "1.3.6.1.4.1.818.1.1.13.11.27"
+  },
+  {
+    "upsTrapAlarmConnectivityBusFailurethird": "1.3.6.1.4.1.818.1.1.13.11.28"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCFailurethird": "1.3.6.1.4.1.818.1.1.13.11.29"
+  },
+  {
+    "upsTrapAlarmCurrentSharingFailurethird": "1.3.6.1.4.1.818.1.1.13.11.30"
+  },
+  {
+    "upsTrapAlarmDCRippleFailurethird": "1.3.6.1.4.1.818.1.1.13.11.31"
+  },
+  {
+    "upsTrapAlarmBatteryBadRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.33"
+  },
+  {
+    "upsTrapAlarmOnBatteryRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.34"
+  },
+  {
+    "upsTrapAlarmLowBatteryRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.35"
+  },
+  {
+    "upsTrapAlarmDepletedBatteryRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.36"
+  },
+  {
+    "upsTrapAlarmTempBadRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.37"
+  },
+  {
+    "upsTrapAlarmInputBadRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.38"
+  },
+  {
+    "upsTrapAlarmOutputBadRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.39"
+  },
+  {
+    "upsTrapAlarmOutputOverloadRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.40"
+  },
+  {
+    "upsTrapAlarmOnBypassRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.41"
+  },
+  {
+    "upsTrapAlarmBypassBadRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.42"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequestedRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.43"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequestedRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.44"
+  },
+  {
+    "upsTrapAlarmChargerFailedRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.45"
+  },
+  {
+    "upsTrapAlarmUpsOutputOnthird": "1.3.6.1.4.1.818.1.1.13.11.46"
+  },
+  {
+    "upsTrapAlarmUpsSystemOnthird": "1.3.6.1.4.1.818.1.1.13.11.47"
+  },
+  {
+    "upsTrapAlarmFanFailureRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.48"
+  },
+  {
+    "upsTrapAlarmFuseFailureRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.49"
+  },
+  {
+    "upsTrapAlarmGeneralFaultRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.50"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailedRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.51"
+  },
+  {
+    "upsTrapAlarmCommunicationsLostRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.52"
+  },
+  {
+    "upsTrapAlarmAwaitingPowerRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.53"
+  },
+  {
+    "upsTrapAlarmShutdownPendingRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.54"
+  },
+  {
+    "upsTrapAlarmShutdownImminentRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.55"
+  },
+  {
+    "upsTrapAlarmTestInProgressRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.56"
+  },
+  {
+    "upsTrapAlarmReceptacleOnthird": "1.3.6.1.4.1.818.1.1.13.11.57"
+  },
+  {
+    "upsTrapAlarmHighspeedBusRestorethird": "1.3.6.1.4.1.818.1.1.13.11.58"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCRestorethird": "1.3.6.1.4.1.818.1.1.13.11.59"
+  },
+  {
+    "upsTrapAlarmConnectivityBusRestorethird": "1.3.6.1.4.1.818.1.1.13.11.60"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.61"
+  },
+  {
+    "upsTrapAlarmCurrentSharingRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.62"
+  },
+  {
+    "upsTrapAlarmDCRippleRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.63"
+  },
+  {
+    "upsTrapAlarmValueLowthird": "1.3.6.1.4.1.818.1.1.13.11.129"
+  },
+  {
+    "upsTrapAlarmValueHighthird": "1.3.6.1.4.1.818.1.1.13.11.130"
+  },
+  {
+    "upsTrapAlarmValueLowRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.133"
+  },
+  {
+    "upsTrapAlarmValueHighRestoredthird": "1.3.6.1.4.1.818.1.1.13.11.134"
+  },
+  {
+    "upsDiagnosticthird": "1.3.6.1.4.1.818.1.1.13.12"
+  },
+  {
+    "upsDiagnosticBusJACommunicationStatusthird": "1.3.6.1.4.1.818.1.1.13.12.1"
+  },
+  {
+    "upsDiagnosticBusJBCommunicationStatusthird": "1.3.6.1.4.1.818.1.1.13.12.2"
+  },
+  {
+    "upsDiagnosticBatteryLifetimethird": "1.3.6.1.4.1.818.1.1.13.12.3"
+  },
+  {
+    "upsDiagnosticFansLifetimethird": "1.3.6.1.4.1.818.1.1.13.12.4"
+  },
+  {
+    "upsDiagnosticDCcapacitorsLifetimethird": "1.3.6.1.4.1.818.1.1.13.12.5"
+  },
+  {
+    "upsDiagnosticACcapacitorsLifetimethird": "1.3.6.1.4.1.818.1.1.13.12.6"
+  },
+  {
+    "upsDiagnosticGlobalServiceCheckthird": "1.3.6.1.4.1.818.1.1.13.12.7"
+  },
+  {
+    "geFourthUPS": "1.3.6.1.4.1.818.1.1.14"
+  },
+  {
+    "upsIdentfourth": "1.3.6.1.4.1.818.1.1.14.1"
+  },
+  {
+    "upsIdentManufacturerfourth": "1.3.6.1.4.1.818.1.1.14.1.1"
+  },
+  {
+    "upsIdentModelfourth": "1.3.6.1.4.1.818.1.1.14.1.2"
+  },
+  {
+    "upsIdentUPSSoftwareVersionfourth": "1.3.6.1.4.1.818.1.1.14.1.3"
+  },
+  {
+    "upsIdentAgentSoftwareVersionfourth": "1.3.6.1.4.1.818.1.1.14.1.4"
+  },
+  {
+    "upsIdentNamefourth": "1.3.6.1.4.1.818.1.1.14.1.5"
+  },
+  {
+    "upsIdentAttachedDevicesfourth": "1.3.6.1.4.1.818.1.1.14.1.6"
+  },
+  {
+    "upsIdentUPSSerialNumberfourth": "1.3.6.1.4.1.818.1.1.14.1.7"
+  },
+  {
+    "upsIdentComProtVersionfourth": "1.3.6.1.4.1.818.1.1.14.1.8"
+  },
+  {
+    "upsIdentOperatingTimefourth": "1.3.6.1.4.1.818.1.1.14.1.9"
+  },
+  {
+    "upsBatteryfourth": "1.3.6.1.4.1.818.1.1.14.2"
+  },
+  {
+    "upsBatteryStatusfourth": "1.3.6.1.4.1.818.1.1.14.2.1"
+  },
+  {
+    "upsSecondsOnBatteryfourth": "1.3.6.1.4.1.818.1.1.14.2.2"
+  },
+  {
+    "upsEstimatedMinutesRemainingfourth": "1.3.6.1.4.1.818.1.1.14.2.3"
+  },
+  {
+    "upsEstimatedChargeRemainingfourth": "1.3.6.1.4.1.818.1.1.14.2.4"
+  },
+  {
+    "upsBatteryVoltagefourth": "1.3.6.1.4.1.818.1.1.14.2.5"
+  },
+  {
+    "upsBatteryCurrentfourth": "1.3.6.1.4.1.818.1.1.14.2.6"
+  },
+  {
+    "upsBatteryTemperaturefourth": "1.3.6.1.4.1.818.1.1.14.2.7"
+  },
+  {
+    "upsBatteryRipplefourth": "1.3.6.1.4.1.818.1.1.14.2.8"
+  },
+  {
+    "upsInputfourth": "1.3.6.1.4.1.818.1.1.14.3"
+  },
+  {
+    "upsInputLineBadsfourth": "1.3.6.1.4.1.818.1.1.14.3.1"
+  },
+  {
+    "upsInputNumLinesfourth": "1.3.6.1.4.1.818.1.1.14.3.2"
+  },
+  {
+    "upsInputFourthTable": "1.3.6.1.4.1.818.1.1.14.3.3"
+  },
+  {
+    "upsInputFourthEntry": "1.3.6.1.4.1.818.1.1.14.3.3.1"
+  },
+  {
+    "upsInputLineIndexfourth": "1.3.6.1.4.1.818.1.1.14.3.3.1.1"
+  },
+  {
+    "upsInputFrequencyfourth": "1.3.6.1.4.1.818.1.1.14.3.3.1.2"
+  },
+  {
+    "upsInputVoltagefourth": "1.3.6.1.4.1.818.1.1.14.3.3.1.3"
+  },
+  {
+    "upsInputCurrentfourth": "1.3.6.1.4.1.818.1.1.14.3.3.1.4"
+  },
+  {
+    "upsInputTruePowerfourth": "1.3.6.1.4.1.818.1.1.14.3.3.1.5"
+  },
+  {
+    "upsInputVoltageMinfourth": "1.3.6.1.4.1.818.1.1.14.3.3.1.6"
+  },
+  {
+    "upsInputVoltageMaxfourth": "1.3.6.1.4.1.818.1.1.14.3.3.1.7"
+  },
+  {
+    "upsOutputfourth": "1.3.6.1.4.1.818.1.1.14.4"
+  },
+  {
+    "upsOutputSourcefourth": "1.3.6.1.4.1.818.1.1.14.4.1"
+  },
+  {
+    "upsOutputFrequencyfourth": "1.3.6.1.4.1.818.1.1.14.4.2"
+  },
+  {
+    "upsOutputNumLinesfourth": "1.3.6.1.4.1.818.1.1.14.4.3"
+  },
+  {
+    "upsOutputFourthTable": "1.3.6.1.4.1.818.1.1.14.4.4"
+  },
+  {
+    "upsOutputFourthEntry": "1.3.6.1.4.1.818.1.1.14.4.4.1"
+  },
+  {
+    "upsOutputLineIndexfourth": "1.3.6.1.4.1.818.1.1.14.4.4.1.1"
+  },
+  {
+    "upsOutputVoltagefourth": "1.3.6.1.4.1.818.1.1.14.4.4.1.2"
+  },
+  {
+    "upsOutputCurrentfourth": "1.3.6.1.4.1.818.1.1.14.4.4.1.3"
+  },
+  {
+    "upsOutputPowerfourth": "1.3.6.1.4.1.818.1.1.14.4.4.1.4"
+  },
+  {
+    "upsOutputPercentLoadfourth": "1.3.6.1.4.1.818.1.1.14.4.4.1.5"
+  },
+  {
+    "upsOutputPowerFactorfourth": "1.3.6.1.4.1.818.1.1.14.4.4.1.6"
+  },
+  {
+    "upsOutputPeakCurrentfourth": "1.3.6.1.4.1.818.1.1.14.4.4.1.7"
+  },
+  {
+    "upsOutputShareCurrentfourth": "1.3.6.1.4.1.818.1.1.14.4.4.1.8"
+  },
+  {
+    "upsBypassfourth": "1.3.6.1.4.1.818.1.1.14.5"
+  },
+  {
+    "upsBypassFrequencyfourth": "1.3.6.1.4.1.818.1.1.14.5.1"
+  },
+  {
+    "upsBypassNumLinesfourth": "1.3.6.1.4.1.818.1.1.14.5.2"
+  },
+  {
+    "upsBypassFourthTable": "1.3.6.1.4.1.818.1.1.14.5.3"
+  },
+  {
+    "upsBypassFourthEntry": "1.3.6.1.4.1.818.1.1.14.5.3.1"
+  },
+  {
+    "upsBypassLineIndexfourth": "1.3.6.1.4.1.818.1.1.14.5.3.1.1"
+  },
+  {
+    "upsBypassVoltagefourth": "1.3.6.1.4.1.818.1.1.14.5.3.1.2"
+  },
+  {
+    "upsBypassCurrentfourth": "1.3.6.1.4.1.818.1.1.14.5.3.1.3"
+  },
+  {
+    "upsBypassPowerfourth": "1.3.6.1.4.1.818.1.1.14.5.3.1.4"
+  },
+  {
+    "upsAlarmfourth": "1.3.6.1.4.1.818.1.1.14.6"
+  },
+  {
+    "upsAlarmsPresentfourth": "1.3.6.1.4.1.818.1.1.14.6.1"
+  },
+  {
+    "upsAlarmFourthTable": "1.3.6.1.4.1.818.1.1.14.6.2"
+  },
+  {
+    "upsAlarmFourthEntry": "1.3.6.1.4.1.818.1.1.14.6.2.1"
+  },
+  {
+    "upsAlarmIdfourth": "1.3.6.1.4.1.818.1.1.14.6.2.1.1"
+  },
+  {
+    "upsAlarmDescrfourth": "1.3.6.1.4.1.818.1.1.14.6.2.1.2"
+  },
+  {
+    "upsAlarmTimefourth": "1.3.6.1.4.1.818.1.1.14.6.2.1.3"
+  },
+  {
+    "upsWellKnownAlarmsfourth": "1.3.6.1.4.1.818.1.1.14.6.3"
+  },
+  {
+    "upsAlarmBatteryBadfourth": "1.3.6.1.4.1.818.1.1.14.6.3.1"
+  },
+  {
+    "upsAlarmOnBatteryfourth": "1.3.6.1.4.1.818.1.1.14.6.3.2"
+  },
+  {
+    "upsAlarmLowBatteryfourth": "1.3.6.1.4.1.818.1.1.14.6.3.3"
+  },
+  {
+    "upsAlarmDepletedBatteryfourth": "1.3.6.1.4.1.818.1.1.14.6.3.4"
+  },
+  {
+    "upsAlarmTempBadfourth": "1.3.6.1.4.1.818.1.1.14.6.3.5"
+  },
+  {
+    "upsAlarmInputBadfourth": "1.3.6.1.4.1.818.1.1.14.6.3.6"
+  },
+  {
+    "upsAlarmOutputBadfourth": "1.3.6.1.4.1.818.1.1.14.6.3.7"
+  },
+  {
+    "upsAlarmOutputOverloadfourth": "1.3.6.1.4.1.818.1.1.14.6.3.8"
+  },
+  {
+    "upsAlarmOnBypassfourth": "1.3.6.1.4.1.818.1.1.14.6.3.9"
+  },
+  {
+    "upsAlarmBypassBadfourth": "1.3.6.1.4.1.818.1.1.14.6.3.10"
+  },
+  {
+    "upsAlarmOutputOffAsRequestedfourth": "1.3.6.1.4.1.818.1.1.14.6.3.11"
+  },
+  {
+    "upsAlarmUpsOffAsRequestedfourth": "1.3.6.1.4.1.818.1.1.14.6.3.12"
+  },
+  {
+    "upsAlarmChargerFailedfourth": "1.3.6.1.4.1.818.1.1.14.6.3.13"
+  },
+  {
+    "upsAlarmUpsOutputOfffourth": "1.3.6.1.4.1.818.1.1.14.6.3.14"
+  },
+  {
+    "upsAlarmUpsSystemOfffourth": "1.3.6.1.4.1.818.1.1.14.6.3.15"
+  },
+  {
+    "upsAlarmFanFailurefourth": "1.3.6.1.4.1.818.1.1.14.6.3.16"
+  },
+  {
+    "upsAlarmFuseFailurefourth": "1.3.6.1.4.1.818.1.1.14.6.3.17"
+  },
+  {
+    "upsAlarmGeneralFaultfourth": "1.3.6.1.4.1.818.1.1.14.6.3.18"
+  },
+  {
+    "upsAlarmDiagnosticTestFailedfourth": "1.3.6.1.4.1.818.1.1.14.6.3.19"
+  },
+  {
+    "upsAlarmCommunicationsLostfourth": "1.3.6.1.4.1.818.1.1.14.6.3.20"
+  },
+  {
+    "upsAlarmAwaitingPowerfourth": "1.3.6.1.4.1.818.1.1.14.6.3.21"
+  },
+  {
+    "upsAlarmShutdownPendingfourth": "1.3.6.1.4.1.818.1.1.14.6.3.22"
+  },
+  {
+    "upsAlarmShutdownImminentfourth": "1.3.6.1.4.1.818.1.1.14.6.3.23"
+  },
+  {
+    "upsAlarmTestInProgressfourth": "1.3.6.1.4.1.818.1.1.14.6.3.24"
+  },
+  {
+    "upsAlarmReceptacleOfffourth": "1.3.6.1.4.1.818.1.1.14.6.3.25"
+  },
+  {
+    "upsAlarmHighSpeedBusFailurefourth": "1.3.6.1.4.1.818.1.1.14.6.3.26"
+  },
+  {
+    "upsAlarmHighSpeedBusJACRCFailurefourth": "1.3.6.1.4.1.818.1.1.14.6.3.27"
+  },
+  {
+    "upsAlarmConnectivityBusFailurefourth": "1.3.6.1.4.1.818.1.1.14.6.3.28"
+  },
+  {
+    "upsAlarmHighSpeedBusJBCRCFailurefourth": "1.3.6.1.4.1.818.1.1.14.6.3.29"
+  },
+  {
+    "upsAlarmCurrentSharingfourth": "1.3.6.1.4.1.818.1.1.14.6.3.30"
+  },
+  {
+    "upsAlarmDCRipplefourth": "1.3.6.1.4.1.818.1.1.14.6.3.31"
+  },
+  {
+    "upsAlarmMaskAfourth": "1.3.6.1.4.1.818.1.1.14.6.4"
+  },
+  {
+    "upsTestfourth": "1.3.6.1.4.1.818.1.1.14.7"
+  },
+  {
+    "upsTestIdfourth": "1.3.6.1.4.1.818.1.1.14.7.1"
+  },
+  {
+    "upsTestSpinLockfourth": "1.3.6.1.4.1.818.1.1.14.7.2"
+  },
+  {
+    "upsTestResultsSummaryfourth": "1.3.6.1.4.1.818.1.1.14.7.3"
+  },
+  {
+    "upsTestResultsDetailfourth": "1.3.6.1.4.1.818.1.1.14.7.4"
+  },
+  {
+    "upsTestStartTimefourth": "1.3.6.1.4.1.818.1.1.14.7.5"
+  },
+  {
+    "upsTestElapsedTimefourth": "1.3.6.1.4.1.818.1.1.14.7.6"
+  },
+  {
+    "upsWellKnownTestsfourth": "1.3.6.1.4.1.818.1.1.14.7.7"
+  },
+  {
+    "upsTestNoTestsInitiatedfourth": "1.3.6.1.4.1.818.1.1.14.7.7.1"
+  },
+  {
+    "upsTestAbortTestInProgressfourth": "1.3.6.1.4.1.818.1.1.14.7.7.2"
+  },
+  {
+    "upsTestGeneralSystemsTestfourth": "1.3.6.1.4.1.818.1.1.14.7.7.3"
+  },
+  {
+    "upsTestQuickBatteryTestfourth": "1.3.6.1.4.1.818.1.1.14.7.7.4"
+  },
+  {
+    "upsTestDeepBatteryCalibrationfourth": "1.3.6.1.4.1.818.1.1.14.7.7.5"
+  },
+  {
+    "upsControlfourth": "1.3.6.1.4.1.818.1.1.14.8"
+  },
+  {
+    "upsShutdownTypefourth": "1.3.6.1.4.1.818.1.1.14.8.1"
+  },
+  {
+    "upsShutdownAfterDelayfourth": "1.3.6.1.4.1.818.1.1.14.8.2"
+  },
+  {
+    "upsStartupAfterDelayfourth": "1.3.6.1.4.1.818.1.1.14.8.3"
+  },
+  {
+    "upsRebootWithDurationfourth": "1.3.6.1.4.1.818.1.1.14.8.4"
+  },
+  {
+    "upsAutoRestartfourth": "1.3.6.1.4.1.818.1.1.14.8.5"
+  },
+  {
+    "upsReceptaclesNumfourth": "1.3.6.1.4.1.818.1.1.14.8.6"
+  },
+  {
+    "upsReceptacleFourthTable": "1.3.6.1.4.1.818.1.1.14.8.7"
+  },
+  {
+    "upsReceptacleFourthEntry": "1.3.6.1.4.1.818.1.1.14.8.7.1"
+  },
+  {
+    "upsReceptacleLineIndexfourth": "1.3.6.1.4.1.818.1.1.14.8.7.1.1"
+  },
+  {
+    "upsReceptacleOnOfffourth": "1.3.6.1.4.1.818.1.1.14.8.7.1.2"
+  },
+  {
+    "upsUPSModefourth": "1.3.6.1.4.1.818.1.1.14.8.8"
+  },
+  {
+    "upsRectifierOnOfffourth": "1.3.6.1.4.1.818.1.1.14.8.9"
+  },
+  {
+    "upsBatteryChargeMethodfourth": "1.3.6.1.4.1.818.1.1.14.8.10"
+  },
+  {
+    "upsInverterOnOfffourth": "1.3.6.1.4.1.818.1.1.14.8.11"
+  },
+  {
+    "upsBypassOnOfffourth": "1.3.6.1.4.1.818.1.1.14.8.12"
+  },
+  {
+    "upsLoadSourcefourth": "1.3.6.1.4.1.818.1.1.14.8.13"
+  },
+  {
+    "upsConfigfourth": "1.3.6.1.4.1.818.1.1.14.9"
+  },
+  {
+    "upsConfigInputVoltagefourth": "1.3.6.1.4.1.818.1.1.14.9.1"
+  },
+  {
+    "upsConfigInputFreqfourth": "1.3.6.1.4.1.818.1.1.14.9.2"
+  },
+  {
+    "upsConfigOutputVoltagefourth": "1.3.6.1.4.1.818.1.1.14.9.3"
+  },
+  {
+    "upsConfigOutputFreqfourth": "1.3.6.1.4.1.818.1.1.14.9.4"
+  },
+  {
+    "upsConfigOutputVAfourth": "1.3.6.1.4.1.818.1.1.14.9.5"
+  },
+  {
+    "upsConfigOutputPowerfourth": "1.3.6.1.4.1.818.1.1.14.9.6"
+  },
+  {
+    "upsConfigLowBattTimefourth": "1.3.6.1.4.1.818.1.1.14.9.7"
+  },
+  {
+    "upsConfigAudibleStatusfourth": "1.3.6.1.4.1.818.1.1.14.9.8"
+  },
+  {
+    "upsConfigLowVoltageTransferPointfourth": "1.3.6.1.4.1.818.1.1.14.9.9"
+  },
+  {
+    "upsConfigHighVoltageTransferPointfourth": "1.3.6.1.4.1.818.1.1.14.9.10"
+  },
+  {
+    "upsConfigBatteryCapacityfourth": "1.3.6.1.4.1.818.1.1.14.9.11"
+  },
+  {
+    "upsConfigBatteryChargeCurrentfourth": "1.3.6.1.4.1.818.1.1.14.9.12"
+  },
+  {
+    "upsConfigNoLoadShutdownfourth": "1.3.6.1.4.1.818.1.1.14.9.13"
+  },
+  {
+    "upsConfigStartDelayfourth": "1.3.6.1.4.1.818.1.1.14.9.14"
+  },
+  {
+    "upsGetSetfourth": "1.3.6.1.4.1.818.1.1.14.10"
+  },
+  {
+    "upsEventGetNextfourth": "1.3.6.1.4.1.818.1.1.14.10.1"
+  },
+  {
+    "upsEventGetPreviousfourth": "1.3.6.1.4.1.818.1.1.14.10.2"
+  },
+  {
+    "upsEventSetStartingTimeStampfourth": "1.3.6.1.4.1.818.1.1.14.10.3"
+  },
+  {
+    "upsEventRetreiveCurrentTimeStampfourth": "1.3.6.1.4.1.818.1.1.14.10.4"
+  },
+  {
+    "upsEventTableSizefourth": "1.3.6.1.4.1.818.1.1.14.10.5"
+  },
+  {
+    "upsEventFourthTable": "1.3.6.1.4.1.818.1.1.14.10.6"
+  },
+  {
+    "upsEventFourthEntry": "1.3.6.1.4.1.818.1.1.14.10.6.1"
+  },
+  {
+    "upsEventLineIndexfourth": "1.3.6.1.4.1.818.1.1.14.10.6.1.1"
+  },
+  {
+    "upsEventCodefourth": "1.3.6.1.4.1.818.1.1.14.10.6.1.2"
+  },
+  {
+    "upsEventStatusfourth": "1.3.6.1.4.1.818.1.1.14.10.6.1.3"
+  },
+  {
+    "upsEventTimefourth": "1.3.6.1.4.1.818.1.1.14.10.6.1.4"
+  },
+  {
+    "upsParametersReadfourth": "1.3.6.1.4.1.818.1.1.14.10.7"
+  },
+  {
+    "upsParametersWritefourth": "1.3.6.1.4.1.818.1.1.14.10.8"
+  },
+  {
+    "upsParametersStartAddressfourth": "1.3.6.1.4.1.818.1.1.14.10.9"
+  },
+  {
+    "upsParameterTableSizefourth": "1.3.6.1.4.1.818.1.1.14.10.10"
+  },
+  {
+    "upsParameterFourthTable": "1.3.6.1.4.1.818.1.1.14.10.11"
+  },
+  {
+    "upsParameterFourthEntry": "1.3.6.1.4.1.818.1.1.14.10.11.1"
+  },
+  {
+    "upsParameterLineIndexfourth": "1.3.6.1.4.1.818.1.1.14.10.11.1.1"
+  },
+  {
+    "upsParameterValuefourth": "1.3.6.1.4.1.818.1.1.14.10.11.1.2"
+  },
+  {
+    "upsStatusfourth": "1.3.6.1.4.1.818.1.1.14.10.12"
+  },
+  {
+    "upsMainsStatisticsMBfailfourth": "1.3.6.1.4.1.818.1.1.14.10.13"
+  },
+  {
+    "upsMainsStatisticsMRfailfourth": "1.3.6.1.4.1.818.1.1.14.10.14"
+  },
+  {
+    "upsMainsStatisticsB2fourth": "1.3.6.1.4.1.818.1.1.14.10.15"
+  },
+  {
+    "upsMainsStatisticsB5fourth": "1.3.6.1.4.1.818.1.1.14.10.16"
+  },
+  {
+    "upsMainsStatisticsB10fourth": "1.3.6.1.4.1.818.1.1.14.10.17"
+  },
+  {
+    "upsMainsStatisticsB200fourth": "1.3.6.1.4.1.818.1.1.14.10.18"
+  },
+  {
+    "upsMainsStatisticsBypRelfourth": "1.3.6.1.4.1.818.1.1.14.10.19"
+  },
+  {
+    "upsTimefourth": "1.3.6.1.4.1.818.1.1.14.10.20"
+  },
+  {
+    "upsRequestPermissionfourth": "1.3.6.1.4.1.818.1.1.14.10.21"
+  },
+  {
+    "upsEventGetCodefourth": "1.3.6.1.4.1.818.1.1.14.10.22"
+  },
+  {
+    "upsEventSpinLockfourth": "1.3.6.1.4.1.818.1.1.14.10.23"
+  },
+  {
+    "upsParameterSpinLockfourth": "1.3.6.1.4.1.818.1.1.14.10.24"
+  },
+  {
+    "geUPSTrapsfourth": "1.3.6.1.4.1.818.1.1.14.11"
+  },
+  {
+    "upsTrapAlarmBatteryBadfourth": "1.3.6.1.4.1.818.1.1.14.11.1"
+  },
+  {
+    "upsTrapAlarmOnBatteryfourth": "1.3.6.1.4.1.818.1.1.14.11.2"
+  },
+  {
+    "upsTrapAlarmLowBatteryfourth": "1.3.6.1.4.1.818.1.1.14.11.3"
+  },
+  {
+    "upsTrapAlarmDepletedBatteryfourth": "1.3.6.1.4.1.818.1.1.14.11.4"
+  },
+  {
+    "upsTrapAlarmTempBadfourth": "1.3.6.1.4.1.818.1.1.14.11.5"
+  },
+  {
+    "upsTrapAlarmInputBadfourth": "1.3.6.1.4.1.818.1.1.14.11.6"
+  },
+  {
+    "upsTrapAlarmOutputBadfourth": "1.3.6.1.4.1.818.1.1.14.11.7"
+  },
+  {
+    "upsTrapAlarmOutputOverloadfourth": "1.3.6.1.4.1.818.1.1.14.11.8"
+  },
+  {
+    "upsTrapAlarmOnBypassfourth": "1.3.6.1.4.1.818.1.1.14.11.9"
+  },
+  {
+    "upsTrapAlarmBypassBadfourth": "1.3.6.1.4.1.818.1.1.14.11.10"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequestedfourth": "1.3.6.1.4.1.818.1.1.14.11.11"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequestedfourth": "1.3.6.1.4.1.818.1.1.14.11.12"
+  },
+  {
+    "upsTrapAlarmChargerFailedfourth": "1.3.6.1.4.1.818.1.1.14.11.13"
+  },
+  {
+    "upsTrapAlarmUpsOutputOfffourth": "1.3.6.1.4.1.818.1.1.14.11.14"
+  },
+  {
+    "upsTrapAlarmUpsSystemOfffourth": "1.3.6.1.4.1.818.1.1.14.11.15"
+  },
+  {
+    "upsTrapAlarmFanFailurefourth": "1.3.6.1.4.1.818.1.1.14.11.16"
+  },
+  {
+    "upsTrapAlarmFuseFailurefourth": "1.3.6.1.4.1.818.1.1.14.11.17"
+  },
+  {
+    "upsTrapAlarmGeneralFaultfourth": "1.3.6.1.4.1.818.1.1.14.11.18"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailedfourth": "1.3.6.1.4.1.818.1.1.14.11.19"
+  },
+  {
+    "upsTrapAlarmCommunicationsLostfourth": "1.3.6.1.4.1.818.1.1.14.11.20"
+  },
+  {
+    "upsTrapAlarmAwaitingPowerfourth": "1.3.6.1.4.1.818.1.1.14.11.21"
+  },
+  {
+    "upsTrapAlarmShutdownPendingfourth": "1.3.6.1.4.1.818.1.1.14.11.22"
+  },
+  {
+    "upsTrapAlarmShutdownImminentfourth": "1.3.6.1.4.1.818.1.1.14.11.23"
+  },
+  {
+    "upsTrapAlarmTestInProgressfourth": "1.3.6.1.4.1.818.1.1.14.11.24"
+  },
+  {
+    "upsTrapAlarmReceptacleOfffourth": "1.3.6.1.4.1.818.1.1.14.11.25"
+  },
+  {
+    "upsTrapAlarmHighspeedBusFailurefourth": "1.3.6.1.4.1.818.1.1.14.11.26"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCFailurefourth": "1.3.6.1.4.1.818.1.1.14.11.27"
+  },
+  {
+    "upsTrapAlarmConnectivityBusFailurefourth": "1.3.6.1.4.1.818.1.1.14.11.28"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCFailurefourth": "1.3.6.1.4.1.818.1.1.14.11.29"
+  },
+  {
+    "upsTrapAlarmCurrentSharingFailurefourth": "1.3.6.1.4.1.818.1.1.14.11.30"
+  },
+  {
+    "upsTrapAlarmDCRippleFailurefourth": "1.3.6.1.4.1.818.1.1.14.11.31"
+  },
+  {
+    "upsTrapAlarmBatteryBadRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.33"
+  },
+  {
+    "upsTrapAlarmOnBatteryRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.34"
+  },
+  {
+    "upsTrapAlarmLowBatteryRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.35"
+  },
+  {
+    "upsTrapAlarmDepletedBatteryRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.36"
+  },
+  {
+    "upsTrapAlarmTempBadRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.37"
+  },
+  {
+    "upsTrapAlarmInputBadRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.38"
+  },
+  {
+    "upsTrapAlarmOutputBadRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.39"
+  },
+  {
+    "upsTrapAlarmOutputOverloadRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.40"
+  },
+  {
+    "upsTrapAlarmOnBypassRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.41"
+  },
+  {
+    "upsTrapAlarmBypassBadRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.42"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequestedRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.43"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequestedRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.44"
+  },
+  {
+    "upsTrapAlarmChargerFailedRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.45"
+  },
+  {
+    "upsTrapAlarmUpsOutputOnfourth": "1.3.6.1.4.1.818.1.1.14.11.46"
+  },
+  {
+    "upsTrapAlarmUpsSystemOnfourth": "1.3.6.1.4.1.818.1.1.14.11.47"
+  },
+  {
+    "upsTrapAlarmFanFailureRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.48"
+  },
+  {
+    "upsTrapAlarmFuseFailureRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.49"
+  },
+  {
+    "upsTrapAlarmGeneralFaultRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.50"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailedRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.51"
+  },
+  {
+    "upsTrapAlarmCommunicationsLostRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.52"
+  },
+  {
+    "upsTrapAlarmAwaitingPowerRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.53"
+  },
+  {
+    "upsTrapAlarmShutdownPendingRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.54"
+  },
+  {
+    "upsTrapAlarmShutdownImminentRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.55"
+  },
+  {
+    "upsTrapAlarmTestInProgressRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.56"
+  },
+  {
+    "upsTrapAlarmReceptacleOnfourth": "1.3.6.1.4.1.818.1.1.14.11.57"
+  },
+  {
+    "upsTrapAlarmHighspeedBusRestorefourth": "1.3.6.1.4.1.818.1.1.14.11.58"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCRestorefourth": "1.3.6.1.4.1.818.1.1.14.11.59"
+  },
+  {
+    "upsTrapAlarmConnectivityBusRestorefourth": "1.3.6.1.4.1.818.1.1.14.11.60"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.61"
+  },
+  {
+    "upsTrapAlarmCurrentSharingRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.62"
+  },
+  {
+    "upsTrapAlarmDCRippleRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.63"
+  },
+  {
+    "upsTrapAlarmValueLowfourth": "1.3.6.1.4.1.818.1.1.14.11.129"
+  },
+  {
+    "upsTrapAlarmValueHighfourth": "1.3.6.1.4.1.818.1.1.14.11.130"
+  },
+  {
+    "upsTrapAlarmValueLowRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.133"
+  },
+  {
+    "upsTrapAlarmValueHighRestoredfourth": "1.3.6.1.4.1.818.1.1.14.11.134"
+  },
+  {
+    "upsDiagnosticfourth": "1.3.6.1.4.1.818.1.1.14.12"
+  },
+  {
+    "upsDiagnosticBusJACommunicationStatusfourth": "1.3.6.1.4.1.818.1.1.14.12.1"
+  },
+  {
+    "upsDiagnosticBusJBCommunicationStatusfourth": "1.3.6.1.4.1.818.1.1.14.12.2"
+  },
+  {
+    "upsDiagnosticBatteryLifetimefourth": "1.3.6.1.4.1.818.1.1.14.12.3"
+  },
+  {
+    "upsDiagnosticFansLifetimefourth": "1.3.6.1.4.1.818.1.1.14.12.4"
+  },
+  {
+    "upsDiagnosticDCcapacitorsLifetimefourth": "1.3.6.1.4.1.818.1.1.14.12.5"
+  },
+  {
+    "upsDiagnosticACcapacitorsLifetimefourth": "1.3.6.1.4.1.818.1.1.14.12.6"
+  },
+  {
+    "upsDiagnosticGlobalServiceCheckfourth": "1.3.6.1.4.1.818.1.1.14.12.7"
+  },
+  {
+    "geFifthUPS": "1.3.6.1.4.1.818.1.1.15"
+  },
+  {
+    "upsIdentfifth": "1.3.6.1.4.1.818.1.1.15.1"
+  },
+  {
+    "upsIdentManufacturerfifth": "1.3.6.1.4.1.818.1.1.15.1.1"
+  },
+  {
+    "upsIdentModelfifth": "1.3.6.1.4.1.818.1.1.15.1.2"
+  },
+  {
+    "upsIdentUPSSoftwareVersionfifth": "1.3.6.1.4.1.818.1.1.15.1.3"
+  },
+  {
+    "upsIdentAgentSoftwareVersionfifth": "1.3.6.1.4.1.818.1.1.15.1.4"
+  },
+  {
+    "upsIdentNamefifth": "1.3.6.1.4.1.818.1.1.15.1.5"
+  },
+  {
+    "upsIdentAttachedDevicesfifth": "1.3.6.1.4.1.818.1.1.15.1.6"
+  },
+  {
+    "upsIdentUPSSerialNumberfifth": "1.3.6.1.4.1.818.1.1.15.1.7"
+  },
+  {
+    "upsIdentComProtVersionfifth": "1.3.6.1.4.1.818.1.1.15.1.8"
+  },
+  {
+    "upsIdentOperatingTimefifth": "1.3.6.1.4.1.818.1.1.15.1.9"
+  },
+  {
+    "upsBatteryfifth": "1.3.6.1.4.1.818.1.1.15.2"
+  },
+  {
+    "upsBatteryStatusfifth": "1.3.6.1.4.1.818.1.1.15.2.1"
+  },
+  {
+    "upsSecondsOnBatteryfifth": "1.3.6.1.4.1.818.1.1.15.2.2"
+  },
+  {
+    "upsEstimatedMinutesRemainingfifth": "1.3.6.1.4.1.818.1.1.15.2.3"
+  },
+  {
+    "upsEstimatedChargeRemainingfifth": "1.3.6.1.4.1.818.1.1.15.2.4"
+  },
+  {
+    "upsBatteryVoltagefifth": "1.3.6.1.4.1.818.1.1.15.2.5"
+  },
+  {
+    "upsBatteryCurrentfifth": "1.3.6.1.4.1.818.1.1.15.2.6"
+  },
+  {
+    "upsBatteryTemperaturefifth": "1.3.6.1.4.1.818.1.1.15.2.7"
+  },
+  {
+    "upsBatteryRipplefifth": "1.3.6.1.4.1.818.1.1.15.2.8"
+  },
+  {
+    "upsInputfifth": "1.3.6.1.4.1.818.1.1.15.3"
+  },
+  {
+    "upsInputLineBadsfifth": "1.3.6.1.4.1.818.1.1.15.3.1"
+  },
+  {
+    "upsInputNumLinesfifth": "1.3.6.1.4.1.818.1.1.15.3.2"
+  },
+  {
+    "upsInputFifthTable": "1.3.6.1.4.1.818.1.1.15.3.3"
+  },
+  {
+    "upsInputFifthEntry": "1.3.6.1.4.1.818.1.1.15.3.3.1"
+  },
+  {
+    "upsInputLineIndexfifth": "1.3.6.1.4.1.818.1.1.15.3.3.1.1"
+  },
+  {
+    "upsInputFrequencyfifth": "1.3.6.1.4.1.818.1.1.15.3.3.1.2"
+  },
+  {
+    "upsInputVoltagefifth": "1.3.6.1.4.1.818.1.1.15.3.3.1.3"
+  },
+  {
+    "upsInputCurrentfifth": "1.3.6.1.4.1.818.1.1.15.3.3.1.4"
+  },
+  {
+    "upsInputTruePowerfifth": "1.3.6.1.4.1.818.1.1.15.3.3.1.5"
+  },
+  {
+    "upsInputVoltageMinfifth": "1.3.6.1.4.1.818.1.1.15.3.3.1.6"
+  },
+  {
+    "upsInputVoltageMaxfifth": "1.3.6.1.4.1.818.1.1.15.3.3.1.7"
+  },
+  {
+    "upsOutputfifth": "1.3.6.1.4.1.818.1.1.15.4"
+  },
+  {
+    "upsOutputSourcefifth": "1.3.6.1.4.1.818.1.1.15.4.1"
+  },
+  {
+    "upsOutputFrequencyfifth": "1.3.6.1.4.1.818.1.1.15.4.2"
+  },
+  {
+    "upsOutputNumLinesfifth": "1.3.6.1.4.1.818.1.1.15.4.3"
+  },
+  {
+    "upsOutputFifthTable": "1.3.6.1.4.1.818.1.1.15.4.4"
+  },
+  {
+    "upsOutputFifthEntry": "1.3.6.1.4.1.818.1.1.15.4.4.1"
+  },
+  {
+    "upsOutputLineIndexfifth": "1.3.6.1.4.1.818.1.1.15.4.4.1.1"
+  },
+  {
+    "upsOutputVoltagefifth": "1.3.6.1.4.1.818.1.1.15.4.4.1.2"
+  },
+  {
+    "upsOutputCurrentfifth": "1.3.6.1.4.1.818.1.1.15.4.4.1.3"
+  },
+  {
+    "upsOutputPowerfifth": "1.3.6.1.4.1.818.1.1.15.4.4.1.4"
+  },
+  {
+    "upsOutputPercentLoadfifth": "1.3.6.1.4.1.818.1.1.15.4.4.1.5"
+  },
+  {
+    "upsOutputPowerFactorfifth": "1.3.6.1.4.1.818.1.1.15.4.4.1.6"
+  },
+  {
+    "upsOutputPeakCurrentfifth": "1.3.6.1.4.1.818.1.1.15.4.4.1.7"
+  },
+  {
+    "upsOutputShareCurrentfifth": "1.3.6.1.4.1.818.1.1.15.4.4.1.8"
+  },
+  {
+    "upsBypassfifth": "1.3.6.1.4.1.818.1.1.15.5"
+  },
+  {
+    "upsBypassFrequencyfifth": "1.3.6.1.4.1.818.1.1.15.5.1"
+  },
+  {
+    "upsBypassNumLinesfifth": "1.3.6.1.4.1.818.1.1.15.5.2"
+  },
+  {
+    "upsBypassFifthTable": "1.3.6.1.4.1.818.1.1.15.5.3"
+  },
+  {
+    "upsBypassFifthEntry": "1.3.6.1.4.1.818.1.1.15.5.3.1"
+  },
+  {
+    "upsBypassLineIndexfifth": "1.3.6.1.4.1.818.1.1.15.5.3.1.1"
+  },
+  {
+    "upsBypassVoltagefifth": "1.3.6.1.4.1.818.1.1.15.5.3.1.2"
+  },
+  {
+    "upsBypassCurrentfifth": "1.3.6.1.4.1.818.1.1.15.5.3.1.3"
+  },
+  {
+    "upsBypassPowerfifth": "1.3.6.1.4.1.818.1.1.15.5.3.1.4"
+  },
+  {
+    "upsAlarmfifth": "1.3.6.1.4.1.818.1.1.15.6"
+  },
+  {
+    "upsAlarmsPresentfifth": "1.3.6.1.4.1.818.1.1.15.6.1"
+  },
+  {
+    "upsAlarmFifthTable": "1.3.6.1.4.1.818.1.1.15.6.2"
+  },
+  {
+    "upsAlarmFifthEntry": "1.3.6.1.4.1.818.1.1.15.6.2.1"
+  },
+  {
+    "upsAlarmIdfifth": "1.3.6.1.4.1.818.1.1.15.6.2.1.1"
+  },
+  {
+    "upsAlarmDescrfifth": "1.3.6.1.4.1.818.1.1.15.6.2.1.2"
+  },
+  {
+    "upsAlarmTimefifth": "1.3.6.1.4.1.818.1.1.15.6.2.1.3"
+  },
+  {
+    "upsWellKnownAlarmsfifth": "1.3.6.1.4.1.818.1.1.15.6.3"
+  },
+  {
+    "upsAlarmBatteryBadfifth": "1.3.6.1.4.1.818.1.1.15.6.3.1"
+  },
+  {
+    "upsAlarmOnBatteryfifth": "1.3.6.1.4.1.818.1.1.15.6.3.2"
+  },
+  {
+    "upsAlarmLowBatteryfifth": "1.3.6.1.4.1.818.1.1.15.6.3.3"
+  },
+  {
+    "upsAlarmDepletedBatteryfifth": "1.3.6.1.4.1.818.1.1.15.6.3.4"
+  },
+  {
+    "upsAlarmTempBadfifth": "1.3.6.1.4.1.818.1.1.15.6.3.5"
+  },
+  {
+    "upsAlarmInputBadfifth": "1.3.6.1.4.1.818.1.1.15.6.3.6"
+  },
+  {
+    "upsAlarmOutputBadfifth": "1.3.6.1.4.1.818.1.1.15.6.3.7"
+  },
+  {
+    "upsAlarmOutputOverloadfifth": "1.3.6.1.4.1.818.1.1.15.6.3.8"
+  },
+  {
+    "upsAlarmOnBypassfifth": "1.3.6.1.4.1.818.1.1.15.6.3.9"
+  },
+  {
+    "upsAlarmBypassBadfifth": "1.3.6.1.4.1.818.1.1.15.6.3.10"
+  },
+  {
+    "upsAlarmOutputOffAsRequestedfifth": "1.3.6.1.4.1.818.1.1.15.6.3.11"
+  },
+  {
+    "upsAlarmUpsOffAsRequestedfifth": "1.3.6.1.4.1.818.1.1.15.6.3.12"
+  },
+  {
+    "upsAlarmChargerFailedfifth": "1.3.6.1.4.1.818.1.1.15.6.3.13"
+  },
+  {
+    "upsAlarmUpsOutputOfffifth": "1.3.6.1.4.1.818.1.1.15.6.3.14"
+  },
+  {
+    "upsAlarmUpsSystemOfffifth": "1.3.6.1.4.1.818.1.1.15.6.3.15"
+  },
+  {
+    "upsAlarmFanFailurefifth": "1.3.6.1.4.1.818.1.1.15.6.3.16"
+  },
+  {
+    "upsAlarmFuseFailurefifth": "1.3.6.1.4.1.818.1.1.15.6.3.17"
+  },
+  {
+    "upsAlarmGeneralFaultfifth": "1.3.6.1.4.1.818.1.1.15.6.3.18"
+  },
+  {
+    "upsAlarmDiagnosticTestFailedfifth": "1.3.6.1.4.1.818.1.1.15.6.3.19"
+  },
+  {
+    "upsAlarmCommunicationsLostfifth": "1.3.6.1.4.1.818.1.1.15.6.3.20"
+  },
+  {
+    "upsAlarmAwaitingPowerfifth": "1.3.6.1.4.1.818.1.1.15.6.3.21"
+  },
+  {
+    "upsAlarmShutdownPendingfifth": "1.3.6.1.4.1.818.1.1.15.6.3.22"
+  },
+  {
+    "upsAlarmShutdownImminentfifth": "1.3.6.1.4.1.818.1.1.15.6.3.23"
+  },
+  {
+    "upsAlarmTestInProgressfifth": "1.3.6.1.4.1.818.1.1.15.6.3.24"
+  },
+  {
+    "upsAlarmReceptacleOfffifth": "1.3.6.1.4.1.818.1.1.15.6.3.25"
+  },
+  {
+    "upsAlarmHighSpeedBusFailurefifth": "1.3.6.1.4.1.818.1.1.15.6.3.26"
+  },
+  {
+    "upsAlarmHighSpeedBusJACRCFailurefifth": "1.3.6.1.4.1.818.1.1.15.6.3.27"
+  },
+  {
+    "upsAlarmConnectivityBusFailurefifth": "1.3.6.1.4.1.818.1.1.15.6.3.28"
+  },
+  {
+    "upsAlarmHighSpeedBusJBCRCFailurefifth": "1.3.6.1.4.1.818.1.1.15.6.3.29"
+  },
+  {
+    "upsAlarmCurrentSharingfifth": "1.3.6.1.4.1.818.1.1.15.6.3.30"
+  },
+  {
+    "upsAlarmDCRipplefifth": "1.3.6.1.4.1.818.1.1.15.6.3.31"
+  },
+  {
+    "upsAlarmMaskAfifth": "1.3.6.1.4.1.818.1.1.15.6.4"
+  },
+  {
+    "upsTestfifth": "1.3.6.1.4.1.818.1.1.15.7"
+  },
+  {
+    "upsTestIdfifth": "1.3.6.1.4.1.818.1.1.15.7.1"
+  },
+  {
+    "upsTestSpinLockfifth": "1.3.6.1.4.1.818.1.1.15.7.2"
+  },
+  {
+    "upsTestResultsSummaryfifth": "1.3.6.1.4.1.818.1.1.15.7.3"
+  },
+  {
+    "upsTestResultsDetailfifth": "1.3.6.1.4.1.818.1.1.15.7.4"
+  },
+  {
+    "upsTestStartTimefifth": "1.3.6.1.4.1.818.1.1.15.7.5"
+  },
+  {
+    "upsTestElapsedTimefifth": "1.3.6.1.4.1.818.1.1.15.7.6"
+  },
+  {
+    "upsWellKnownTestsfifth": "1.3.6.1.4.1.818.1.1.15.7.7"
+  },
+  {
+    "upsTestNoTestsInitiatedfifth": "1.3.6.1.4.1.818.1.1.15.7.7.1"
+  },
+  {
+    "upsTestAbortTestInProgressfifth": "1.3.6.1.4.1.818.1.1.15.7.7.2"
+  },
+  {
+    "upsTestGeneralSystemsTestfifth": "1.3.6.1.4.1.818.1.1.15.7.7.3"
+  },
+  {
+    "upsTestQuickBatteryTestfifth": "1.3.6.1.4.1.818.1.1.15.7.7.4"
+  },
+  {
+    "upsTestDeepBatteryCalibrationfifth": "1.3.6.1.4.1.818.1.1.15.7.7.5"
+  },
+  {
+    "upsControlfifth": "1.3.6.1.4.1.818.1.1.15.8"
+  },
+  {
+    "upsShutdownTypefifth": "1.3.6.1.4.1.818.1.1.15.8.1"
+  },
+  {
+    "upsShutdownAfterDelayfifth": "1.3.6.1.4.1.818.1.1.15.8.2"
+  },
+  {
+    "upsStartupAfterDelayfifth": "1.3.6.1.4.1.818.1.1.15.8.3"
+  },
+  {
+    "upsRebootWithDurationfifth": "1.3.6.1.4.1.818.1.1.15.8.4"
+  },
+  {
+    "upsAutoRestartfifth": "1.3.6.1.4.1.818.1.1.15.8.5"
+  },
+  {
+    "upsReceptaclesNumfifth": "1.3.6.1.4.1.818.1.1.15.8.6"
+  },
+  {
+    "upsReceptacleFifthTable": "1.3.6.1.4.1.818.1.1.15.8.7"
+  },
+  {
+    "upsReceptacleFifthEntry": "1.3.6.1.4.1.818.1.1.15.8.7.1"
+  },
+  {
+    "upsReceptacleLineIndexfifth": "1.3.6.1.4.1.818.1.1.15.8.7.1.1"
+  },
+  {
+    "upsReceptacleOnOfffifth": "1.3.6.1.4.1.818.1.1.15.8.7.1.2"
+  },
+  {
+    "upsUPSModefifth": "1.3.6.1.4.1.818.1.1.15.8.8"
+  },
+  {
+    "upsRectifierOnOfffifth": "1.3.6.1.4.1.818.1.1.15.8.9"
+  },
+  {
+    "upsBatteryChargeMethodfifth": "1.3.6.1.4.1.818.1.1.15.8.10"
+  },
+  {
+    "upsInverterOnOfffifth": "1.3.6.1.4.1.818.1.1.15.8.11"
+  },
+  {
+    "upsBypassOnOfffifth": "1.3.6.1.4.1.818.1.1.15.8.12"
+  },
+  {
+    "upsLoadSourcefifth": "1.3.6.1.4.1.818.1.1.15.8.13"
+  },
+  {
+    "upsConfigfifth": "1.3.6.1.4.1.818.1.1.15.9"
+  },
+  {
+    "upsConfigInputVoltagefifth": "1.3.6.1.4.1.818.1.1.15.9.1"
+  },
+  {
+    "upsConfigInputFreqfifth": "1.3.6.1.4.1.818.1.1.15.9.2"
+  },
+  {
+    "upsConfigOutputVoltagefifth": "1.3.6.1.4.1.818.1.1.15.9.3"
+  },
+  {
+    "upsConfigOutputFreqfifth": "1.3.6.1.4.1.818.1.1.15.9.4"
+  },
+  {
+    "upsConfigOutputVAfifth": "1.3.6.1.4.1.818.1.1.15.9.5"
+  },
+  {
+    "upsConfigOutputPowerfifth": "1.3.6.1.4.1.818.1.1.15.9.6"
+  },
+  {
+    "upsConfigLowBattTimefifth": "1.3.6.1.4.1.818.1.1.15.9.7"
+  },
+  {
+    "upsConfigAudibleStatusfifth": "1.3.6.1.4.1.818.1.1.15.9.8"
+  },
+  {
+    "upsConfigLowVoltageTransferPointfifth": "1.3.6.1.4.1.818.1.1.15.9.9"
+  },
+  {
+    "upsConfigHighVoltageTransferPointfifth": "1.3.6.1.4.1.818.1.1.15.9.10"
+  },
+  {
+    "upsConfigBatteryCapacityfifth": "1.3.6.1.4.1.818.1.1.15.9.11"
+  },
+  {
+    "upsConfigBatteryChargeCurrentfifth": "1.3.6.1.4.1.818.1.1.15.9.12"
+  },
+  {
+    "upsConfigNoLoadShutdownfifth": "1.3.6.1.4.1.818.1.1.15.9.13"
+  },
+  {
+    "upsConfigStartDelayfifth": "1.3.6.1.4.1.818.1.1.15.9.14"
+  },
+  {
+    "upsGetSetfifth": "1.3.6.1.4.1.818.1.1.15.10"
+  },
+  {
+    "upsEventGetNextfifth": "1.3.6.1.4.1.818.1.1.15.10.1"
+  },
+  {
+    "upsEventGetPreviousfifth": "1.3.6.1.4.1.818.1.1.15.10.2"
+  },
+  {
+    "upsEventSetStartingTimeStampfifth": "1.3.6.1.4.1.818.1.1.15.10.3"
+  },
+  {
+    "upsEventRetreiveCurrentTimeStampfifth": "1.3.6.1.4.1.818.1.1.15.10.4"
+  },
+  {
+    "upsEventTableSizefifth": "1.3.6.1.4.1.818.1.1.15.10.5"
+  },
+  {
+    "upsEventFifthTable": "1.3.6.1.4.1.818.1.1.15.10.6"
+  },
+  {
+    "upsEventFifthEntry": "1.3.6.1.4.1.818.1.1.15.10.6.1"
+  },
+  {
+    "upsEventLineIndexfifth": "1.3.6.1.4.1.818.1.1.15.10.6.1.1"
+  },
+  {
+    "upsEventCodefifth": "1.3.6.1.4.1.818.1.1.15.10.6.1.2"
+  },
+  {
+    "upsEventStatusfifth": "1.3.6.1.4.1.818.1.1.15.10.6.1.3"
+  },
+  {
+    "upsEventTimefifth": "1.3.6.1.4.1.818.1.1.15.10.6.1.4"
+  },
+  {
+    "upsParametersReadfifth": "1.3.6.1.4.1.818.1.1.15.10.7"
+  },
+  {
+    "upsParametersWritefifth": "1.3.6.1.4.1.818.1.1.15.10.8"
+  },
+  {
+    "upsParametersStartAddressfifth": "1.3.6.1.4.1.818.1.1.15.10.9"
+  },
+  {
+    "upsParameterTableSizefifth": "1.3.6.1.4.1.818.1.1.15.10.10"
+  },
+  {
+    "upsParameterFifthTable": "1.3.6.1.4.1.818.1.1.15.10.11"
+  },
+  {
+    "upsParameterFifthEntry": "1.3.6.1.4.1.818.1.1.15.10.11.1"
+  },
+  {
+    "upsParameterLineIndexfifth": "1.3.6.1.4.1.818.1.1.15.10.11.1.1"
+  },
+  {
+    "upsParameterValuefifth": "1.3.6.1.4.1.818.1.1.15.10.11.1.2"
+  },
+  {
+    "upsStatusfifth": "1.3.6.1.4.1.818.1.1.15.10.12"
+  },
+  {
+    "upsMainsStatisticsMBfailfifth": "1.3.6.1.4.1.818.1.1.15.10.13"
+  },
+  {
+    "upsMainsStatisticsMRfailfifth": "1.3.6.1.4.1.818.1.1.15.10.14"
+  },
+  {
+    "upsMainsStatisticsB2fifth": "1.3.6.1.4.1.818.1.1.15.10.15"
+  },
+  {
+    "upsMainsStatisticsB5fifth": "1.3.6.1.4.1.818.1.1.15.10.16"
+  },
+  {
+    "upsMainsStatisticsB10fifth": "1.3.6.1.4.1.818.1.1.15.10.17"
+  },
+  {
+    "upsMainsStatisticsB200fifth": "1.3.6.1.4.1.818.1.1.15.10.18"
+  },
+  {
+    "upsMainsStatisticsBypRelfifth": "1.3.6.1.4.1.818.1.1.15.10.19"
+  },
+  {
+    "upsTimefifth": "1.3.6.1.4.1.818.1.1.15.10.20"
+  },
+  {
+    "upsRequestPermissionfifth": "1.3.6.1.4.1.818.1.1.15.10.21"
+  },
+  {
+    "upsEventGetCodefifth": "1.3.6.1.4.1.818.1.1.15.10.22"
+  },
+  {
+    "upsEventSpinLockfifth": "1.3.6.1.4.1.818.1.1.15.10.23"
+  },
+  {
+    "upsParameterSpinLockfifth": "1.3.6.1.4.1.818.1.1.15.10.24"
+  },
+  {
+    "geUPSTrapsfifth": "1.3.6.1.4.1.818.1.1.15.11"
+  },
+  {
+    "upsTrapAlarmBatteryBadfifth": "1.3.6.1.4.1.818.1.1.15.11.1"
+  },
+  {
+    "upsTrapAlarmOnBatteryfifth": "1.3.6.1.4.1.818.1.1.15.11.2"
+  },
+  {
+    "upsTrapAlarmLowBatteryfifth": "1.3.6.1.4.1.818.1.1.15.11.3"
+  },
+  {
+    "upsTrapAlarmDepletedBatteryfifth": "1.3.6.1.4.1.818.1.1.15.11.4"
+  },
+  {
+    "upsTrapAlarmTempBadfifth": "1.3.6.1.4.1.818.1.1.15.11.5"
+  },
+  {
+    "upsTrapAlarmInputBadfifth": "1.3.6.1.4.1.818.1.1.15.11.6"
+  },
+  {
+    "upsTrapAlarmOutputBadfifth": "1.3.6.1.4.1.818.1.1.15.11.7"
+  },
+  {
+    "upsTrapAlarmOutputOverloadfifth": "1.3.6.1.4.1.818.1.1.15.11.8"
+  },
+  {
+    "upsTrapAlarmOnBypassfifth": "1.3.6.1.4.1.818.1.1.15.11.9"
+  },
+  {
+    "upsTrapAlarmBypassBadfifth": "1.3.6.1.4.1.818.1.1.15.11.10"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequestedfifth": "1.3.6.1.4.1.818.1.1.15.11.11"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequestedfifth": "1.3.6.1.4.1.818.1.1.15.11.12"
+  },
+  {
+    "upsTrapAlarmChargerFailedfifth": "1.3.6.1.4.1.818.1.1.15.11.13"
+  },
+  {
+    "upsTrapAlarmUpsOutputOfffifth": "1.3.6.1.4.1.818.1.1.15.11.14"
+  },
+  {
+    "upsTrapAlarmUpsSystemOfffifth": "1.3.6.1.4.1.818.1.1.15.11.15"
+  },
+  {
+    "upsTrapAlarmFanFailurefifth": "1.3.6.1.4.1.818.1.1.15.11.16"
+  },
+  {
+    "upsTrapAlarmFuseFailurefifth": "1.3.6.1.4.1.818.1.1.15.11.17"
+  },
+  {
+    "upsTrapAlarmGeneralFaultfifth": "1.3.6.1.4.1.818.1.1.15.11.18"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailedfifth": "1.3.6.1.4.1.818.1.1.15.11.19"
+  },
+  {
+    "upsTrapAlarmCommunicationsLostfifth": "1.3.6.1.4.1.818.1.1.15.11.20"
+  },
+  {
+    "upsTrapAlarmAwaitingPowerfifth": "1.3.6.1.4.1.818.1.1.15.11.21"
+  },
+  {
+    "upsTrapAlarmShutdownPendingfifth": "1.3.6.1.4.1.818.1.1.15.11.22"
+  },
+  {
+    "upsTrapAlarmShutdownImminentfifth": "1.3.6.1.4.1.818.1.1.15.11.23"
+  },
+  {
+    "upsTrapAlarmTestInProgressfifth": "1.3.6.1.4.1.818.1.1.15.11.24"
+  },
+  {
+    "upsTrapAlarmReceptacleOfffifth": "1.3.6.1.4.1.818.1.1.15.11.25"
+  },
+  {
+    "upsTrapAlarmHighspeedBusFailurefifth": "1.3.6.1.4.1.818.1.1.15.11.26"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCFailurefifth": "1.3.6.1.4.1.818.1.1.15.11.27"
+  },
+  {
+    "upsTrapAlarmConnectivityBusFailurefifth": "1.3.6.1.4.1.818.1.1.15.11.28"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCFailurefifth": "1.3.6.1.4.1.818.1.1.15.11.29"
+  },
+  {
+    "upsTrapAlarmCurrentSharingFailurefifth": "1.3.6.1.4.1.818.1.1.15.11.30"
+  },
+  {
+    "upsTrapAlarmDCRippleFailurefifth": "1.3.6.1.4.1.818.1.1.15.11.31"
+  },
+  {
+    "upsTrapAlarmBatteryBadRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.33"
+  },
+  {
+    "upsTrapAlarmOnBatteryRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.34"
+  },
+  {
+    "upsTrapAlarmLowBatteryRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.35"
+  },
+  {
+    "upsTrapAlarmDepletedBatteryRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.36"
+  },
+  {
+    "upsTrapAlarmTempBadRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.37"
+  },
+  {
+    "upsTrapAlarmInputBadRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.38"
+  },
+  {
+    "upsTrapAlarmOutputBadRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.39"
+  },
+  {
+    "upsTrapAlarmOutputOverloadRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.40"
+  },
+  {
+    "upsTrapAlarmOnBypassRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.41"
+  },
+  {
+    "upsTrapAlarmBypassBadRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.42"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequestedRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.43"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequestedRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.44"
+  },
+  {
+    "upsTrapAlarmChargerFailedRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.45"
+  },
+  {
+    "upsTrapAlarmUpsOutputOnfifth": "1.3.6.1.4.1.818.1.1.15.11.46"
+  },
+  {
+    "upsTrapAlarmUpsSystemOnfifth": "1.3.6.1.4.1.818.1.1.15.11.47"
+  },
+  {
+    "upsTrapAlarmFanFailureRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.48"
+  },
+  {
+    "upsTrapAlarmFuseFailureRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.49"
+  },
+  {
+    "upsTrapAlarmGeneralFaultRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.50"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailedRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.51"
+  },
+  {
+    "upsTrapAlarmCommunicationsLostRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.52"
+  },
+  {
+    "upsTrapAlarmAwaitingPowerRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.53"
+  },
+  {
+    "upsTrapAlarmShutdownPendingRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.54"
+  },
+  {
+    "upsTrapAlarmShutdownImminentRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.55"
+  },
+  {
+    "upsTrapAlarmTestInProgressRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.56"
+  },
+  {
+    "upsTrapAlarmReceptacleOnfifth": "1.3.6.1.4.1.818.1.1.15.11.57"
+  },
+  {
+    "upsTrapAlarmHighspeedBusRestorefifth": "1.3.6.1.4.1.818.1.1.15.11.58"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCRestorefifth": "1.3.6.1.4.1.818.1.1.15.11.59"
+  },
+  {
+    "upsTrapAlarmConnectivityBusRestorefifth": "1.3.6.1.4.1.818.1.1.15.11.60"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.61"
+  },
+  {
+    "upsTrapAlarmCurrentSharingRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.62"
+  },
+  {
+    "upsTrapAlarmDCRippleRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.63"
+  },
+  {
+    "upsTrapAlarmValueLowfifth": "1.3.6.1.4.1.818.1.1.15.11.129"
+  },
+  {
+    "upsTrapAlarmValueHighfifth": "1.3.6.1.4.1.818.1.1.15.11.130"
+  },
+  {
+    "upsTrapAlarmValueLowRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.133"
+  },
+  {
+    "upsTrapAlarmValueHighRestoredfifth": "1.3.6.1.4.1.818.1.1.15.11.134"
+  },
+  {
+    "upsDiagnosticfifth": "1.3.6.1.4.1.818.1.1.15.12"
+  },
+  {
+    "upsDiagnosticBusJACommunicationStatusfifth": "1.3.6.1.4.1.818.1.1.15.12.1"
+  },
+  {
+    "upsDiagnosticBusJBCommunicationStatusfifth": "1.3.6.1.4.1.818.1.1.15.12.2"
+  },
+  {
+    "upsDiagnosticBatteryLifetimefifth": "1.3.6.1.4.1.818.1.1.15.12.3"
+  },
+  {
+    "upsDiagnosticFansLifetimefifth": "1.3.6.1.4.1.818.1.1.15.12.4"
+  },
+  {
+    "upsDiagnosticDCcapacitorsLifetimefifth": "1.3.6.1.4.1.818.1.1.15.12.5"
+  },
+  {
+    "upsDiagnosticACcapacitorsLifetimefifth": "1.3.6.1.4.1.818.1.1.15.12.6"
+  },
+  {
+    "upsDiagnosticGlobalServiceCheckfifth": "1.3.6.1.4.1.818.1.1.15.12.7"
+  },
+  {
+    "geSixthUPS": "1.3.6.1.4.1.818.1.1.16"
+  },
+  {
+    "upsIdentsixth": "1.3.6.1.4.1.818.1.1.16.1"
+  },
+  {
+    "upsIdentManufacturersixth": "1.3.6.1.4.1.818.1.1.16.1.1"
+  },
+  {
+    "upsIdentModelsixth": "1.3.6.1.4.1.818.1.1.16.1.2"
+  },
+  {
+    "upsIdentUPSSoftwareVersionsixth": "1.3.6.1.4.1.818.1.1.16.1.3"
+  },
+  {
+    "upsIdentAgentSoftwareVersionsixth": "1.3.6.1.4.1.818.1.1.16.1.4"
+  },
+  {
+    "upsIdentNamesixth": "1.3.6.1.4.1.818.1.1.16.1.5"
+  },
+  {
+    "upsIdentAttachedDevicessixth": "1.3.6.1.4.1.818.1.1.16.1.6"
+  },
+  {
+    "upsIdentUPSSerialNumbersixth": "1.3.6.1.4.1.818.1.1.16.1.7"
+  },
+  {
+    "upsIdentComProtVersionsixth": "1.3.6.1.4.1.818.1.1.16.1.8"
+  },
+  {
+    "upsIdentOperatingTimesixth": "1.3.6.1.4.1.818.1.1.16.1.9"
+  },
+  {
+    "upsBatterysixth": "1.3.6.1.4.1.818.1.1.16.2"
+  },
+  {
+    "upsBatteryStatussixth": "1.3.6.1.4.1.818.1.1.16.2.1"
+  },
+  {
+    "upsSecondsOnBatterysixth": "1.3.6.1.4.1.818.1.1.16.2.2"
+  },
+  {
+    "upsEstimatedMinutesRemainingsixth": "1.3.6.1.4.1.818.1.1.16.2.3"
+  },
+  {
+    "upsEstimatedChargeRemainingsixth": "1.3.6.1.4.1.818.1.1.16.2.4"
+  },
+  {
+    "upsBatteryVoltagesixth": "1.3.6.1.4.1.818.1.1.16.2.5"
+  },
+  {
+    "upsBatteryCurrentsixth": "1.3.6.1.4.1.818.1.1.16.2.6"
+  },
+  {
+    "upsBatteryTemperaturesixth": "1.3.6.1.4.1.818.1.1.16.2.7"
+  },
+  {
+    "upsBatteryRipplesixth": "1.3.6.1.4.1.818.1.1.16.2.8"
+  },
+  {
+    "upsInputsixth": "1.3.6.1.4.1.818.1.1.16.3"
+  },
+  {
+    "upsInputLineBadssixth": "1.3.6.1.4.1.818.1.1.16.3.1"
+  },
+  {
+    "upsInputNumLinessixth": "1.3.6.1.4.1.818.1.1.16.3.2"
+  },
+  {
+    "upsInputSixthTable": "1.3.6.1.4.1.818.1.1.16.3.3"
+  },
+  {
+    "upsInputSixthEntry": "1.3.6.1.4.1.818.1.1.16.3.3.1"
+  },
+  {
+    "upsInputLineIndexsixth": "1.3.6.1.4.1.818.1.1.16.3.3.1.1"
+  },
+  {
+    "upsInputFrequencysixth": "1.3.6.1.4.1.818.1.1.16.3.3.1.2"
+  },
+  {
+    "upsInputVoltagesixth": "1.3.6.1.4.1.818.1.1.16.3.3.1.3"
+  },
+  {
+    "upsInputCurrentsixth": "1.3.6.1.4.1.818.1.1.16.3.3.1.4"
+  },
+  {
+    "upsInputTruePowersixth": "1.3.6.1.4.1.818.1.1.16.3.3.1.5"
+  },
+  {
+    "upsInputVoltageMinsixth": "1.3.6.1.4.1.818.1.1.16.3.3.1.6"
+  },
+  {
+    "upsInputVoltageMaxsixth": "1.3.6.1.4.1.818.1.1.16.3.3.1.7"
+  },
+  {
+    "upsOutputsixth": "1.3.6.1.4.1.818.1.1.16.4"
+  },
+  {
+    "upsOutputSourcesixth": "1.3.6.1.4.1.818.1.1.16.4.1"
+  },
+  {
+    "upsOutputFrequencysixth": "1.3.6.1.4.1.818.1.1.16.4.2"
+  },
+  {
+    "upsOutputNumLinessixth": "1.3.6.1.4.1.818.1.1.16.4.3"
+  },
+  {
+    "upsOutputSixthTable": "1.3.6.1.4.1.818.1.1.16.4.4"
+  },
+  {
+    "upsOutputSixthEntry": "1.3.6.1.4.1.818.1.1.16.4.4.1"
+  },
+  {
+    "upsOutputLineIndexsixth": "1.3.6.1.4.1.818.1.1.16.4.4.1.1"
+  },
+  {
+    "upsOutputVoltagesixth": "1.3.6.1.4.1.818.1.1.16.4.4.1.2"
+  },
+  {
+    "upsOutputCurrentsixth": "1.3.6.1.4.1.818.1.1.16.4.4.1.3"
+  },
+  {
+    "upsOutputPowersixth": "1.3.6.1.4.1.818.1.1.16.4.4.1.4"
+  },
+  {
+    "upsOutputPercentLoadsixth": "1.3.6.1.4.1.818.1.1.16.4.4.1.5"
+  },
+  {
+    "upsOutputPowerFactorsixth": "1.3.6.1.4.1.818.1.1.16.4.4.1.6"
+  },
+  {
+    "upsOutputPeakCurrentsixth": "1.3.6.1.4.1.818.1.1.16.4.4.1.7"
+  },
+  {
+    "upsOutputShareCurrentsixth": "1.3.6.1.4.1.818.1.1.16.4.4.1.8"
+  },
+  {
+    "upsBypasssixth": "1.3.6.1.4.1.818.1.1.16.5"
+  },
+  {
+    "upsBypassFrequencysixth": "1.3.6.1.4.1.818.1.1.16.5.1"
+  },
+  {
+    "upsBypassNumLinessixth": "1.3.6.1.4.1.818.1.1.16.5.2"
+  },
+  {
+    "upsBypassSixthTable": "1.3.6.1.4.1.818.1.1.16.5.3"
+  },
+  {
+    "upsBypassSixthEntry": "1.3.6.1.4.1.818.1.1.16.5.3.1"
+  },
+  {
+    "upsBypassLineIndexsixth": "1.3.6.1.4.1.818.1.1.16.5.3.1.1"
+  },
+  {
+    "upsBypassVoltagesixth": "1.3.6.1.4.1.818.1.1.16.5.3.1.2"
+  },
+  {
+    "upsBypassCurrentsixth": "1.3.6.1.4.1.818.1.1.16.5.3.1.3"
+  },
+  {
+    "upsBypassPowersixth": "1.3.6.1.4.1.818.1.1.16.5.3.1.4"
+  },
+  {
+    "upsAlarmsixth": "1.3.6.1.4.1.818.1.1.16.6"
+  },
+  {
+    "upsAlarmsPresentsixth": "1.3.6.1.4.1.818.1.1.16.6.1"
+  },
+  {
+    "upsAlarmSixthTable": "1.3.6.1.4.1.818.1.1.16.6.2"
+  },
+  {
+    "upsAlarmSixthEntry": "1.3.6.1.4.1.818.1.1.16.6.2.1"
+  },
+  {
+    "upsAlarmIdsixth": "1.3.6.1.4.1.818.1.1.16.6.2.1.1"
+  },
+  {
+    "upsAlarmDescrsixth": "1.3.6.1.4.1.818.1.1.16.6.2.1.2"
+  },
+  {
+    "upsAlarmTimesixth": "1.3.6.1.4.1.818.1.1.16.6.2.1.3"
+  },
+  {
+    "upsWellKnownAlarmssixth": "1.3.6.1.4.1.818.1.1.16.6.3"
+  },
+  {
+    "upsAlarmBatteryBadsixth": "1.3.6.1.4.1.818.1.1.16.6.3.1"
+  },
+  {
+    "upsAlarmOnBatterysixth": "1.3.6.1.4.1.818.1.1.16.6.3.2"
+  },
+  {
+    "upsAlarmLowBatterysixth": "1.3.6.1.4.1.818.1.1.16.6.3.3"
+  },
+  {
+    "upsAlarmDepletedBatterysixth": "1.3.6.1.4.1.818.1.1.16.6.3.4"
+  },
+  {
+    "upsAlarmTempBadsixth": "1.3.6.1.4.1.818.1.1.16.6.3.5"
+  },
+  {
+    "upsAlarmInputBadsixth": "1.3.6.1.4.1.818.1.1.16.6.3.6"
+  },
+  {
+    "upsAlarmOutputBadsixth": "1.3.6.1.4.1.818.1.1.16.6.3.7"
+  },
+  {
+    "upsAlarmOutputOverloadsixth": "1.3.6.1.4.1.818.1.1.16.6.3.8"
+  },
+  {
+    "upsAlarmOnBypasssixth": "1.3.6.1.4.1.818.1.1.16.6.3.9"
+  },
+  {
+    "upsAlarmBypassBadsixth": "1.3.6.1.4.1.818.1.1.16.6.3.10"
+  },
+  {
+    "upsAlarmOutputOffAsRequestedsixth": "1.3.6.1.4.1.818.1.1.16.6.3.11"
+  },
+  {
+    "upsAlarmUpsOffAsRequestedsixth": "1.3.6.1.4.1.818.1.1.16.6.3.12"
+  },
+  {
+    "upsAlarmChargerFailedsixth": "1.3.6.1.4.1.818.1.1.16.6.3.13"
+  },
+  {
+    "upsAlarmUpsOutputOffsixth": "1.3.6.1.4.1.818.1.1.16.6.3.14"
+  },
+  {
+    "upsAlarmUpsSystemOffsixth": "1.3.6.1.4.1.818.1.1.16.6.3.15"
+  },
+  {
+    "upsAlarmFanFailuresixth": "1.3.6.1.4.1.818.1.1.16.6.3.16"
+  },
+  {
+    "upsAlarmFuseFailuresixth": "1.3.6.1.4.1.818.1.1.16.6.3.17"
+  },
+  {
+    "upsAlarmGeneralFaultsixth": "1.3.6.1.4.1.818.1.1.16.6.3.18"
+  },
+  {
+    "upsAlarmDiagnosticTestFailedsixth": "1.3.6.1.4.1.818.1.1.16.6.3.19"
+  },
+  {
+    "upsAlarmCommunicationsLostsixth": "1.3.6.1.4.1.818.1.1.16.6.3.20"
+  },
+  {
+    "upsAlarmAwaitingPowersixth": "1.3.6.1.4.1.818.1.1.16.6.3.21"
+  },
+  {
+    "upsAlarmShutdownPendingsixth": "1.3.6.1.4.1.818.1.1.16.6.3.22"
+  },
+  {
+    "upsAlarmShutdownImminentsixth": "1.3.6.1.4.1.818.1.1.16.6.3.23"
+  },
+  {
+    "upsAlarmTestInProgresssixth": "1.3.6.1.4.1.818.1.1.16.6.3.24"
+  },
+  {
+    "upsAlarmReceptacleOffsixth": "1.3.6.1.4.1.818.1.1.16.6.3.25"
+  },
+  {
+    "upsAlarmHighSpeedBusFailuresixth": "1.3.6.1.4.1.818.1.1.16.6.3.26"
+  },
+  {
+    "upsAlarmHighSpeedBusJACRCFailuresixth": "1.3.6.1.4.1.818.1.1.16.6.3.27"
+  },
+  {
+    "upsAlarmConnectivityBusFailuresixth": "1.3.6.1.4.1.818.1.1.16.6.3.28"
+  },
+  {
+    "upsAlarmHighSpeedBusJBCRCFailuresixth": "1.3.6.1.4.1.818.1.1.16.6.3.29"
+  },
+  {
+    "upsAlarmCurrentSharingsixth": "1.3.6.1.4.1.818.1.1.16.6.3.30"
+  },
+  {
+    "upsAlarmDCRipplesixth": "1.3.6.1.4.1.818.1.1.16.6.3.31"
+  },
+  {
+    "upsAlarmMaskAsixth": "1.3.6.1.4.1.818.1.1.16.6.4"
+  },
+  {
+    "upsTestsixth": "1.3.6.1.4.1.818.1.1.16.7"
+  },
+  {
+    "upsTestIdsixth": "1.3.6.1.4.1.818.1.1.16.7.1"
+  },
+  {
+    "upsTestSpinLocksixth": "1.3.6.1.4.1.818.1.1.16.7.2"
+  },
+  {
+    "upsTestResultsSummarysixth": "1.3.6.1.4.1.818.1.1.16.7.3"
+  },
+  {
+    "upsTestResultsDetailsixth": "1.3.6.1.4.1.818.1.1.16.7.4"
+  },
+  {
+    "upsTestStartTimesixth": "1.3.6.1.4.1.818.1.1.16.7.5"
+  },
+  {
+    "upsTestElapsedTimesixth": "1.3.6.1.4.1.818.1.1.16.7.6"
+  },
+  {
+    "upsWellKnownTestssixth": "1.3.6.1.4.1.818.1.1.16.7.7"
+  },
+  {
+    "upsTestNoTestsInitiatedsixth": "1.3.6.1.4.1.818.1.1.16.7.7.1"
+  },
+  {
+    "upsTestAbortTestInProgresssixth": "1.3.6.1.4.1.818.1.1.16.7.7.2"
+  },
+  {
+    "upsTestGeneralSystemsTestsixth": "1.3.6.1.4.1.818.1.1.16.7.7.3"
+  },
+  {
+    "upsTestQuickBatteryTestsixth": "1.3.6.1.4.1.818.1.1.16.7.7.4"
+  },
+  {
+    "upsTestDeepBatteryCalibrationsixth": "1.3.6.1.4.1.818.1.1.16.7.7.5"
+  },
+  {
+    "upsControlsixth": "1.3.6.1.4.1.818.1.1.16.8"
+  },
+  {
+    "upsShutdownTypesixth": "1.3.6.1.4.1.818.1.1.16.8.1"
+  },
+  {
+    "upsShutdownAfterDelaysixth": "1.3.6.1.4.1.818.1.1.16.8.2"
+  },
+  {
+    "upsStartupAfterDelaysixth": "1.3.6.1.4.1.818.1.1.16.8.3"
+  },
+  {
+    "upsRebootWithDurationsixth": "1.3.6.1.4.1.818.1.1.16.8.4"
+  },
+  {
+    "upsAutoRestartsixth": "1.3.6.1.4.1.818.1.1.16.8.5"
+  },
+  {
+    "upsReceptaclesNumsixth": "1.3.6.1.4.1.818.1.1.16.8.6"
+  },
+  {
+    "upsReceptacleSixthTable": "1.3.6.1.4.1.818.1.1.16.8.7"
+  },
+  {
+    "upsReceptacleSixthEntry": "1.3.6.1.4.1.818.1.1.16.8.7.1"
+  },
+  {
+    "upsReceptacleLineIndexsixth": "1.3.6.1.4.1.818.1.1.16.8.7.1.1"
+  },
+  {
+    "upsReceptacleOnOffsixth": "1.3.6.1.4.1.818.1.1.16.8.7.1.2"
+  },
+  {
+    "upsUPSModesixth": "1.3.6.1.4.1.818.1.1.16.8.8"
+  },
+  {
+    "upsRectifierOnOffsixth": "1.3.6.1.4.1.818.1.1.16.8.9"
+  },
+  {
+    "upsBatteryChargeMethodsixth": "1.3.6.1.4.1.818.1.1.16.8.10"
+  },
+  {
+    "upsInverterOnOffsixth": "1.3.6.1.4.1.818.1.1.16.8.11"
+  },
+  {
+    "upsBypassOnOffsixth": "1.3.6.1.4.1.818.1.1.16.8.12"
+  },
+  {
+    "upsLoadSourcesixth": "1.3.6.1.4.1.818.1.1.16.8.13"
+  },
+  {
+    "upsConfigsixth": "1.3.6.1.4.1.818.1.1.16.9"
+  },
+  {
+    "upsConfigInputVoltagesixth": "1.3.6.1.4.1.818.1.1.16.9.1"
+  },
+  {
+    "upsConfigInputFreqsixth": "1.3.6.1.4.1.818.1.1.16.9.2"
+  },
+  {
+    "upsConfigOutputVoltagesixth": "1.3.6.1.4.1.818.1.1.16.9.3"
+  },
+  {
+    "upsConfigOutputFreqsixth": "1.3.6.1.4.1.818.1.1.16.9.4"
+  },
+  {
+    "upsConfigOutputVAsixth": "1.3.6.1.4.1.818.1.1.16.9.5"
+  },
+  {
+    "upsConfigOutputPowersixth": "1.3.6.1.4.1.818.1.1.16.9.6"
+  },
+  {
+    "upsConfigLowBattTimesixth": "1.3.6.1.4.1.818.1.1.16.9.7"
+  },
+  {
+    "upsConfigAudibleStatussixth": "1.3.6.1.4.1.818.1.1.16.9.8"
+  },
+  {
+    "upsConfigLowVoltageTransferPointsixth": "1.3.6.1.4.1.818.1.1.16.9.9"
+  },
+  {
+    "upsConfigHighVoltageTransferPointsixth": "1.3.6.1.4.1.818.1.1.16.9.10"
+  },
+  {
+    "upsConfigBatteryCapacitysixth": "1.3.6.1.4.1.818.1.1.16.9.11"
+  },
+  {
+    "upsConfigBatteryChargeCurrentsixth": "1.3.6.1.4.1.818.1.1.16.9.12"
+  },
+  {
+    "upsConfigNoLoadShutdownsixth": "1.3.6.1.4.1.818.1.1.16.9.13"
+  },
+  {
+    "upsConfigStartDelaysixth": "1.3.6.1.4.1.818.1.1.16.9.14"
+  },
+  {
+    "upsGetSetsixth": "1.3.6.1.4.1.818.1.1.16.10"
+  },
+  {
+    "upsEventGetNextsixth": "1.3.6.1.4.1.818.1.1.16.10.1"
+  },
+  {
+    "upsEventGetPrevioussixth": "1.3.6.1.4.1.818.1.1.16.10.2"
+  },
+  {
+    "upsEventSetStartingTimeStampsixth": "1.3.6.1.4.1.818.1.1.16.10.3"
+  },
+  {
+    "upsEventRetreiveCurrentTimeStampsixth": "1.3.6.1.4.1.818.1.1.16.10.4"
+  },
+  {
+    "upsEventTableSizesixth": "1.3.6.1.4.1.818.1.1.16.10.5"
+  },
+  {
+    "upsEventSixthTable": "1.3.6.1.4.1.818.1.1.16.10.6"
+  },
+  {
+    "upsEventSixthEntry": "1.3.6.1.4.1.818.1.1.16.10.6.1"
+  },
+  {
+    "upsEventLineIndexsixth": "1.3.6.1.4.1.818.1.1.16.10.6.1.1"
+  },
+  {
+    "upsEventCodesixth": "1.3.6.1.4.1.818.1.1.16.10.6.1.2"
+  },
+  {
+    "upsEventStatussixth": "1.3.6.1.4.1.818.1.1.16.10.6.1.3"
+  },
+  {
+    "upsEventTimesixth": "1.3.6.1.4.1.818.1.1.16.10.6.1.4"
+  },
+  {
+    "upsParametersReadsixth": "1.3.6.1.4.1.818.1.1.16.10.7"
+  },
+  {
+    "upsParametersWritesixth": "1.3.6.1.4.1.818.1.1.16.10.8"
+  },
+  {
+    "upsParametersStartAddresssixth": "1.3.6.1.4.1.818.1.1.16.10.9"
+  },
+  {
+    "upsParameterTableSizesixth": "1.3.6.1.4.1.818.1.1.16.10.10"
+  },
+  {
+    "upsParameterSixthTable": "1.3.6.1.4.1.818.1.1.16.10.11"
+  },
+  {
+    "upsParameterSixthEntry": "1.3.6.1.4.1.818.1.1.16.10.11.1"
+  },
+  {
+    "upsParameterLineIndexsixth": "1.3.6.1.4.1.818.1.1.16.10.11.1.1"
+  },
+  {
+    "upsParameterValuesixth": "1.3.6.1.4.1.818.1.1.16.10.11.1.2"
+  },
+  {
+    "upsStatussixth": "1.3.6.1.4.1.818.1.1.16.10.12"
+  },
+  {
+    "upsMainsStatisticsMBfailsixth": "1.3.6.1.4.1.818.1.1.16.10.13"
+  },
+  {
+    "upsMainsStatisticsMRfailsixth": "1.3.6.1.4.1.818.1.1.16.10.14"
+  },
+  {
+    "upsMainsStatisticsB2sixth": "1.3.6.1.4.1.818.1.1.16.10.15"
+  },
+  {
+    "upsMainsStatisticsB5sixth": "1.3.6.1.4.1.818.1.1.16.10.16"
+  },
+  {
+    "upsMainsStatisticsB10sixth": "1.3.6.1.4.1.818.1.1.16.10.17"
+  },
+  {
+    "upsMainsStatisticsB200sixth": "1.3.6.1.4.1.818.1.1.16.10.18"
+  },
+  {
+    "upsMainsStatisticsBypRelsixth": "1.3.6.1.4.1.818.1.1.16.10.19"
+  },
+  {
+    "upsTimesixth": "1.3.6.1.4.1.818.1.1.16.10.20"
+  },
+  {
+    "upsRequestPermissionsixth": "1.3.6.1.4.1.818.1.1.16.10.21"
+  },
+  {
+    "upsEventGetCodesixth": "1.3.6.1.4.1.818.1.1.16.10.22"
+  },
+  {
+    "upsEventSpinLocksixth": "1.3.6.1.4.1.818.1.1.16.10.23"
+  },
+  {
+    "upsParameterSpinLocksixth": "1.3.6.1.4.1.818.1.1.16.10.24"
+  },
+  {
+    "geUPSTrapssixth": "1.3.6.1.4.1.818.1.1.16.11"
+  },
+  {
+    "upsTrapAlarmBatteryBadsixth": "1.3.6.1.4.1.818.1.1.16.11.1"
+  },
+  {
+    "upsTrapAlarmOnBatterysixth": "1.3.6.1.4.1.818.1.1.16.11.2"
+  },
+  {
+    "upsTrapAlarmLowBatterysixth": "1.3.6.1.4.1.818.1.1.16.11.3"
+  },
+  {
+    "upsTrapAlarmDepletedBatterysixth": "1.3.6.1.4.1.818.1.1.16.11.4"
+  },
+  {
+    "upsTrapAlarmTempBadsixth": "1.3.6.1.4.1.818.1.1.16.11.5"
+  },
+  {
+    "upsTrapAlarmInputBadsixth": "1.3.6.1.4.1.818.1.1.16.11.6"
+  },
+  {
+    "upsTrapAlarmOutputBadsixth": "1.3.6.1.4.1.818.1.1.16.11.7"
+  },
+  {
+    "upsTrapAlarmOutputOverloadsixth": "1.3.6.1.4.1.818.1.1.16.11.8"
+  },
+  {
+    "upsTrapAlarmOnBypasssixth": "1.3.6.1.4.1.818.1.1.16.11.9"
+  },
+  {
+    "upsTrapAlarmBypassBadsixth": "1.3.6.1.4.1.818.1.1.16.11.10"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequestedsixth": "1.3.6.1.4.1.818.1.1.16.11.11"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequestedsixth": "1.3.6.1.4.1.818.1.1.16.11.12"
+  },
+  {
+    "upsTrapAlarmChargerFailedsixth": "1.3.6.1.4.1.818.1.1.16.11.13"
+  },
+  {
+    "upsTrapAlarmUpsOutputOffsixth": "1.3.6.1.4.1.818.1.1.16.11.14"
+  },
+  {
+    "upsTrapAlarmUpsSystemOffsixth": "1.3.6.1.4.1.818.1.1.16.11.15"
+  },
+  {
+    "upsTrapAlarmFanFailuresixth": "1.3.6.1.4.1.818.1.1.16.11.16"
+  },
+  {
+    "upsTrapAlarmFuseFailuresixth": "1.3.6.1.4.1.818.1.1.16.11.17"
+  },
+  {
+    "upsTrapAlarmGeneralFaultsixth": "1.3.6.1.4.1.818.1.1.16.11.18"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailedsixth": "1.3.6.1.4.1.818.1.1.16.11.19"
+  },
+  {
+    "upsTrapAlarmCommunicationsLostsixth": "1.3.6.1.4.1.818.1.1.16.11.20"
+  },
+  {
+    "upsTrapAlarmAwaitingPowersixth": "1.3.6.1.4.1.818.1.1.16.11.21"
+  },
+  {
+    "upsTrapAlarmShutdownPendingsixth": "1.3.6.1.4.1.818.1.1.16.11.22"
+  },
+  {
+    "upsTrapAlarmShutdownImminentsixth": "1.3.6.1.4.1.818.1.1.16.11.23"
+  },
+  {
+    "upsTrapAlarmTestInProgresssixth": "1.3.6.1.4.1.818.1.1.16.11.24"
+  },
+  {
+    "upsTrapAlarmReceptacleOffsixth": "1.3.6.1.4.1.818.1.1.16.11.25"
+  },
+  {
+    "upsTrapAlarmHighspeedBusFailuresixth": "1.3.6.1.4.1.818.1.1.16.11.26"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCFailuresixth": "1.3.6.1.4.1.818.1.1.16.11.27"
+  },
+  {
+    "upsTrapAlarmConnectivityBusFailuresixth": "1.3.6.1.4.1.818.1.1.16.11.28"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCFailuresixth": "1.3.6.1.4.1.818.1.1.16.11.29"
+  },
+  {
+    "upsTrapAlarmCurrentSharingFailuresixth": "1.3.6.1.4.1.818.1.1.16.11.30"
+  },
+  {
+    "upsTrapAlarmDCRippleFailuresixth": "1.3.6.1.4.1.818.1.1.16.11.31"
+  },
+  {
+    "upsTrapAlarmBatteryBadRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.33"
+  },
+  {
+    "upsTrapAlarmOnBatteryRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.34"
+  },
+  {
+    "upsTrapAlarmLowBatteryRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.35"
+  },
+  {
+    "upsTrapAlarmDepletedBatteryRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.36"
+  },
+  {
+    "upsTrapAlarmTempBadRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.37"
+  },
+  {
+    "upsTrapAlarmInputBadRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.38"
+  },
+  {
+    "upsTrapAlarmOutputBadRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.39"
+  },
+  {
+    "upsTrapAlarmOutputOverloadRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.40"
+  },
+  {
+    "upsTrapAlarmOnBypassRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.41"
+  },
+  {
+    "upsTrapAlarmBypassBadRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.42"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequestedRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.43"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequestedRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.44"
+  },
+  {
+    "upsTrapAlarmChargerFailedRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.45"
+  },
+  {
+    "upsTrapAlarmUpsOutputOnsixth": "1.3.6.1.4.1.818.1.1.16.11.46"
+  },
+  {
+    "upsTrapAlarmUpsSystemOnsixth": "1.3.6.1.4.1.818.1.1.16.11.47"
+  },
+  {
+    "upsTrapAlarmFanFailureRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.48"
+  },
+  {
+    "upsTrapAlarmFuseFailureRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.49"
+  },
+  {
+    "upsTrapAlarmGeneralFaultRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.50"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailedRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.51"
+  },
+  {
+    "upsTrapAlarmCommunicationsLostRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.52"
+  },
+  {
+    "upsTrapAlarmAwaitingPowerRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.53"
+  },
+  {
+    "upsTrapAlarmShutdownPendingRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.54"
+  },
+  {
+    "upsTrapAlarmShutdownImminentRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.55"
+  },
+  {
+    "upsTrapAlarmTestInProgressRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.56"
+  },
+  {
+    "upsTrapAlarmReceptacleOnsixth": "1.3.6.1.4.1.818.1.1.16.11.57"
+  },
+  {
+    "upsTrapAlarmHighspeedBusRestoresixth": "1.3.6.1.4.1.818.1.1.16.11.58"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCRestoresixth": "1.3.6.1.4.1.818.1.1.16.11.59"
+  },
+  {
+    "upsTrapAlarmConnectivityBusRestoresixth": "1.3.6.1.4.1.818.1.1.16.11.60"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.61"
+  },
+  {
+    "upsTrapAlarmCurrentSharingRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.62"
+  },
+  {
+    "upsTrapAlarmDCRippleRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.63"
+  },
+  {
+    "upsTrapAlarmValueLowsixth": "1.3.6.1.4.1.818.1.1.16.11.129"
+  },
+  {
+    "upsTrapAlarmValueHighsixth": "1.3.6.1.4.1.818.1.1.16.11.130"
+  },
+  {
+    "upsTrapAlarmValueLowRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.133"
+  },
+  {
+    "upsTrapAlarmValueHighRestoredsixth": "1.3.6.1.4.1.818.1.1.16.11.134"
+  },
+  {
+    "upsDiagnosticsixth": "1.3.6.1.4.1.818.1.1.16.12"
+  },
+  {
+    "upsDiagnosticBusJACommunicationStatussixth": "1.3.6.1.4.1.818.1.1.16.12.1"
+  },
+  {
+    "upsDiagnosticBusJBCommunicationStatussixth": "1.3.6.1.4.1.818.1.1.16.12.2"
+  },
+  {
+    "upsDiagnosticBatteryLifetimesixth": "1.3.6.1.4.1.818.1.1.16.12.3"
+  },
+  {
+    "upsDiagnosticFansLifetimesixth": "1.3.6.1.4.1.818.1.1.16.12.4"
+  },
+  {
+    "upsDiagnosticDCcapacitorsLifetimesixth": "1.3.6.1.4.1.818.1.1.16.12.5"
+  },
+  {
+    "upsDiagnosticACcapacitorsLifetimesixth": "1.3.6.1.4.1.818.1.1.16.12.6"
+  },
+  {
+    "upsDiagnosticGlobalServiceChecksixth": "1.3.6.1.4.1.818.1.1.16.12.7"
+  },
+  {
+    "geSeventhUPS": "1.3.6.1.4.1.818.1.1.17"
+  },
+  {
+    "upsIdentseventh": "1.3.6.1.4.1.818.1.1.17.1"
+  },
+  {
+    "upsIdentManufacturerseventh": "1.3.6.1.4.1.818.1.1.17.1.1"
+  },
+  {
+    "upsIdentModelseventh": "1.3.6.1.4.1.818.1.1.17.1.2"
+  },
+  {
+    "upsIdentUPSSoftwareVersionseventh": "1.3.6.1.4.1.818.1.1.17.1.3"
+  },
+  {
+    "upsIdentAgentSoftwareVersionseventh": "1.3.6.1.4.1.818.1.1.17.1.4"
+  },
+  {
+    "upsIdentNameseventh": "1.3.6.1.4.1.818.1.1.17.1.5"
+  },
+  {
+    "upsIdentAttachedDevicesseventh": "1.3.6.1.4.1.818.1.1.17.1.6"
+  },
+  {
+    "upsIdentUPSSerialNumberseventh": "1.3.6.1.4.1.818.1.1.17.1.7"
+  },
+  {
+    "upsIdentComProtVersionseventh": "1.3.6.1.4.1.818.1.1.17.1.8"
+  },
+  {
+    "upsIdentOperatingTimeseventh": "1.3.6.1.4.1.818.1.1.17.1.9"
+  },
+  {
+    "upsBatteryseventh": "1.3.6.1.4.1.818.1.1.17.2"
+  },
+  {
+    "upsBatteryStatusseventh": "1.3.6.1.4.1.818.1.1.17.2.1"
+  },
+  {
+    "upsSecondsOnBatteryseventh": "1.3.6.1.4.1.818.1.1.17.2.2"
+  },
+  {
+    "upsEstimatedMinutesRemainingseventh": "1.3.6.1.4.1.818.1.1.17.2.3"
+  },
+  {
+    "upsEstimatedChargeRemainingseventh": "1.3.6.1.4.1.818.1.1.17.2.4"
+  },
+  {
+    "upsBatteryVoltageseventh": "1.3.6.1.4.1.818.1.1.17.2.5"
+  },
+  {
+    "upsBatteryCurrentseventh": "1.3.6.1.4.1.818.1.1.17.2.6"
+  },
+  {
+    "upsBatteryTemperatureseventh": "1.3.6.1.4.1.818.1.1.17.2.7"
+  },
+  {
+    "upsBatteryRippleseventh": "1.3.6.1.4.1.818.1.1.17.2.8"
+  },
+  {
+    "upsInputseventh": "1.3.6.1.4.1.818.1.1.17.3"
+  },
+  {
+    "upsInputLineBadsseventh": "1.3.6.1.4.1.818.1.1.17.3.1"
+  },
+  {
+    "upsInputNumLinesseventh": "1.3.6.1.4.1.818.1.1.17.3.2"
+  },
+  {
+    "upsInputSeventhTable": "1.3.6.1.4.1.818.1.1.17.3.3"
+  },
+  {
+    "upsInputSeventhEntry": "1.3.6.1.4.1.818.1.1.17.3.3.1"
+  },
+  {
+    "upsInputLineIndexseventh": "1.3.6.1.4.1.818.1.1.17.3.3.1.1"
+  },
+  {
+    "upsInputFrequencyseventh": "1.3.6.1.4.1.818.1.1.17.3.3.1.2"
+  },
+  {
+    "upsInputVoltageseventh": "1.3.6.1.4.1.818.1.1.17.3.3.1.3"
+  },
+  {
+    "upsInputCurrentseventh": "1.3.6.1.4.1.818.1.1.17.3.3.1.4"
+  },
+  {
+    "upsInputTruePowerseventh": "1.3.6.1.4.1.818.1.1.17.3.3.1.5"
+  },
+  {
+    "upsInputVoltageMinseventh": "1.3.6.1.4.1.818.1.1.17.3.3.1.6"
+  },
+  {
+    "upsInputVoltageMaxseventh": "1.3.6.1.4.1.818.1.1.17.3.3.1.7"
+  },
+  {
+    "upsOutputseventh": "1.3.6.1.4.1.818.1.1.17.4"
+  },
+  {
+    "upsOutputSourceseventh": "1.3.6.1.4.1.818.1.1.17.4.1"
+  },
+  {
+    "upsOutputFrequencyseventh": "1.3.6.1.4.1.818.1.1.17.4.2"
+  },
+  {
+    "upsOutputNumLinesseventh": "1.3.6.1.4.1.818.1.1.17.4.3"
+  },
+  {
+    "upsOutputSeventhTable": "1.3.6.1.4.1.818.1.1.17.4.4"
+  },
+  {
+    "upsOutputSeventhEntry": "1.3.6.1.4.1.818.1.1.17.4.4.1"
+  },
+  {
+    "upsOutputLineIndexseventh": "1.3.6.1.4.1.818.1.1.17.4.4.1.1"
+  },
+  {
+    "upsOutputVoltageseventh": "1.3.6.1.4.1.818.1.1.17.4.4.1.2"
+  },
+  {
+    "upsOutputCurrentseventh": "1.3.6.1.4.1.818.1.1.17.4.4.1.3"
+  },
+  {
+    "upsOutputPowerseventh": "1.3.6.1.4.1.818.1.1.17.4.4.1.4"
+  },
+  {
+    "upsOutputPercentLoadseventh": "1.3.6.1.4.1.818.1.1.17.4.4.1.5"
+  },
+  {
+    "upsOutputPowerFactorseventh": "1.3.6.1.4.1.818.1.1.17.4.4.1.6"
+  },
+  {
+    "upsOutputPeakCurrentseventh": "1.3.6.1.4.1.818.1.1.17.4.4.1.7"
+  },
+  {
+    "upsOutputShareCurrentseventh": "1.3.6.1.4.1.818.1.1.17.4.4.1.8"
+  },
+  {
+    "upsBypassseventh": "1.3.6.1.4.1.818.1.1.17.5"
+  },
+  {
+    "upsBypassFrequencyseventh": "1.3.6.1.4.1.818.1.1.17.5.1"
+  },
+  {
+    "upsBypassNumLinesseventh": "1.3.6.1.4.1.818.1.1.17.5.2"
+  },
+  {
+    "upsBypassSeventhTable": "1.3.6.1.4.1.818.1.1.17.5.3"
+  },
+  {
+    "upsBypassSeventhEntry": "1.3.6.1.4.1.818.1.1.17.5.3.1"
+  },
+  {
+    "upsBypassLineIndexseventh": "1.3.6.1.4.1.818.1.1.17.5.3.1.1"
+  },
+  {
+    "upsBypassVoltageseventh": "1.3.6.1.4.1.818.1.1.17.5.3.1.2"
+  },
+  {
+    "upsBypassCurrentseventh": "1.3.6.1.4.1.818.1.1.17.5.3.1.3"
+  },
+  {
+    "upsBypassPowerseventh": "1.3.6.1.4.1.818.1.1.17.5.3.1.4"
+  },
+  {
+    "upsAlarmseventh": "1.3.6.1.4.1.818.1.1.17.6"
+  },
+  {
+    "upsAlarmsPresentseventh": "1.3.6.1.4.1.818.1.1.17.6.1"
+  },
+  {
+    "upsAlarmSeventhTable": "1.3.6.1.4.1.818.1.1.17.6.2"
+  },
+  {
+    "upsAlarmSeventhEntry": "1.3.6.1.4.1.818.1.1.17.6.2.1"
+  },
+  {
+    "upsAlarmIdseventh": "1.3.6.1.4.1.818.1.1.17.6.2.1.1"
+  },
+  {
+    "upsAlarmDescrseventh": "1.3.6.1.4.1.818.1.1.17.6.2.1.2"
+  },
+  {
+    "upsAlarmTimeseventh": "1.3.6.1.4.1.818.1.1.17.6.2.1.3"
+  },
+  {
+    "upsWellKnownAlarmsseventh": "1.3.6.1.4.1.818.1.1.17.6.3"
+  },
+  {
+    "upsAlarmBatteryBadseventh": "1.3.6.1.4.1.818.1.1.17.6.3.1"
+  },
+  {
+    "upsAlarmOnBatteryseventh": "1.3.6.1.4.1.818.1.1.17.6.3.2"
+  },
+  {
+    "upsAlarmLowBatteryseventh": "1.3.6.1.4.1.818.1.1.17.6.3.3"
+  },
+  {
+    "upsAlarmDepletedBatteryseventh": "1.3.6.1.4.1.818.1.1.17.6.3.4"
+  },
+  {
+    "upsAlarmTempBadseventh": "1.3.6.1.4.1.818.1.1.17.6.3.5"
+  },
+  {
+    "upsAlarmInputBadseventh": "1.3.6.1.4.1.818.1.1.17.6.3.6"
+  },
+  {
+    "upsAlarmOutputBadseventh": "1.3.6.1.4.1.818.1.1.17.6.3.7"
+  },
+  {
+    "upsAlarmOutputOverloadseventh": "1.3.6.1.4.1.818.1.1.17.6.3.8"
+  },
+  {
+    "upsAlarmOnBypassseventh": "1.3.6.1.4.1.818.1.1.17.6.3.9"
+  },
+  {
+    "upsAlarmBypassBadseventh": "1.3.6.1.4.1.818.1.1.17.6.3.10"
+  },
+  {
+    "upsAlarmOutputOffAsRequestedseventh": "1.3.6.1.4.1.818.1.1.17.6.3.11"
+  },
+  {
+    "upsAlarmUpsOffAsRequestedseventh": "1.3.6.1.4.1.818.1.1.17.6.3.12"
+  },
+  {
+    "upsAlarmChargerFailedseventh": "1.3.6.1.4.1.818.1.1.17.6.3.13"
+  },
+  {
+    "upsAlarmUpsOutputOffseventh": "1.3.6.1.4.1.818.1.1.17.6.3.14"
+  },
+  {
+    "upsAlarmUpsSystemOffseventh": "1.3.6.1.4.1.818.1.1.17.6.3.15"
+  },
+  {
+    "upsAlarmFanFailureseventh": "1.3.6.1.4.1.818.1.1.17.6.3.16"
+  },
+  {
+    "upsAlarmFuseFailureseventh": "1.3.6.1.4.1.818.1.1.17.6.3.17"
+  },
+  {
+    "upsAlarmGeneralFaultseventh": "1.3.6.1.4.1.818.1.1.17.6.3.18"
+  },
+  {
+    "upsAlarmDiagnosticTestFailedseventh": "1.3.6.1.4.1.818.1.1.17.6.3.19"
+  },
+  {
+    "upsAlarmCommunicationsLostseventh": "1.3.6.1.4.1.818.1.1.17.6.3.20"
+  },
+  {
+    "upsAlarmAwaitingPowerseventh": "1.3.6.1.4.1.818.1.1.17.6.3.21"
+  },
+  {
+    "upsAlarmShutdownPendingseventh": "1.3.6.1.4.1.818.1.1.17.6.3.22"
+  },
+  {
+    "upsAlarmShutdownImminentseventh": "1.3.6.1.4.1.818.1.1.17.6.3.23"
+  },
+  {
+    "upsAlarmTestInProgressseventh": "1.3.6.1.4.1.818.1.1.17.6.3.24"
+  },
+  {
+    "upsAlarmReceptacleOffseventh": "1.3.6.1.4.1.818.1.1.17.6.3.25"
+  },
+  {
+    "upsAlarmHighSpeedBusFailureseventh": "1.3.6.1.4.1.818.1.1.17.6.3.26"
+  },
+  {
+    "upsAlarmHighSpeedBusJACRCFailureseventh": "1.3.6.1.4.1.818.1.1.17.6.3.27"
+  },
+  {
+    "upsAlarmConnectivityBusFailureseventh": "1.3.6.1.4.1.818.1.1.17.6.3.28"
+  },
+  {
+    "upsAlarmHighSpeedBusJBCRCFailureseventh": "1.3.6.1.4.1.818.1.1.17.6.3.29"
+  },
+  {
+    "upsAlarmCurrentSharingseventh": "1.3.6.1.4.1.818.1.1.17.6.3.30"
+  },
+  {
+    "upsAlarmDCRippleseventh": "1.3.6.1.4.1.818.1.1.17.6.3.31"
+  },
+  {
+    "upsAlarmMaskAseventh": "1.3.6.1.4.1.818.1.1.17.6.4"
+  },
+  {
+    "upsTestseventh": "1.3.6.1.4.1.818.1.1.17.7"
+  },
+  {
+    "upsTestIdseventh": "1.3.6.1.4.1.818.1.1.17.7.1"
+  },
+  {
+    "upsTestSpinLockseventh": "1.3.6.1.4.1.818.1.1.17.7.2"
+  },
+  {
+    "upsTestResultsSummaryseventh": "1.3.6.1.4.1.818.1.1.17.7.3"
+  },
+  {
+    "upsTestResultsDetailseventh": "1.3.6.1.4.1.818.1.1.17.7.4"
+  },
+  {
+    "upsTestStartTimeseventh": "1.3.6.1.4.1.818.1.1.17.7.5"
+  },
+  {
+    "upsTestElapsedTimeseventh": "1.3.6.1.4.1.818.1.1.17.7.6"
+  },
+  {
+    "upsWellKnownTestsseventh": "1.3.6.1.4.1.818.1.1.17.7.7"
+  },
+  {
+    "upsTestNoTestsInitiatedseventh": "1.3.6.1.4.1.818.1.1.17.7.7.1"
+  },
+  {
+    "upsTestAbortTestInProgressseventh": "1.3.6.1.4.1.818.1.1.17.7.7.2"
+  },
+  {
+    "upsTestGeneralSystemsTestseventh": "1.3.6.1.4.1.818.1.1.17.7.7.3"
+  },
+  {
+    "upsTestQuickBatteryTestseventh": "1.3.6.1.4.1.818.1.1.17.7.7.4"
+  },
+  {
+    "upsTestDeepBatteryCalibrationseventh": "1.3.6.1.4.1.818.1.1.17.7.7.5"
+  },
+  {
+    "upsControlseventh": "1.3.6.1.4.1.818.1.1.17.8"
+  },
+  {
+    "upsShutdownTypeseventh": "1.3.6.1.4.1.818.1.1.17.8.1"
+  },
+  {
+    "upsShutdownAfterDelayseventh": "1.3.6.1.4.1.818.1.1.17.8.2"
+  },
+  {
+    "upsStartupAfterDelayseventh": "1.3.6.1.4.1.818.1.1.17.8.3"
+  },
+  {
+    "upsRebootWithDurationseventh": "1.3.6.1.4.1.818.1.1.17.8.4"
+  },
+  {
+    "upsAutoRestartseventh": "1.3.6.1.4.1.818.1.1.17.8.5"
+  },
+  {
+    "upsReceptaclesNumseventh": "1.3.6.1.4.1.818.1.1.17.8.6"
+  },
+  {
+    "upsReceptacleSeventhTable": "1.3.6.1.4.1.818.1.1.17.8.7"
+  },
+  {
+    "upsReceptacleSeventhEntry": "1.3.6.1.4.1.818.1.1.17.8.7.1"
+  },
+  {
+    "upsReceptacleLineIndexseventh": "1.3.6.1.4.1.818.1.1.17.8.7.1.1"
+  },
+  {
+    "upsReceptacleOnOffseventh": "1.3.6.1.4.1.818.1.1.17.8.7.1.2"
+  },
+  {
+    "upsUPSModeseventh": "1.3.6.1.4.1.818.1.1.17.8.8"
+  },
+  {
+    "upsRectifierOnOffseventh": "1.3.6.1.4.1.818.1.1.17.8.9"
+  },
+  {
+    "upsBatteryChargeMethodseventh": "1.3.6.1.4.1.818.1.1.17.8.10"
+  },
+  {
+    "upsInverterOnOffseventh": "1.3.6.1.4.1.818.1.1.17.8.11"
+  },
+  {
+    "upsBypassOnOffseventh": "1.3.6.1.4.1.818.1.1.17.8.12"
+  },
+  {
+    "upsLoadSourceseventh": "1.3.6.1.4.1.818.1.1.17.8.13"
+  },
+  {
+    "upsConfigseventh": "1.3.6.1.4.1.818.1.1.17.9"
+  },
+  {
+    "upsConfigInputVoltageseventh": "1.3.6.1.4.1.818.1.1.17.9.1"
+  },
+  {
+    "upsConfigInputFreqseventh": "1.3.6.1.4.1.818.1.1.17.9.2"
+  },
+  {
+    "upsConfigOutputVoltageseventh": "1.3.6.1.4.1.818.1.1.17.9.3"
+  },
+  {
+    "upsConfigOutputFreqseventh": "1.3.6.1.4.1.818.1.1.17.9.4"
+  },
+  {
+    "upsConfigOutputVAseventh": "1.3.6.1.4.1.818.1.1.17.9.5"
+  },
+  {
+    "upsConfigOutputPowerseventh": "1.3.6.1.4.1.818.1.1.17.9.6"
+  },
+  {
+    "upsConfigLowBattTimeseventh": "1.3.6.1.4.1.818.1.1.17.9.7"
+  },
+  {
+    "upsConfigAudibleStatusseventh": "1.3.6.1.4.1.818.1.1.17.9.8"
+  },
+  {
+    "upsConfigLowVoltageTransferPointseventh": "1.3.6.1.4.1.818.1.1.17.9.9"
+  },
+  {
+    "upsConfigHighVoltageTransferPointseventh": "1.3.6.1.4.1.818.1.1.17.9.10"
+  },
+  {
+    "upsConfigBatteryCapacityseventh": "1.3.6.1.4.1.818.1.1.17.9.11"
+  },
+  {
+    "upsConfigBatteryChargeCurrentseventh": "1.3.6.1.4.1.818.1.1.17.9.12"
+  },
+  {
+    "upsConfigNoLoadShutdownseventh": "1.3.6.1.4.1.818.1.1.17.9.13"
+  },
+  {
+    "upsConfigStartDelayseventh": "1.3.6.1.4.1.818.1.1.17.9.14"
+  },
+  {
+    "upsGetSetseventh": "1.3.6.1.4.1.818.1.1.17.10"
+  },
+  {
+    "upsEventGetNextseventh": "1.3.6.1.4.1.818.1.1.17.10.1"
+  },
+  {
+    "upsEventGetPreviousseventh": "1.3.6.1.4.1.818.1.1.17.10.2"
+  },
+  {
+    "upsEventSetStartingTimeStampseventh": "1.3.6.1.4.1.818.1.1.17.10.3"
+  },
+  {
+    "upsEventRetreiveCurrentTimeStampseventh": "1.3.6.1.4.1.818.1.1.17.10.4"
+  },
+  {
+    "upsEventTableSizeseventh": "1.3.6.1.4.1.818.1.1.17.10.5"
+  },
+  {
+    "upsEventSeventhTable": "1.3.6.1.4.1.818.1.1.17.10.6"
+  },
+  {
+    "upsEventSeventhEntry": "1.3.6.1.4.1.818.1.1.17.10.6.1"
+  },
+  {
+    "upsEventLineIndexseventh": "1.3.6.1.4.1.818.1.1.17.10.6.1.1"
+  },
+  {
+    "upsEventCodeseventh": "1.3.6.1.4.1.818.1.1.17.10.6.1.2"
+  },
+  {
+    "upsEventStatusseventh": "1.3.6.1.4.1.818.1.1.17.10.6.1.3"
+  },
+  {
+    "upsEventTimeseventh": "1.3.6.1.4.1.818.1.1.17.10.6.1.4"
+  },
+  {
+    "upsParametersReadseventh": "1.3.6.1.4.1.818.1.1.17.10.7"
+  },
+  {
+    "upsParametersWriteseventh": "1.3.6.1.4.1.818.1.1.17.10.8"
+  },
+  {
+    "upsParametersStartAddressseventh": "1.3.6.1.4.1.818.1.1.17.10.9"
+  },
+  {
+    "upsParameterTableSizeseventh": "1.3.6.1.4.1.818.1.1.17.10.10"
+  },
+  {
+    "upsParameterSeventhTable": "1.3.6.1.4.1.818.1.1.17.10.11"
+  },
+  {
+    "upsParameterSeventhEntry": "1.3.6.1.4.1.818.1.1.17.10.11.1"
+  },
+  {
+    "upsParameterLineIndexseventh": "1.3.6.1.4.1.818.1.1.17.10.11.1.1"
+  },
+  {
+    "upsParameterValueseventh": "1.3.6.1.4.1.818.1.1.17.10.11.1.2"
+  },
+  {
+    "upsStatusseventh": "1.3.6.1.4.1.818.1.1.17.10.12"
+  },
+  {
+    "upsMainsStatisticsMBfailseventh": "1.3.6.1.4.1.818.1.1.17.10.13"
+  },
+  {
+    "upsMainsStatisticsMRfailseventh": "1.3.6.1.4.1.818.1.1.17.10.14"
+  },
+  {
+    "upsMainsStatisticsB2seventh": "1.3.6.1.4.1.818.1.1.17.10.15"
+  },
+  {
+    "upsMainsStatisticsB5seventh": "1.3.6.1.4.1.818.1.1.17.10.16"
+  },
+  {
+    "upsMainsStatisticsB10seventh": "1.3.6.1.4.1.818.1.1.17.10.17"
+  },
+  {
+    "upsMainsStatisticsB200seventh": "1.3.6.1.4.1.818.1.1.17.10.18"
+  },
+  {
+    "upsMainsStatisticsBypRelseventh": "1.3.6.1.4.1.818.1.1.17.10.19"
+  },
+  {
+    "upsTimeseventh": "1.3.6.1.4.1.818.1.1.17.10.20"
+  },
+  {
+    "upsRequestPermissionseventh": "1.3.6.1.4.1.818.1.1.17.10.21"
+  },
+  {
+    "upsEventGetCodeseventh": "1.3.6.1.4.1.818.1.1.17.10.22"
+  },
+  {
+    "upsEventSpinLockseventh": "1.3.6.1.4.1.818.1.1.17.10.23"
+  },
+  {
+    "upsParameterSpinLockseventh": "1.3.6.1.4.1.818.1.1.17.10.24"
+  },
+  {
+    "geUPSTrapsseventh": "1.3.6.1.4.1.818.1.1.17.11"
+  },
+  {
+    "upsTrapAlarmBatteryBadseventh": "1.3.6.1.4.1.818.1.1.17.11.1"
+  },
+  {
+    "upsTrapAlarmOnBatteryseventh": "1.3.6.1.4.1.818.1.1.17.11.2"
+  },
+  {
+    "upsTrapAlarmLowBatteryseventh": "1.3.6.1.4.1.818.1.1.17.11.3"
+  },
+  {
+    "upsTrapAlarmDepletedBatteryseventh": "1.3.6.1.4.1.818.1.1.17.11.4"
+  },
+  {
+    "upsTrapAlarmTempBadseventh": "1.3.6.1.4.1.818.1.1.17.11.5"
+  },
+  {
+    "upsTrapAlarmInputBadseventh": "1.3.6.1.4.1.818.1.1.17.11.6"
+  },
+  {
+    "upsTrapAlarmOutputBadseventh": "1.3.6.1.4.1.818.1.1.17.11.7"
+  },
+  {
+    "upsTrapAlarmOutputOverloadseventh": "1.3.6.1.4.1.818.1.1.17.11.8"
+  },
+  {
+    "upsTrapAlarmOnBypassseventh": "1.3.6.1.4.1.818.1.1.17.11.9"
+  },
+  {
+    "upsTrapAlarmBypassBadseventh": "1.3.6.1.4.1.818.1.1.17.11.10"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequestedseventh": "1.3.6.1.4.1.818.1.1.17.11.11"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequestedseventh": "1.3.6.1.4.1.818.1.1.17.11.12"
+  },
+  {
+    "upsTrapAlarmChargerFailedseventh": "1.3.6.1.4.1.818.1.1.17.11.13"
+  },
+  {
+    "upsTrapAlarmUpsOutputOffseventh": "1.3.6.1.4.1.818.1.1.17.11.14"
+  },
+  {
+    "upsTrapAlarmUpsSystemOffseventh": "1.3.6.1.4.1.818.1.1.17.11.15"
+  },
+  {
+    "upsTrapAlarmFanFailureseventh": "1.3.6.1.4.1.818.1.1.17.11.16"
+  },
+  {
+    "upsTrapAlarmFuseFailureseventh": "1.3.6.1.4.1.818.1.1.17.11.17"
+  },
+  {
+    "upsTrapAlarmGeneralFaultseventh": "1.3.6.1.4.1.818.1.1.17.11.18"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailedseventh": "1.3.6.1.4.1.818.1.1.17.11.19"
+  },
+  {
+    "upsTrapAlarmCommunicationsLostseventh": "1.3.6.1.4.1.818.1.1.17.11.20"
+  },
+  {
+    "upsTrapAlarmAwaitingPowerseventh": "1.3.6.1.4.1.818.1.1.17.11.21"
+  },
+  {
+    "upsTrapAlarmShutdownPendingseventh": "1.3.6.1.4.1.818.1.1.17.11.22"
+  },
+  {
+    "upsTrapAlarmShutdownImminentseventh": "1.3.6.1.4.1.818.1.1.17.11.23"
+  },
+  {
+    "upsTrapAlarmTestInProgressseventh": "1.3.6.1.4.1.818.1.1.17.11.24"
+  },
+  {
+    "upsTrapAlarmReceptacleOffseventh": "1.3.6.1.4.1.818.1.1.17.11.25"
+  },
+  {
+    "upsTrapAlarmHighspeedBusFailureseventh": "1.3.6.1.4.1.818.1.1.17.11.26"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCFailureseventh": "1.3.6.1.4.1.818.1.1.17.11.27"
+  },
+  {
+    "upsTrapAlarmConnectivityBusFailureseventh": "1.3.6.1.4.1.818.1.1.17.11.28"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCFailureseventh": "1.3.6.1.4.1.818.1.1.17.11.29"
+  },
+  {
+    "upsTrapAlarmCurrentSharingFailureseventh": "1.3.6.1.4.1.818.1.1.17.11.30"
+  },
+  {
+    "upsTrapAlarmDCRippleFailureseventh": "1.3.6.1.4.1.818.1.1.17.11.31"
+  },
+  {
+    "upsTrapAlarmBatteryBadRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.33"
+  },
+  {
+    "upsTrapAlarmOnBatteryRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.34"
+  },
+  {
+    "upsTrapAlarmLowBatteryRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.35"
+  },
+  {
+    "upsTrapAlarmDepletedBatteryRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.36"
+  },
+  {
+    "upsTrapAlarmTempBadRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.37"
+  },
+  {
+    "upsTrapAlarmInputBadRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.38"
+  },
+  {
+    "upsTrapAlarmOutputBadRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.39"
+  },
+  {
+    "upsTrapAlarmOutputOverloadRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.40"
+  },
+  {
+    "upsTrapAlarmOnBypassRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.41"
+  },
+  {
+    "upsTrapAlarmBypassBadRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.42"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequestedRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.43"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequestedRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.44"
+  },
+  {
+    "upsTrapAlarmChargerFailedRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.45"
+  },
+  {
+    "upsTrapAlarmUpsOutputOnseventh": "1.3.6.1.4.1.818.1.1.17.11.46"
+  },
+  {
+    "upsTrapAlarmUpsSystemOnseventh": "1.3.6.1.4.1.818.1.1.17.11.47"
+  },
+  {
+    "upsTrapAlarmFanFailureRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.48"
+  },
+  {
+    "upsTrapAlarmFuseFailureRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.49"
+  },
+  {
+    "upsTrapAlarmGeneralFaultRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.50"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailedRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.51"
+  },
+  {
+    "upsTrapAlarmCommunicationsLostRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.52"
+  },
+  {
+    "upsTrapAlarmAwaitingPowerRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.53"
+  },
+  {
+    "upsTrapAlarmShutdownPendingRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.54"
+  },
+  {
+    "upsTrapAlarmShutdownImminentRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.55"
+  },
+  {
+    "upsTrapAlarmTestInProgressRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.56"
+  },
+  {
+    "upsTrapAlarmReceptacleOnseventh": "1.3.6.1.4.1.818.1.1.17.11.57"
+  },
+  {
+    "upsTrapAlarmHighspeedBusRestoreseventh": "1.3.6.1.4.1.818.1.1.17.11.58"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCRestoreseventh": "1.3.6.1.4.1.818.1.1.17.11.59"
+  },
+  {
+    "upsTrapAlarmConnectivityBusRestoreseventh": "1.3.6.1.4.1.818.1.1.17.11.60"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.61"
+  },
+  {
+    "upsTrapAlarmCurrentSharingRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.62"
+  },
+  {
+    "upsTrapAlarmDCRippleRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.63"
+  },
+  {
+    "upsTrapAlarmValueLowseventh": "1.3.6.1.4.1.818.1.1.17.11.129"
+  },
+  {
+    "upsTrapAlarmValueHighseventh": "1.3.6.1.4.1.818.1.1.17.11.130"
+  },
+  {
+    "upsTrapAlarmValueLowRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.133"
+  },
+  {
+    "upsTrapAlarmValueHighRestoredseventh": "1.3.6.1.4.1.818.1.1.17.11.134"
+  },
+  {
+    "upsDiagnosticseventh": "1.3.6.1.4.1.818.1.1.17.12"
+  },
+  {
+    "upsDiagnosticBusJACommunicationStatusseventh": "1.3.6.1.4.1.818.1.1.17.12.1"
+  },
+  {
+    "upsDiagnosticBusJBCommunicationStatusseventh": "1.3.6.1.4.1.818.1.1.17.12.2"
+  },
+  {
+    "upsDiagnosticBatteryLifetimeseventh": "1.3.6.1.4.1.818.1.1.17.12.3"
+  },
+  {
+    "upsDiagnosticFansLifetimeseventh": "1.3.6.1.4.1.818.1.1.17.12.4"
+  },
+  {
+    "upsDiagnosticDCcapacitorsLifetimeseventh": "1.3.6.1.4.1.818.1.1.17.12.5"
+  },
+  {
+    "upsDiagnosticACcapacitorsLifetimeseventh": "1.3.6.1.4.1.818.1.1.17.12.6"
+  },
+  {
+    "upsDiagnosticGlobalServiceCheckseventh": "1.3.6.1.4.1.818.1.1.17.12.7"
+  },
+  {
+    "geEighthUPS": "1.3.6.1.4.1.818.1.1.18"
+  },
+  {
+    "upsIdenteighth": "1.3.6.1.4.1.818.1.1.18.1"
+  },
+  {
+    "upsIdentManufacturereighth": "1.3.6.1.4.1.818.1.1.18.1.1"
+  },
+  {
+    "upsIdentModeleighth": "1.3.6.1.4.1.818.1.1.18.1.2"
+  },
+  {
+    "upsIdentUPSSoftwareVersioneighth": "1.3.6.1.4.1.818.1.1.18.1.3"
+  },
+  {
+    "upsIdentAgentSoftwareVersioneighth": "1.3.6.1.4.1.818.1.1.18.1.4"
+  },
+  {
+    "upsIdentNameeighth": "1.3.6.1.4.1.818.1.1.18.1.5"
+  },
+  {
+    "upsIdentAttachedDeviceseighth": "1.3.6.1.4.1.818.1.1.18.1.6"
+  },
+  {
+    "upsIdentUPSSerialNumbereighth": "1.3.6.1.4.1.818.1.1.18.1.7"
+  },
+  {
+    "upsIdentComProtVersioneighth": "1.3.6.1.4.1.818.1.1.18.1.8"
+  },
+  {
+    "upsIdentOperatingTimeeighth": "1.3.6.1.4.1.818.1.1.18.1.9"
+  },
+  {
+    "upsBatteryeighth": "1.3.6.1.4.1.818.1.1.18.2"
+  },
+  {
+    "upsBatteryStatuseighth": "1.3.6.1.4.1.818.1.1.18.2.1"
+  },
+  {
+    "upsSecondsOnBatteryeighth": "1.3.6.1.4.1.818.1.1.18.2.2"
+  },
+  {
+    "upsEstimatedMinutesRemainingeighth": "1.3.6.1.4.1.818.1.1.18.2.3"
+  },
+  {
+    "upsEstimatedChargeRemainingeighth": "1.3.6.1.4.1.818.1.1.18.2.4"
+  },
+  {
+    "upsBatteryVoltageeighth": "1.3.6.1.4.1.818.1.1.18.2.5"
+  },
+  {
+    "upsBatteryCurrenteighth": "1.3.6.1.4.1.818.1.1.18.2.6"
+  },
+  {
+    "upsBatteryTemperatureeighth": "1.3.6.1.4.1.818.1.1.18.2.7"
+  },
+  {
+    "upsBatteryRippleeighth": "1.3.6.1.4.1.818.1.1.18.2.8"
+  },
+  {
+    "upsInputeighth": "1.3.6.1.4.1.818.1.1.18.3"
+  },
+  {
+    "upsInputLineBadseighth": "1.3.6.1.4.1.818.1.1.18.3.1"
+  },
+  {
+    "upsInputNumLineseighth": "1.3.6.1.4.1.818.1.1.18.3.2"
+  },
+  {
+    "upsInputEighthTable": "1.3.6.1.4.1.818.1.1.18.3.3"
+  },
+  {
+    "upsInputEighthEntry": "1.3.6.1.4.1.818.1.1.18.3.3.1"
+  },
+  {
+    "upsInputLineIndexeighth": "1.3.6.1.4.1.818.1.1.18.3.3.1.1"
+  },
+  {
+    "upsInputFrequencyeighth": "1.3.6.1.4.1.818.1.1.18.3.3.1.2"
+  },
+  {
+    "upsInputVoltageeighth": "1.3.6.1.4.1.818.1.1.18.3.3.1.3"
+  },
+  {
+    "upsInputCurrenteighth": "1.3.6.1.4.1.818.1.1.18.3.3.1.4"
+  },
+  {
+    "upsInputTruePowereighth": "1.3.6.1.4.1.818.1.1.18.3.3.1.5"
+  },
+  {
+    "upsInputVoltageMineighth": "1.3.6.1.4.1.818.1.1.18.3.3.1.6"
+  },
+  {
+    "upsInputVoltageMaxeighth": "1.3.6.1.4.1.818.1.1.18.3.3.1.7"
+  },
+  {
+    "upsOutputeighth": "1.3.6.1.4.1.818.1.1.18.4"
+  },
+  {
+    "upsOutputSourceeighth": "1.3.6.1.4.1.818.1.1.18.4.1"
+  },
+  {
+    "upsOutputFrequencyeighth": "1.3.6.1.4.1.818.1.1.18.4.2"
+  },
+  {
+    "upsOutputNumLineseighth": "1.3.6.1.4.1.818.1.1.18.4.3"
+  },
+  {
+    "upsOutputEighthTable": "1.3.6.1.4.1.818.1.1.18.4.4"
+  },
+  {
+    "upsOutputEighthEntry": "1.3.6.1.4.1.818.1.1.18.4.4.1"
+  },
+  {
+    "upsOutputLineIndexeighth": "1.3.6.1.4.1.818.1.1.18.4.4.1.1"
+  },
+  {
+    "upsOutputVoltageeighth": "1.3.6.1.4.1.818.1.1.18.4.4.1.2"
+  },
+  {
+    "upsOutputCurrenteighth": "1.3.6.1.4.1.818.1.1.18.4.4.1.3"
+  },
+  {
+    "upsOutputPowereighth": "1.3.6.1.4.1.818.1.1.18.4.4.1.4"
+  },
+  {
+    "upsOutputPercentLoadeighth": "1.3.6.1.4.1.818.1.1.18.4.4.1.5"
+  },
+  {
+    "upsOutputPowerFactoreighth": "1.3.6.1.4.1.818.1.1.18.4.4.1.6"
+  },
+  {
+    "upsOutputPeakCurrenteighth": "1.3.6.1.4.1.818.1.1.18.4.4.1.7"
+  },
+  {
+    "upsOutputShareCurrenteighth": "1.3.6.1.4.1.818.1.1.18.4.4.1.8"
+  },
+  {
+    "upsBypasseighth": "1.3.6.1.4.1.818.1.1.18.5"
+  },
+  {
+    "upsBypassFrequencyeighth": "1.3.6.1.4.1.818.1.1.18.5.1"
+  },
+  {
+    "upsBypassNumLineseighth": "1.3.6.1.4.1.818.1.1.18.5.2"
+  },
+  {
+    "upsBypassEighthTable": "1.3.6.1.4.1.818.1.1.18.5.3"
+  },
+  {
+    "upsBypassEighthEntry": "1.3.6.1.4.1.818.1.1.18.5.3.1"
+  },
+  {
+    "upsBypassLineIndexeighth": "1.3.6.1.4.1.818.1.1.18.5.3.1.1"
+  },
+  {
+    "upsBypassVoltageeighth": "1.3.6.1.4.1.818.1.1.18.5.3.1.2"
+  },
+  {
+    "upsBypassCurrenteighth": "1.3.6.1.4.1.818.1.1.18.5.3.1.3"
+  },
+  {
+    "upsBypassPowereighth": "1.3.6.1.4.1.818.1.1.18.5.3.1.4"
+  },
+  {
+    "upsAlarmeighth": "1.3.6.1.4.1.818.1.1.18.6"
+  },
+  {
+    "upsAlarmsPresenteighth": "1.3.6.1.4.1.818.1.1.18.6.1"
+  },
+  {
+    "upsAlarmEighthTable": "1.3.6.1.4.1.818.1.1.18.6.2"
+  },
+  {
+    "upsAlarmEighthEntry": "1.3.6.1.4.1.818.1.1.18.6.2.1"
+  },
+  {
+    "upsAlarmIdeighth": "1.3.6.1.4.1.818.1.1.18.6.2.1.1"
+  },
+  {
+    "upsAlarmDescreighth": "1.3.6.1.4.1.818.1.1.18.6.2.1.2"
+  },
+  {
+    "upsAlarmTimeeighth": "1.3.6.1.4.1.818.1.1.18.6.2.1.3"
+  },
+  {
+    "upsWellKnownAlarmseighth": "1.3.6.1.4.1.818.1.1.18.6.3"
+  },
+  {
+    "upsAlarmBatteryBadeighth": "1.3.6.1.4.1.818.1.1.18.6.3.1"
+  },
+  {
+    "upsAlarmOnBatteryeighth": "1.3.6.1.4.1.818.1.1.18.6.3.2"
+  },
+  {
+    "upsAlarmLowBatteryeighth": "1.3.6.1.4.1.818.1.1.18.6.3.3"
+  },
+  {
+    "upsAlarmDepletedBatteryeighth": "1.3.6.1.4.1.818.1.1.18.6.3.4"
+  },
+  {
+    "upsAlarmTempBadeighth": "1.3.6.1.4.1.818.1.1.18.6.3.5"
+  },
+  {
+    "upsAlarmInputBadeighth": "1.3.6.1.4.1.818.1.1.18.6.3.6"
+  },
+  {
+    "upsAlarmOutputBadeighth": "1.3.6.1.4.1.818.1.1.18.6.3.7"
+  },
+  {
+    "upsAlarmOutputOverloadeighth": "1.3.6.1.4.1.818.1.1.18.6.3.8"
+  },
+  {
+    "upsAlarmOnBypasseighth": "1.3.6.1.4.1.818.1.1.18.6.3.9"
+  },
+  {
+    "upsAlarmBypassBadeighth": "1.3.6.1.4.1.818.1.1.18.6.3.10"
+  },
+  {
+    "upsAlarmOutputOffAsRequestedeighth": "1.3.6.1.4.1.818.1.1.18.6.3.11"
+  },
+  {
+    "upsAlarmUpsOffAsRequestedeighth": "1.3.6.1.4.1.818.1.1.18.6.3.12"
+  },
+  {
+    "upsAlarmChargerFailedeighth": "1.3.6.1.4.1.818.1.1.18.6.3.13"
+  },
+  {
+    "upsAlarmUpsOutputOffeighth": "1.3.6.1.4.1.818.1.1.18.6.3.14"
+  },
+  {
+    "upsAlarmUpsSystemOffeighth": "1.3.6.1.4.1.818.1.1.18.6.3.15"
+  },
+  {
+    "upsAlarmFanFailureeighth": "1.3.6.1.4.1.818.1.1.18.6.3.16"
+  },
+  {
+    "upsAlarmFuseFailureeighth": "1.3.6.1.4.1.818.1.1.18.6.3.17"
+  },
+  {
+    "upsAlarmGeneralFaulteighth": "1.3.6.1.4.1.818.1.1.18.6.3.18"
+  },
+  {
+    "upsAlarmDiagnosticTestFailedeighth": "1.3.6.1.4.1.818.1.1.18.6.3.19"
+  },
+  {
+    "upsAlarmCommunicationsLosteighth": "1.3.6.1.4.1.818.1.1.18.6.3.20"
+  },
+  {
+    "upsAlarmAwaitingPowereighth": "1.3.6.1.4.1.818.1.1.18.6.3.21"
+  },
+  {
+    "upsAlarmShutdownPendingeighth": "1.3.6.1.4.1.818.1.1.18.6.3.22"
+  },
+  {
+    "upsAlarmShutdownImminenteighth": "1.3.6.1.4.1.818.1.1.18.6.3.23"
+  },
+  {
+    "upsAlarmTestInProgresseighth": "1.3.6.1.4.1.818.1.1.18.6.3.24"
+  },
+  {
+    "upsAlarmReceptacleOffeighth": "1.3.6.1.4.1.818.1.1.18.6.3.25"
+  },
+  {
+    "upsAlarmHighSpeedBusFailureeighth": "1.3.6.1.4.1.818.1.1.18.6.3.26"
+  },
+  {
+    "upsAlarmHighSpeedBusJACRCFailureeighth": "1.3.6.1.4.1.818.1.1.18.6.3.27"
+  },
+  {
+    "upsAlarmConnectivityBusFailureeighth": "1.3.6.1.4.1.818.1.1.18.6.3.28"
+  },
+  {
+    "upsAlarmHighSpeedBusJBCRCFailureeighth": "1.3.6.1.4.1.818.1.1.18.6.3.29"
+  },
+  {
+    "upsAlarmCurrentSharingeighth": "1.3.6.1.4.1.818.1.1.18.6.3.30"
+  },
+  {
+    "upsAlarmDCRippleeighth": "1.3.6.1.4.1.818.1.1.18.6.3.31"
+  },
+  {
+    "upsAlarmMaskAeighth": "1.3.6.1.4.1.818.1.1.18.6.4"
+  },
+  {
+    "upsTesteighth": "1.3.6.1.4.1.818.1.1.18.7"
+  },
+  {
+    "upsTestIdeighth": "1.3.6.1.4.1.818.1.1.18.7.1"
+  },
+  {
+    "upsTestSpinLockeighth": "1.3.6.1.4.1.818.1.1.18.7.2"
+  },
+  {
+    "upsTestResultsSummaryeighth": "1.3.6.1.4.1.818.1.1.18.7.3"
+  },
+  {
+    "upsTestResultsDetaileighth": "1.3.6.1.4.1.818.1.1.18.7.4"
+  },
+  {
+    "upsTestStartTimeeighth": "1.3.6.1.4.1.818.1.1.18.7.5"
+  },
+  {
+    "upsTestElapsedTimeeighth": "1.3.6.1.4.1.818.1.1.18.7.6"
+  },
+  {
+    "upsWellKnownTestseighth": "1.3.6.1.4.1.818.1.1.18.7.7"
+  },
+  {
+    "upsTestNoTestsInitiatedeighth": "1.3.6.1.4.1.818.1.1.18.7.7.1"
+  },
+  {
+    "upsTestAbortTestInProgresseighth": "1.3.6.1.4.1.818.1.1.18.7.7.2"
+  },
+  {
+    "upsTestGeneralSystemsTesteighth": "1.3.6.1.4.1.818.1.1.18.7.7.3"
+  },
+  {
+    "upsTestQuickBatteryTesteighth": "1.3.6.1.4.1.818.1.1.18.7.7.4"
+  },
+  {
+    "upsTestDeepBatteryCalibrationeighth": "1.3.6.1.4.1.818.1.1.18.7.7.5"
+  },
+  {
+    "upsControleighth": "1.3.6.1.4.1.818.1.1.18.8"
+  },
+  {
+    "upsShutdownTypeeighth": "1.3.6.1.4.1.818.1.1.18.8.1"
+  },
+  {
+    "upsShutdownAfterDelayeighth": "1.3.6.1.4.1.818.1.1.18.8.2"
+  },
+  {
+    "upsStartupAfterDelayeighth": "1.3.6.1.4.1.818.1.1.18.8.3"
+  },
+  {
+    "upsRebootWithDurationeighth": "1.3.6.1.4.1.818.1.1.18.8.4"
+  },
+  {
+    "upsAutoRestarteighth": "1.3.6.1.4.1.818.1.1.18.8.5"
+  },
+  {
+    "upsReceptaclesNumeighth": "1.3.6.1.4.1.818.1.1.18.8.6"
+  },
+  {
+    "upsReceptacleEighthTable": "1.3.6.1.4.1.818.1.1.18.8.7"
+  },
+  {
+    "upsReceptacleEighthEntry": "1.3.6.1.4.1.818.1.1.18.8.7.1"
+  },
+  {
+    "upsReceptacleLineIndexeighth": "1.3.6.1.4.1.818.1.1.18.8.7.1.1"
+  },
+  {
+    "upsReceptacleOnOffeighth": "1.3.6.1.4.1.818.1.1.18.8.7.1.2"
+  },
+  {
+    "upsUPSModeeighth": "1.3.6.1.4.1.818.1.1.18.8.8"
+  },
+  {
+    "upsRectifierOnOffeighth": "1.3.6.1.4.1.818.1.1.18.8.9"
+  },
+  {
+    "upsBatteryChargeMethodeighth": "1.3.6.1.4.1.818.1.1.18.8.10"
+  },
+  {
+    "upsInverterOnOffeighth": "1.3.6.1.4.1.818.1.1.18.8.11"
+  },
+  {
+    "upsBypassOnOffeighth": "1.3.6.1.4.1.818.1.1.18.8.12"
+  },
+  {
+    "upsLoadSourceeighth": "1.3.6.1.4.1.818.1.1.18.8.13"
+  },
+  {
+    "upsConfigeighth": "1.3.6.1.4.1.818.1.1.18.9"
+  },
+  {
+    "upsConfigInputVoltageeighth": "1.3.6.1.4.1.818.1.1.18.9.1"
+  },
+  {
+    "upsConfigInputFreqeighth": "1.3.6.1.4.1.818.1.1.18.9.2"
+  },
+  {
+    "upsConfigOutputVoltageeighth": "1.3.6.1.4.1.818.1.1.18.9.3"
+  },
+  {
+    "upsConfigOutputFreqeighth": "1.3.6.1.4.1.818.1.1.18.9.4"
+  },
+  {
+    "upsConfigOutputVAeighth": "1.3.6.1.4.1.818.1.1.18.9.5"
+  },
+  {
+    "upsConfigOutputPowereighth": "1.3.6.1.4.1.818.1.1.18.9.6"
+  },
+  {
+    "upsConfigLowBattTimeeighth": "1.3.6.1.4.1.818.1.1.18.9.7"
+  },
+  {
+    "upsConfigAudibleStatuseighth": "1.3.6.1.4.1.818.1.1.18.9.8"
+  },
+  {
+    "upsConfigLowVoltageTransferPointeighth": "1.3.6.1.4.1.818.1.1.18.9.9"
+  },
+  {
+    "upsConfigHighVoltageTransferPointeighth": "1.3.6.1.4.1.818.1.1.18.9.10"
+  },
+  {
+    "upsConfigBatteryCapacityeighth": "1.3.6.1.4.1.818.1.1.18.9.11"
+  },
+  {
+    "upsConfigBatteryChargeCurrenteighth": "1.3.6.1.4.1.818.1.1.18.9.12"
+  },
+  {
+    "upsConfigNoLoadShutdowneighth": "1.3.6.1.4.1.818.1.1.18.9.13"
+  },
+  {
+    "upsConfigStartDelayeighth": "1.3.6.1.4.1.818.1.1.18.9.14"
+  },
+  {
+    "upsGetSeteighth": "1.3.6.1.4.1.818.1.1.18.10"
+  },
+  {
+    "upsEventGetNexteighth": "1.3.6.1.4.1.818.1.1.18.10.1"
+  },
+  {
+    "upsEventGetPreviouseighth": "1.3.6.1.4.1.818.1.1.18.10.2"
+  },
+  {
+    "upsEventSetStartingTimeStampeighth": "1.3.6.1.4.1.818.1.1.18.10.3"
+  },
+  {
+    "upsEventRetreiveCurrentTimeStampeighth": "1.3.6.1.4.1.818.1.1.18.10.4"
+  },
+  {
+    "upsEventTableSizeeighth": "1.3.6.1.4.1.818.1.1.18.10.5"
+  },
+  {
+    "upsEventEighthTable": "1.3.6.1.4.1.818.1.1.18.10.6"
+  },
+  {
+    "upsEventEighthEntry": "1.3.6.1.4.1.818.1.1.18.10.6.1"
+  },
+  {
+    "upsEventLineIndexeighth": "1.3.6.1.4.1.818.1.1.18.10.6.1.1"
+  },
+  {
+    "upsEventCodeeighth": "1.3.6.1.4.1.818.1.1.18.10.6.1.2"
+  },
+  {
+    "upsEventStatuseighth": "1.3.6.1.4.1.818.1.1.18.10.6.1.3"
+  },
+  {
+    "upsEventTimeeighth": "1.3.6.1.4.1.818.1.1.18.10.6.1.4"
+  },
+  {
+    "upsParametersReadeighth": "1.3.6.1.4.1.818.1.1.18.10.7"
+  },
+  {
+    "upsParametersWriteeighth": "1.3.6.1.4.1.818.1.1.18.10.8"
+  },
+  {
+    "upsParametersStartAddresseighth": "1.3.6.1.4.1.818.1.1.18.10.9"
+  },
+  {
+    "upsParameterTableSizeeighth": "1.3.6.1.4.1.818.1.1.18.10.10"
+  },
+  {
+    "upsParameterEighthTable": "1.3.6.1.4.1.818.1.1.18.10.11"
+  },
+  {
+    "upsParameterEighthEntry": "1.3.6.1.4.1.818.1.1.18.10.11.1"
+  },
+  {
+    "upsParameterLineIndexeighth": "1.3.6.1.4.1.818.1.1.18.10.11.1.1"
+  },
+  {
+    "upsParameterValueeighth": "1.3.6.1.4.1.818.1.1.18.10.11.1.2"
+  },
+  {
+    "upsStatuseighth": "1.3.6.1.4.1.818.1.1.18.10.12"
+  },
+  {
+    "upsMainsStatisticsMBfaileighth": "1.3.6.1.4.1.818.1.1.18.10.13"
+  },
+  {
+    "upsMainsStatisticsMRfaileighth": "1.3.6.1.4.1.818.1.1.18.10.14"
+  },
+  {
+    "upsMainsStatisticsB2eighth": "1.3.6.1.4.1.818.1.1.18.10.15"
+  },
+  {
+    "upsMainsStatisticsB5eighth": "1.3.6.1.4.1.818.1.1.18.10.16"
+  },
+  {
+    "upsMainsStatisticsB10eighth": "1.3.6.1.4.1.818.1.1.18.10.17"
+  },
+  {
+    "upsMainsStatisticsB200eighth": "1.3.6.1.4.1.818.1.1.18.10.18"
+  },
+  {
+    "upsMainsStatisticsBypReleighth": "1.3.6.1.4.1.818.1.1.18.10.19"
+  },
+  {
+    "upsTimeeighth": "1.3.6.1.4.1.818.1.1.18.10.20"
+  },
+  {
+    "upsRequestPermissioneighth": "1.3.6.1.4.1.818.1.1.18.10.21"
+  },
+  {
+    "upsEventGetCodeeighth": "1.3.6.1.4.1.818.1.1.18.10.22"
+  },
+  {
+    "upsEventSpinLockeighth": "1.3.6.1.4.1.818.1.1.18.10.23"
+  },
+  {
+    "upsParameterSpinLockeighth": "1.3.6.1.4.1.818.1.1.18.10.24"
+  },
+  {
+    "geUPSTrapseighth": "1.3.6.1.4.1.818.1.1.18.11"
+  },
+  {
+    "upsTrapAlarmBatteryBadeighth": "1.3.6.1.4.1.818.1.1.18.11.1"
+  },
+  {
+    "upsTrapAlarmOnBatteryeighth": "1.3.6.1.4.1.818.1.1.18.11.2"
+  },
+  {
+    "upsTrapAlarmLowBatteryeighth": "1.3.6.1.4.1.818.1.1.18.11.3"
+  },
+  {
+    "upsTrapAlarmDepletedBatteryeighth": "1.3.6.1.4.1.818.1.1.18.11.4"
+  },
+  {
+    "upsTrapAlarmTempBadeighth": "1.3.6.1.4.1.818.1.1.18.11.5"
+  },
+  {
+    "upsTrapAlarmInputBadeighth": "1.3.6.1.4.1.818.1.1.18.11.6"
+  },
+  {
+    "upsTrapAlarmOutputBadeighth": "1.3.6.1.4.1.818.1.1.18.11.7"
+  },
+  {
+    "upsTrapAlarmOutputOverloadeighth": "1.3.6.1.4.1.818.1.1.18.11.8"
+  },
+  {
+    "upsTrapAlarmOnBypasseighth": "1.3.6.1.4.1.818.1.1.18.11.9"
+  },
+  {
+    "upsTrapAlarmBypassBadeighth": "1.3.6.1.4.1.818.1.1.18.11.10"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequestedeighth": "1.3.6.1.4.1.818.1.1.18.11.11"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequestedeighth": "1.3.6.1.4.1.818.1.1.18.11.12"
+  },
+  {
+    "upsTrapAlarmChargerFailedeighth": "1.3.6.1.4.1.818.1.1.18.11.13"
+  },
+  {
+    "upsTrapAlarmUpsOutputOffeighth": "1.3.6.1.4.1.818.1.1.18.11.14"
+  },
+  {
+    "upsTrapAlarmUpsSystemOffeighth": "1.3.6.1.4.1.818.1.1.18.11.15"
+  },
+  {
+    "upsTrapAlarmFanFailureeighth": "1.3.6.1.4.1.818.1.1.18.11.16"
+  },
+  {
+    "upsTrapAlarmFuseFailureeighth": "1.3.6.1.4.1.818.1.1.18.11.17"
+  },
+  {
+    "upsTrapAlarmGeneralFaulteighth": "1.3.6.1.4.1.818.1.1.18.11.18"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailedeighth": "1.3.6.1.4.1.818.1.1.18.11.19"
+  },
+  {
+    "upsTrapAlarmCommunicationsLosteighth": "1.3.6.1.4.1.818.1.1.18.11.20"
+  },
+  {
+    "upsTrapAlarmAwaitingPowereighth": "1.3.6.1.4.1.818.1.1.18.11.21"
+  },
+  {
+    "upsTrapAlarmShutdownPendingeighth": "1.3.6.1.4.1.818.1.1.18.11.22"
+  },
+  {
+    "upsTrapAlarmShutdownImminenteighth": "1.3.6.1.4.1.818.1.1.18.11.23"
+  },
+  {
+    "upsTrapAlarmTestInProgresseighth": "1.3.6.1.4.1.818.1.1.18.11.24"
+  },
+  {
+    "upsTrapAlarmReceptacleOffeighth": "1.3.6.1.4.1.818.1.1.18.11.25"
+  },
+  {
+    "upsTrapAlarmHighspeedBusFailureeighth": "1.3.6.1.4.1.818.1.1.18.11.26"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCFailureeighth": "1.3.6.1.4.1.818.1.1.18.11.27"
+  },
+  {
+    "upsTrapAlarmConnectivityBusFailureeighth": "1.3.6.1.4.1.818.1.1.18.11.28"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCFailureeighth": "1.3.6.1.4.1.818.1.1.18.11.29"
+  },
+  {
+    "upsTrapAlarmCurrentSharingFailureeighth": "1.3.6.1.4.1.818.1.1.18.11.30"
+  },
+  {
+    "upsTrapAlarmDCRippleFailureeighth": "1.3.6.1.4.1.818.1.1.18.11.31"
+  },
+  {
+    "upsTrapAlarmBatteryBadRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.33"
+  },
+  {
+    "upsTrapAlarmOnBatteryRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.34"
+  },
+  {
+    "upsTrapAlarmLowBatteryRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.35"
+  },
+  {
+    "upsTrapAlarmDepletedBatteryRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.36"
+  },
+  {
+    "upsTrapAlarmTempBadRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.37"
+  },
+  {
+    "upsTrapAlarmInputBadRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.38"
+  },
+  {
+    "upsTrapAlarmOutputBadRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.39"
+  },
+  {
+    "upsTrapAlarmOutputOverloadRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.40"
+  },
+  {
+    "upsTrapAlarmOnBypassRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.41"
+  },
+  {
+    "upsTrapAlarmBypassBadRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.42"
+  },
+  {
+    "upsTrapAlarmOutputOffAsRequestedRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.43"
+  },
+  {
+    "upsTrapAlarmUpsOffAsRequestedRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.44"
+  },
+  {
+    "upsTrapAlarmChargerFailedRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.45"
+  },
+  {
+    "upsTrapAlarmUpsOutputOneighth": "1.3.6.1.4.1.818.1.1.18.11.46"
+  },
+  {
+    "upsTrapAlarmUpsSystemOneighth": "1.3.6.1.4.1.818.1.1.18.11.47"
+  },
+  {
+    "upsTrapAlarmFanFailureRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.48"
+  },
+  {
+    "upsTrapAlarmFuseFailureRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.49"
+  },
+  {
+    "upsTrapAlarmGeneralFaultRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.50"
+  },
+  {
+    "upsTrapAlarmDiagnosticTestFailedRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.51"
+  },
+  {
+    "upsTrapAlarmCommunicationsLostRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.52"
+  },
+  {
+    "upsTrapAlarmAwaitingPowerRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.53"
+  },
+  {
+    "upsTrapAlarmShutdownPendingRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.54"
+  },
+  {
+    "upsTrapAlarmShutdownImminentRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.55"
+  },
+  {
+    "upsTrapAlarmTestInProgressRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.56"
+  },
+  {
+    "upsTrapAlarmReceptacleOneighth": "1.3.6.1.4.1.818.1.1.18.11.57"
+  },
+  {
+    "upsTrapAlarmHighspeedBusRestoreeighth": "1.3.6.1.4.1.818.1.1.18.11.58"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJACRCRestoreeighth": "1.3.6.1.4.1.818.1.1.18.11.59"
+  },
+  {
+    "upsTrapAlarmConnectivityBusRestoreeighth": "1.3.6.1.4.1.818.1.1.18.11.60"
+  },
+  {
+    "upsTrapAlarmHighspeedBusJBCRCRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.61"
+  },
+  {
+    "upsTrapAlarmCurrentSharingRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.62"
+  },
+  {
+    "upsTrapAlarmDCRippleRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.63"
+  },
+  {
+    "upsTrapAlarmValueLoweighth": "1.3.6.1.4.1.818.1.1.18.11.129"
+  },
+  {
+    "upsTrapAlarmValueHigheighth": "1.3.6.1.4.1.818.1.1.18.11.130"
+  },
+  {
+    "upsTrapAlarmValueLowRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.133"
+  },
+  {
+    "upsTrapAlarmValueHighRestoredeighth": "1.3.6.1.4.1.818.1.1.18.11.134"
+  },
+  {
+    "upsDiagnosticeighth": "1.3.6.1.4.1.818.1.1.18.12"
+  },
+  {
+    "upsDiagnosticBusJACommunicationStatuseighth": "1.3.6.1.4.1.818.1.1.18.12.1"
+  },
+  {
+    "upsDiagnosticBusJBCommunicationStatuseighth": "1.3.6.1.4.1.818.1.1.18.12.2"
+  },
+  {
+    "upsDiagnosticBatteryLifetimeeighth": "1.3.6.1.4.1.818.1.1.18.12.3"
+  },
+  {
+    "upsDiagnosticFansLifetimeeighth": "1.3.6.1.4.1.818.1.1.18.12.4"
+  },
+  {
+    "upsDiagnosticDCcapacitorsLifetimeeighth": "1.3.6.1.4.1.818.1.1.18.12.5"
+  },
+  {
+    "upsDiagnosticACcapacitorsLifetimeeighth": "1.3.6.1.4.1.818.1.1.18.12.6"
+  },
+  {
+    "upsDiagnosticGlobalServiceCheckeighth": "1.3.6.1.4.1.818.1.1.18.12.7"
+  }
+]

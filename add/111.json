@@ -1,0 +1,5 @@
+{
+  "status": "error",
+  "error": "error reading from socket: read udp 127.0.0.1:62276->127.0.0.1:161: recvfrom: connection refused",
+  "version": "0.0.1"
+}
